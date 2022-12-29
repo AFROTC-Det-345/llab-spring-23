@@ -1,35 +1,35 @@
 ## SQUADRON STAFF
-### Squadron Commander  (345 CSQ/CC) – C/Col John Augusta 
-**Function:** Directs all actions of the Detachment 345 CW IAW guidance provided by the Detachment 345 Commander, OFC, and AFROTC instructions.  
+### Squadron Commander  (345 CSQ/CC) – C/Col John Augusta
+**Function:** Directs all actions of the Detachment 345 CW IAW guidance provided by the Detachment 345 Commander, OFC, and AFROTC instructions.
 
-**Reports to:** OFC  
+**Reports to:** OFC
 
-**Duties:** The (CSQ/CC) is responsible for:  
-1. Executing the detachment mission. Leading  detachment members. Managing detachment resources, and improving the unit.  
-2. Providing the CSQ with vision and direction in pursuit of spring 2023 detachment goals.  
-3. Reporting the status of the CSQ to Cadre.  
-4. Ensuring the CSQ accomplishes the objectives as outlined by the AFROTCI 36-2011 Volume 1 Academic Year 2022-2023.  
-5. Execute the initiatives established in the Academic Year 2021-2023 Mission Directive.  
-6. Supervising and delegating duties to subordinate staff.  
-7. Maintaining communication with (EXEC) to receive updates on special projects and SQ participation.  
+**Duties:** The (CSQ/CC) is responsible for:
+1. Executing the detachment's mission, leading detachment members, managing detachment resources, and improving the unit.
+2. Providing the CSQ with vision and direction in pursuit of spring 2023 detachment goals.
+3. Reporting the status of the CSQ to Cadre.
+4. Ensuring the CSQ accomplishes the objectives as outlined by the AFROTCI 36-2011 Volume 1 Academic Year 2022-2023.
+5. Execute the initiatives established in the Academic Year 2021-2023 Mission Directive.
+6. Supervising and delegating duties to subordinate staff.
+7. Maintaining communication with (EXEC) to receive updates on special projects and SQ participation.
 
 **Deliverables:**  
-1. Deliver a briefing to the CW on the mission and vision statement during LLAB #1.  
-2. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.  
-3. Sign the completed weekly OPORD with the (CSQ/UTM) prior to the start of the weekly PMT activities.  
-4. Submit weekly OPORD NLT three days prior to the week of execution to the OFC for review/approval, will be established as part of POC Teams workflow.  5. Prepare and present status of CSQ to OFC during weekly staff meetings.  
-6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).  
+1. Deliver a briefing to the CW on the mission and vision statement during LLAB #1.
+2. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
+3. Sign the completed weekly OPORD with the (CSQ/UTM) prior to the start of the weekly PMT activities.
+4. Submit weekly OPORD NLT three days prior to the week of execution to the OFC for review/approval, will be established as part of POC Teams workflow.  5. Prepare and present status of CSQ to OFC during weekly staff meetings.
+6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
 
 ### Director of Operations (345 CSQ/DO) – C/Col Alessandra Ramirez
-**Function:** Advises and supports CSQ/CC in the direction of all actions for the CSQ.  
+**Function:** Advises and supports CSQ/CC in the direction of all actions for the CSQ.
 
-**Reports to:** (345 CSQ/CC)  
+**Reports to:** (345 CSQ/CC)
 
-**Duties:** The CSQ/DO is responsible for:  
-1. Assuming command of the CW in the absence of the CW/CC.  
-2. Directing oversight of Training Flight, Training Support Flight, and Recruiting Flight.  
-3. Point of contact for all joint-detachment coordination unless delegated.  
-4. Track all CSQ deliverables and facilitate weekly updates from appropriate POC cadets at weekly POC meetings.  
+**Duties:** The CSQ/DO is responsible for:
+1. Assuming command of the CW in the absence of the CW/CC.
+2. Directing oversight of Training Flight, Training Support Flight, and Recruiting Flight.
+3. Point of contact for all joint-detachment coordination unless delegated.
+4. Track all CSQ deliverables and facilitate weekly updates from appropriate POC cadets at weekly POC meetings.
 
 **Deliverables:**  
 1. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
@@ -40,9 +40,9 @@
 ### Executive Officer (345 CSQ/CCE) – C/Col Robert Crowley
 **Function:** Oversees and supports administrative efforts for Cadet Squadron Leadership and oversees Honor Guard.
 
-**Reports to: C**SQ/CC
+**Reports to:** CSQ/CC
 
-**Duties:** The Exec is responsible for:
+**Duties:** The Executive Officer is responsible for:
 1.  Tracking required missed PMT memos for all cadets and making sure they are completed correctly before routing them to CSQ/CC.
 2.  Complete LLAB Hotwash debrief at weekly POC meetings.
 3.  Oversees all Honor Guard events and activities.
@@ -55,43 +55,28 @@
 2.  Send out weekly POC PMT feedback surveys NLT Wednesday.
 3.  Delivering all Missed PMT memos to OFC NLT Friday.
 
-### **Cadet Squadron Inspector General (345 CSQ/IG) – C/Lt Col** **Jacob Villeneuve**
+### Cadet Squadron Inspector General (345 CSQ/IG) – C/Lt Col Jacob Villeneuve
+**Function:** Serves as the point of contact for safety, mal-training, and honor code concerns outside of the chain of command and promotes cadet readiness.
 
-**Function:** Serves as the point of contact for safety, mal-training, and honor code concerns
-
-outside of the chain of command and promotes cadet readiness.
-
-**Reports to:** **(345 CSQ/CC)**
+**Reports to:** (345 CSQ/CC)
 
 **Duties:** The CSQ/IG is responsible for:
-
-1.     Actively monitoring training environments to ensure zero-tolerance policy is upheld.
-
-2.     Handling grievances that fall outside the CSQ chain of command.
-
-3.     Reporting any concerns regarding mal-training to the Det/CC and OFC.
-
-4.     Delivering GMC LLAB feedback to CSQ leadership during POC meetings.
-
-5.     Executing a total CSQ recall in the event of an emergency or if necessity dictates.
-
-6.     Overseeing the cadet mentorship program IAW AFROTCI 36-2011 V1, objective 12.2.
-
-7.     Supporting the Arnold Air Society Squadron Commander in promotion of AAS activities, and training events.
+1. Actively monitoring training environments to ensure zero-tolerance policy is upheld.
+2. Handling grievances that fall outside the CSQ chain of command.
+3. Reporting any concerns regarding mal-training to the Det/CC and OFC.
+4. Delivering GMC LLAB feedback to CSQ leadership during POC meetings.
+5. Executing a total CSQ recall in the event of an emergency or if necessity dictates.
+6. Overseeing the cadet mentorship program IAW AFROTCI 36-2011 V1, objective 12.2.
+7. Supporting the Arnold Air Society Squadron Commander in promotion of AAS activities, and training events.
 
 **Deliverables:**
+1. Deliver a brief to the CSQ on the role of the CSQ Inspector General during LLAB #2.
+2. Review and modify the Fall 2022 Mentor Program for use during Spring 2023 NLT LLAB #3.
+3. Deliver a briefing to the CSQ on the mentorship program during LLAB #3.
+4. Conduct health and wellness checks on POC at weekly POC meetings.
+5. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
 
-1.     Deliver a brief to the CSQ on the role of the CSQ Inspector General during LLAB #2.
-
-2.     Review and modify the Fall 2022 Mentor Program for use during Spring 2023 NLT LLAB #3.
-
-3.     Deliver a briefing to the CSQ on the mentorship program during LLAB #3.
-
-4.     Conduct health and wellness checks on POC at weekly POC meetings.
-
-5.     Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
-
- ### **Cadet First Sergeant** **(345 CSQ/CCF) – C/3C Samantha Spaziano**
+### First Sergeant (345 CSQ/CCF) – C/3C Samantha Spaziano
 
 **Function:** Provide mentorship and advice to all GMC cadets. Serves as point of contact for GMC to express thoughts and opinions so SQ leadership can understand their honest perspective.
 
