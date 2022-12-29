@@ -211,7 +211,7 @@
 ### Flight Trainer (345 CSQ/TOFT) – C/Capt Cam Ellis, C/Capt Kosta Stavridis
 **Function:** Trains, leads, and mentors AS100, AS200, AS250, and AS500 cadets during PMT.
 
-**Reports to:** (345 TOF/CC)
+**Reports to:** 345 CSQ/TOF
 
 **Duties:** The TOF/TRN is responsible for:
 1. Tracking flight accountability at all PMT events on CW Accountability Tracker, and reporting it to Training Ops Flt/CC prior to the start of PMT.
@@ -232,41 +232,27 @@
 6. Assist Training Ops Flt/CC in preparing LLAB, IMT, and FTP plans for submission to (TOF/CC) NLT five days before the week of execution.
 7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
 
-### **Unit Fitness Program Manager (345 CDS/UFPM) – C/Capt Seth Perry**
-
+### Unit Fitness Program Manager (345 CDS/UFPM) – C/Capt Seth Perry
 **Function:** To plan, coordinate, and execute the CDS Physical Training program.
 
-**Reports to:** (TOF/CC)
+**Reports to:** 345 CSQ/TOF
 
-**Duties:** The CDS/UFPM is responsible for:
-
-1.     Promoting a holistic fitness environment where cadets want to show up for PT, and that all members of the CDS see improvement week after week.
-
-2.     Overseeing the Spring 2023 PT program by developing workout plans for each PT session.
-
-3.     Preparing cadets to meet the Air Force Physical Fitness Assessment standards.
-
-4.     Educating cadets on UMass Lowell fitness resources (nutrition counseling, personal training, and intramural sports, etc.).
-
-5.     Ensuring height/weight measurements and Fitness Screening Questionnaires are completed no earlier than 72 hours prior to the start of an official PFA.
-
-6.     Instructing cadets on proper form for calisthenics, stretching, and running.
-
-7.     Overseeing PT sessions that emphasize team building and Esprit de Corps.
-
-8.     Delegating to and evaluating Physical Training Liaisons.
-
-9.     Ensuring proper verbiage for formation during PT is used as illustrated in the most current Field Training Manual.
+**Duties:** The Unit Fitness Program Manager is responsible for:
+1. Promoting a holistic fitness environment where cadets want to show up for PT, and that all members of the CDS see improvement week after week.
+2. Overseeing the Spring 2023 PT program by developing workout plans for each PT session.
+3. Preparing cadets to meet the Air Force Physical Fitness Assessment standards.
+4. Educating cadets on UMass Lowell fitness resources (nutrition counseling, personal training, and intramural sports, etc.).
+5. Ensuring height/weight measurements and Fitness Screening Questionnaires are completed no earlier than 72 hours prior to the start of an official PFA.
+6. Instructing cadets on proper form for calisthenics, stretching, and running.
+7. Overseeing PT sessions that emphasize team building and Esprit de Corps.
+8. Delegating to and evaluating Physical Training Liaisons.
+9. Ensuring proper verbiage for formation during PT is used as illustrated in the most current Field Training Manual.
 
 **Deliverables:**  
-
-1.     Submit draft of Spring 2023 PT plan to the TOF/CC and CDS/CC NLT 04 January 2023.
-
-2.     Establish a simple to use method for cross-town cadets, and any cadet that misses PT to track their weekly exercises NLT ?? January 2023 (Google Form, etc.).
-
-4.     Submit weekly PT portion of OPORD to (CSQ/UTM) NLT five days prior to the week of execution.
-
-5.     Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
+1. Submit draft of Spring 2023 PT plan to the TOF/CC and CDS/CC NLT 04 January 2023.
+2. Establish a simple to use method for cross-town cadets, and any cadet that misses PT to track their weekly exercises NLT ?? January 2023 (Google Form, etc.).
+3. Submit weekly PT portion of OPORD to (CSQ/UTM) NLT five days prior to the week of execution.
+4. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
 
 ###  **Cadet Squadron Health and Safety Officer**
 
