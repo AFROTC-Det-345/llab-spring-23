@@ -113,43 +113,29 @@
 5. Provide feedback on training and highlight cadets of concern at weekly POC meetings.
 6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
 
-### **Readiness and Plans Officer (345 CSQ/RPO) – C/Lt Col Xi Xiao**
+### Readiness and Plans Officer (345 CSQ/XP) – C/Lt Col Xi Xiao
 
 **Function:** Oversees CSQ standards and evaluations. Tracks all items that influence end of the semester flight or individual awards. Tracks readiness for the squadron.
 
-**Reports to: C**SQ/DO
+**Reports to:** CSQ/DO
 
-**Duties:** The CSQ/RPO is responsible for:
-
-1.     Track flight award progress, to include uniform inspections, Warrior Boards, PFA, community service/morale events, etc.
-
-2.     Orchestrating standardized uniform inspections for GMC and receiving and tracking the results of these inspections.
-
-3.     Working directly with flight commanders in development of flight standardization documents and enforcing them at PMT.
-
-4.     Preparing and implementing a Warrior Knowledge curriculum executed through a weekly Warrior Board, to be tracked for flight awards.
-
-5.     Tracking after action reports that are created by cadets in charge of the respective community/morale event.
-
-6.     Tracking after action reports for special PMT events like FLX or War Gaming.
-
-7.     Track readiness status of all Squadron cadets.
+**Duties:** The CSQ/XP is responsible for:
+1. Track flight award progress, to include uniform inspections, Warrior Boards, PFA, community service/morale events, etc.
+2. Orchestrating standardized uniform inspections for GMC and receiving and tracking the results of these inspections.
+3. Working directly with flight commanders in development of flight standardization documents and enforcing them at PMT.
+4. Preparing and implementing a Warrior Knowledge curriculum executed through a weekly Warrior Board, to be tracked for flight awards.
+5. Tracking after action reports that are created by cadets in charge of the respective community/morale event.
+6. Tracking after action reports for special PMT events like FLX or War Gaming.
+7. Track readiness status of all Squadron cadets.
 
 **Deliverables:**  
-
-1.     Approving standardization documents from Training Operations Flight NLT LLAB #2.
-
-2.     Brief CSQ leadership and OFC on award tracking status weekly.
-
-3.     Update Uniform Inspection Tracker weekly.
-
-4.     Send out a squadron readiness email monthly.
-
-5.     Determine mid-semester flight awards NLT ?? February 2023.
-
-6.     Determine end-of-semester flight awards individual awards NLT LLAB #12.
-
-7.     Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
+1. Approving standardization documents from Training Operations Flight NLT LLAB #2.
+2. Brief CSQ leadership and OFC on award tracking status weekly.
+3. Update Uniform Inspection Tracker weekly.
+4. Send out a squadron readiness email monthly.
+5. Determine mid-semester flight awards NLT ?? February 2023.
+6. Determine end-of-semester flight awards individual awards NLT LLAB #12.
+7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
 
 ## ****RECRUITING AND RETENTION FLIGHT****
 
