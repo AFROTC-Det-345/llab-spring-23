@@ -2,7 +2,9 @@
 
 ### Cadet Squadron Commander  (345 CSQ/CC) – C/Col John Augusta 
 **Function:** Directs all actions of the Detachment 345 CW IAW guidance provided by the Detachment 345 Commander, OFC, and AFROTC instructions.  
+
 **Reports to:** OFC  
+
 **Duties:** The (CSQ/CC) is responsible for:  
 1. Executing the detachment mission. Leading  detachment members. Managing detachment resources, and improving the unit.  
 2. Providing the CSQ with vision and direction in pursuit of spring 2023 detachment goals.  
@@ -11,6 +13,7 @@
 5. Execute the initiatives established in the Academic Year 2021-2023 Mission Directive.  
 6. Supervising and delegating duties to subordinate staff.  
 7. Maintaining communication with (EXEC) to receive updates on special projects and SQ participation.  
+
 **Deliverables:**  
 1. Deliver a briefing to the CW on the mission and vision statement during LLAB #1.  
 2. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.  
