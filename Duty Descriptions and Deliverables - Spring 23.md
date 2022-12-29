@@ -264,7 +264,7 @@
 6. Assist Training Ops Flt/CC in preparing LLAB, IMT, and FTP plans for submission to (TOF/CC) NLT five days before the week of execution.
 7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
 
-### Unit Fitness Program Manager (345 CDS/UFPM) – C/Capt Seth Perry
+### Unit Fitness Program Manager (345 CSQ/UFPM) – C/Capt Seth Perry
 **Function:** To plan, coordinate, and execute the CDS Physical Training program.
 
 **Reports to:** 345 CSQ/TOF
