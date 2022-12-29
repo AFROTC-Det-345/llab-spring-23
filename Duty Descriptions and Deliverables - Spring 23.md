@@ -6,20 +6,20 @@
 **Reports to:** OFC  
 
 **Duties:** The (CSQ/CC) is responsible for:  
-1. Executing the detachment mission. Leading  detachment members. Managing detachment resources, and improving the unit.  
-2. Providing the CSQ with vision and direction in pursuit of spring 2023 detachment goals.  
-3. Reporting the status of the CSQ to Cadre.  
-4. Ensuring the CSQ accomplishes the objectives as outlined by the AFROTCI 36-2011 Volume 1 Academic Year 2022-2023. 
-5. Execute the initiatives established in the Academic Year 2021-2023 Mission Directive.  
-6. Supervising and delegating duties to subordinate staff.  
-7. Maintaining communication with (EXEC) to receive updates on special projects and SQ participation.  
+1.Executing the detachment mission. Leading  detachment members. Managing detachment resources, and improving the unit.  
+2.Providing the CSQ with vision and direction in pursuit of spring 2023 detachment goals.  
+3.Reporting the status of the CSQ to Cadre.  
+4.Ensuring the CSQ accomplishes the objectives as outlined by the AFROTCI 36-2011 Volume 1 Academic Year 2022-2023. 
+5.Execute the initiatives established in the Academic Year 2021-2023 Mission Directive.  
+6.Supervising and delegating duties to subordinate staff.  
+7.Maintaining communication with (EXEC) to receive updates on special projects and SQ participation.  
 
 **Deliverables:**  
-1. Deliver a briefing to the CW on the mission and vision statement during LLAB #1.  
-2. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.  
-3. Sign the completed weekly OPORD with the (CSQ/UTM) prior to the start of the weekly PMT activities.  
-4. Submit weekly OPORD NLT three days prior to the week of execution to the OFC for review/approval, will be established as part of POC Teams workflow.  5. Prepare and present status of CSQ to OFC during weekly staff meetings.  
-6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).  
+1.Deliver a briefing to the CW on the mission and vision statement during LLAB #1.  
+2.Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.  
+3.Sign the completed weekly OPORD with the (CSQ/UTM) prior to the start of the weekly PMT activities.  
+4.Submit weekly OPORD NLT three days prior to the week of execution to the OFC for review/approval, will be established as part of POC Teams workflow.  5.Prepare and present status of CSQ to OFC during weekly staff meetings.  
+6.Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).  
 
 ### **Cadet Squadron Director of Operations (345 CSQ/DO) –** **C/Col Alessandra Ramirez**
 
