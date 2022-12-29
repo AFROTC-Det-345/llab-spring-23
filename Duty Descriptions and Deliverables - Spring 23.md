@@ -114,7 +114,6 @@
 6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
 
 ### Readiness and Plans Officer (345 CSQ/XP) – C/Lt Col Xi Xiao
-
 **Function:** Oversees CSQ standards and evaluations. Tracks all items that influence end of the semester flight or individual awards. Tracks readiness for the squadron.
 
 **Reports to:** CSQ/DO
@@ -137,41 +136,27 @@
 6. Determine end-of-semester flight awards individual awards NLT LLAB #12.
 7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
 
-## ****RECRUITING AND RETENTION FLIGHT****
-
-### **Recruiting & Retention Flight Commander (345 RFC/CC) – C/Maj Bryan Hureau**
-
+## RECRUITING AND RETENTION FLIGHT
+### Recruiting & Retention Flight Commander (345 RFC/CC) – C/Maj Bryan Hureau
 **Function:** Oversees detachment public affairs, outreach, and recruiting through local community events, and supervises social media presence. Acts as Point of Contact (PoC) when coordinating with external organizations.
 
 **Reports to:** 345 SQ/DO
 
 **Duties:** The 345 RFC/CC is responsible for:
-
-1.     Planning and executing recruitment events, etc. as coordinated by the RO at UMass Lowell
-
-2.     Overseeing the planning and execution of recruiting events, etc. at host crosstown universities as organized by 345 OIC/CRR.
-
-3.     Ensuring pictures are taken at all PMT and voluntary PMT cadet functions and posting them to Flickr.
-
-4.     Maintaining a continuous and positive social media presence for the Detachment and educating cadets about Air Force policies regarding the use of social media. 
-
-6.     Advising SQ leadership on operating in a manner that retains cadets.
-
-7.     Acting as a point of contact for cadets considering dropping Air Force ROTC.
+1. Planning and executing recruitment events, etc. as coordinated by the RO at UMass Lowell
+2. Overseeing the planning and execution of recruiting events, etc. at host crosstown universities as organized by 345 OIC/CRR.
+3. Ensuring pictures are taken at all PMT and voluntary PMT cadet functions and posting them to Flickr.
+4. Maintaining a continuous and positive social media presence for the Detachment and educating cadets about Air Force policies regarding the use of social media. 
+5. Advising SQ leadership on operating in a manner that retains cadets.
+7. Acting as a point of contact for cadets considering dropping Air Force ROTC.
 
 **Deliverables:**
-
-**1.**     Submit after action reports to SQ/DO following all recruitment (local and crosstown) events NLT three days after event execution.
-
-2.     Organize and host biweekly MWR events with at least 10% detachment attendance.
-
-3.     Organize and host biweekly recruiting events scheduled during LLAB time.
-
-3.     Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
-
-5.     Upload pictures to Detachment Flickr weekly.
-
-7.     Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
+1. Submit after action reports to SQ/DO following all recruitment (local and crosstown) events NLT three days after event execution.
+2. Organize and host biweekly MWR events with at least 10% detachment attendance.
+3. Organize and host biweekly recruiting events scheduled during LLAB time.
+4. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
+5. Upload pictures to Detachment Flickr weekly.
+6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ### **OIC of Crosstown Recruiting & Retention (345 OIC/CRR) – C/Capt Evan Blatus**
 
