@@ -58,7 +58,7 @@
 ### Cadet Squadron Inspector General (345 CSQ/IG) – C/Lt Col Jacob Villeneuve
 **Function:** Serves as the point of contact for safety, mal-training, and honor code concerns outside of the chain of command and promotes cadet readiness.
 
-**Reports to:** (345 CSQ/CC)
+**Reports to:** 345 CSQ/CC
 
 **Duties:** The CSQ/IG is responsible for:
 1. Actively monitoring training environments to ensure zero-tolerance policy is upheld.
