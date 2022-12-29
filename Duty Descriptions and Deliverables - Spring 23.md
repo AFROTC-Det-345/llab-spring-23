@@ -4,7 +4,7 @@
 
 **Reports to:** OFC
 
-**Duties:** The (CSQ/CC) is responsible for:
+**Duties:** The Squadron Commander is responsible for:
 1. Executing the detachment's mission, leading detachment members, managing detachment resources, and improving the unit.
 2. Providing the CSQ with vision and direction in pursuit of spring 2023 detachment goals.
 3. Reporting the status of the CSQ to Cadre.
@@ -23,9 +23,9 @@
 ### Director of Operations (345 CSQ/DO) – C/Col Alessandra Ramirez
 **Function:** Advises and supports CSQ/CC in the direction of all actions for the CSQ.
 
-**Reports to:** (345 CSQ/CC)
+**Reports to:** 345 CSQ/CC
 
-**Duties:** The CSQ/DO is responsible for:
+**Duties:** The Director of Operations is responsible for:
 1. Assuming command of the CW in the absence of the CW/CC.
 2. Directing oversight of Training Flight, Training Support Flight, and Recruiting Flight.
 3. Point of contact for all joint-detachment coordination unless delegated.
@@ -55,12 +55,12 @@
 2.  Send out weekly POC PMT feedback surveys NLT Wednesday.
 3.  Delivering all Missed PMT memos to OFC NLT Friday.
 
-### Cadet Squadron Inspector General (345 CSQ/IG) – C/Lt Col Jacob Villeneuve
+### Inspector General (345 CSQ/IG) – C/Lt Col Jacob Villeneuve
 **Function:** Serves as the point of contact for safety, mal-training, and honor code concerns outside of the chain of command and promotes cadet readiness.
 
 **Reports to:** 345 CSQ/CC
 
-**Duties:** The CSQ/IG is responsible for:
+**Duties:** The Inspector General is responsible for:
 1. Actively monitoring training environments to ensure zero-tolerance policy is upheld.
 2. Handling grievances that fall outside the CSQ chain of command.
 3. Reporting any concerns regarding mal-training to the Det/CC and OFC.
@@ -118,7 +118,7 @@
 
 **Reports to:** CSQ/DO
 
-**Duties:** The CSQ/XP is responsible for:
+**Duties:** The Readiness and Plans Officer is responsible for:
 1. Track flight award progress, to include uniform inspections, Warrior Boards, PFA, community service/morale events, etc.
 2. Orchestrating standardized uniform inspections for GMC and receiving and tracking the results of these inspections.
 3. Working directly with flight commanders in development of flight standardization documents and enforcing them at PMT.
@@ -137,7 +137,7 @@
 7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
 
 ## RECRUITING AND RETENTION FLIGHT
-### Recruiting & Retention Flight Commander (345 CSQ/RR) – C/Maj Bryan Hureau
+### Recruiting & Retention Flight Commander (345 CSQ/RRF) – C/Maj Bryan Hureau
 **Function:** Oversees detachment public affairs, outreach, and recruiting through local community events, and supervises social media presence. Acts as Point of Contact (PoC) when coordinating with external organizations.
 
 **Reports to:** 345 SQ/DO
@@ -158,10 +158,10 @@
 5. Upload pictures to Detachment Flickr weekly.
 6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
-### OIC, Crosstown Recruiting & Retention (345 CSQ/RRC) – C/Capt Evan Blatus
+### OIC, Crosstown Recruiting & Retention (345 CSQ/RRFC) – C/Capt Evan Blatus
 **Function:** Oversees outreach, and recruiting through local community events around host crosstown universities as well as supervises all GMC recruiting and retention deputies.
 
-**Reports to:** 345 RFC/CC
+**Reports to:** 345 CSQ/RRF
 
 **Duties:** The OIC, Crosstown Recruiting & Retentionis responsible for:
 1. Planning and executing recruitment events, etc. as coordinated by the RO at host crosstown universities
@@ -184,7 +184,7 @@
 ### Training Operations Flight Commander (345 CSQ/TOF) – C/Maj Alex Monayer
 **Function:** Oversees all operations within the Training Operations Flight and planning/execution of PMT.
 
-**Reports to:** 345 CSQ/ DO
+**Reports to:** 345 CSQ/TOF
 
 **Duties:** The Training Operations Flight Commander is responsible for:
 1. Exercising command and control over the entire LLAB, IMT, and FTP training environments and working with squadron leadership to standardize training IAW AFROTCI 36-2011 V1 curriculum.
@@ -279,7 +279,7 @@
 
 **Function:** Supervises Detachment logistics readiness, equipment, and facilities management.
 
-**Reports to:** DO
+**Reports to:** 345 CSQ/DO
 
 **Duties:** The Training Support Flight Commander is responsible for:
 1. Reporting status of uniform program, website, and equipment to SQ leadership as needed.
@@ -299,7 +299,7 @@
 ### OIC, Communications Support (345 CSQ/TSFC) – C/Capt Kathryn Swineford
 **Function:** Provides technical support for cyberspace resources utilized by the SQ.
 
-**Reports to:** TSF/CC
+**Reports to:** 345 CSQ/TSF
 
 **Duties:** The OIC, Communications Support is responsible for:
 1. Coordinating with SQ leadership and Cadre to develop the vision for the Detachments’ digital presence.
@@ -351,7 +351,7 @@
 
 **Reports to:** 
 
-**Duties:** The CW/HG is responsible for:
+**Duties:** The Honor Guard Representatives are responsible for:
 1. Recruiting, training, and equipping Honor Guard details.
 2. Ensures flags are set up prior to LLAB.
 3. Creating a GMC rotation to perform Honor Guard details during LLAB as needed.
@@ -369,7 +369,7 @@
 
 **Reports to:** 
 
-**Duties:** The CW/PAD is responsible for:
+**Duties:** The Public Affairs, Outreach, and Recruiting Deputies are responsible for:
 1. Supporting recruitment events organized by the SQ/RO.
 2. Carrying out any additional duties delegated by the SQ/RO.
 3. Organizing community service events for SQ participation.
@@ -406,7 +406,7 @@
 
 **Reports to:** 
 
-**Duties:** The SQ/JROTC is responsible for:
+**Duties:** The JROTC Representative is responsible for:
 1. Organizing Detachment 345 support for any local JROTC events.
 
 ### Physical Fitness Leaders – C/3C Joanna Gordon, C/3C Justin Flynn
@@ -427,35 +427,35 @@
 ### Communication Support Officers – C/3C Ryan Belanger, C/3C Nolan O’Rourke
 **Function:** Assists the CS/CC to provide technical support to Detachment 345 cadets.
 
-**Reports to:** 
+**Reports to:** 345 CSQ/TSFC
 
 **Duties:** The Communication Support Officers are responsible for:
 1. Developing training and maintenance documentation for technological assets as needed.
 2. Maintaining inventory of all technological assets.
-3. Researching and developing new technological assets as directed by the **CS FLT/CC?)**   
+3. Researching and developing new technological assets as directed by the OIC, Communications Support.   
 5. Responding to and documenting past and potential cyber concerns as needed.
 6. Providing technical support to the SQ.
 7. Innovating ways to make better use of Det 345 cyber assets (Discord, Teams, etc.).
-8. Carrying out any additional duties delegated by the **CS FLT/CC?)**  .
+8. Carrying out any additional duties delegated by the OIC, Communications Support.
 
 **Deliverables:** 
 1. Create an inventory of all cyber assets in the Detachment NLT LLAB #5.
 2. Create Detachment-wide cyber threat training exercise NLT LLAB #8.
 
-### Material Management Officers (LRS/LGRM) ?– C/3C Brian Bui-Tran, C/3C Austin Bobb, C/3C Al Fox
+### Material Management Officers – C/3C Brian Bui-Tran, C/3C Austin Bobb, C/3C Al Fox
 **Function:** Oversees the readiness and serviceability of uniform articles for the SQ.
 
-**Reports to:** 
+**Reports to:** 345 CSQ/TSFL
 
 **Duties:** The Material Management Officers are responsible for:
 1. Managing the uniform program for Detachment 345.
 2. Keeping the uniform inventory consistently updated.
 3. Serving as the SQ liaisons to identify uniform questions and/or requests.
 4. Distributing uniform articles to the SQ.
-5. Carrying out any additional duties delegated by the (**LS FLT/CC?)**.
+5. Carrying out any additional duties delegated by the OIC, Logistics Support.
 
 **Deliverables:** 
-1. Complete an inventory of uniform articles and provide it to the (**LS FLT/CC?)** NLT LLAB #5.
+1. Complete an inventory of uniform articles and provide it to the OIC, Logistics Support NLT LLAB #5.
 2. Update uniform accountability sheet weekly.
 
 ## Major Events Committees
