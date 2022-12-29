@@ -2,7 +2,7 @@
 ### Squadron Commander (345 CSQ/CC) – C/Col John Augusta
 **Function:** Directs all actions of the Detachment 345 CW IAW guidance provided by the Detachment 345 Commander, OFC, and AFROTC instructions.
 
-**Reports to:** OFC
+**Reports to:** AFROTC DET 345/OFC
 
 **Duties:** The Squadron Commander is responsible for:
 1. Executing the detachment's mission, leading detachment members, managing detachment resources, and improving the unit.
