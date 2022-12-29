@@ -254,35 +254,25 @@
 3. Submit weekly PT portion of OPORD to (CSQ/UTM) NLT five days prior to the week of execution.
 4. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
 
-###  **Cadet Squadron Health and Safety Officer**
+### Health and Safety Officer
 
 **Function:** Promotes mental, physical, social, and spiritual fitness through education, utilization of campus resources, morale events, and community service.
 
-**Reports to:** **(??)**
+**Reports to:** 
 
-**Duties:** The CSQ/SE is responsible for:
-
-1.     Educating the SQ on Comprehensive Airman Fitness or other Commander’s Call topics.
-
-2.     Serving as the liaison between CW and campus health and wellness resources to include but not limited to health and wellness center, academic assistance center, student affairs, veteran’s services, and campus ministries.
-
-3.     Hosting SMEs to deliver health and wellness topics and reporting status and availability of special-hosted training to SQ leadership.
-
-4.     Forwarding safety grams and other useful information to the SQ.
-
-5.     Ensuring a safe training environment during PMT. Coordinates with **(345 TSF/CC)** and **(345 TOF/CC)** to ensure availability of safety kits, water, and any other safety-related items.
-
-6.     Coordinating incident reports for cadets injured during PMT activities.
-
-7.     Advise CSQ leadership on university, state, and Department of Defense Coronavirus guidelines.
-
-8.     Reporting immediate safety concerns to the CSQ/CC or CSQ/DO.
+**Duties:** The Health and Safety Officer is responsible for:
+1. Educating the SQ on Comprehensive Airman Fitness or other Commander’s Call topics.
+2. Serving as the liaison between CW and campus health and wellness resources to include but not limited to health and wellness center, academic assistance center, student affairs, veteran’s services, and campus ministries.
+3. Hosting SMEs to deliver health and wellness topics and reporting status and availability of special-hosted training to SQ leadership.
+4. Forwarding safety grams and other useful information to the SQ.
+5. Ensuring a safe training environment during PMT. Coordinates with **(345 TSF/CC)** and **(345 TOF/CC)** to ensure availability of safety kits, water, and any other safety-related items.
+6. Coordinating incident reports for cadets injured during PMT activities.
+7. Advise CSQ leadership on university, state, and Department of Defense Coronavirus guidelines.
+8. Reporting immediate safety concerns to the CSQ/CC or CSQ/DO.
 
 **Deliverables:**
-
-1.     Deliver a briefing to the CSQ on health and wellness during LLAB #3.
-
-2.     Forward monthly safety gram to CSQ
+1. Deliver a briefing to the CSQ on health and wellness during LLAB #3.
+2. Forward monthly safety gram to CSQ.
 
 ## TRAINING  SUPPORT FLIGHT
 ### Training Support Flight Commander (345 CSQ/TSF) – C/Maj Ryan Kless
@@ -356,177 +346,122 @@
 9. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ## ADDITIONAL DUTIES
-
-### Honor Guard Representatives (345 CW/HG) – C/3C Kai Williams & C/4C Sydney Selby
-
+### Honor Guard Representatives (345 CSQ/HG) – C/3C Kai Williams & C/4C Sydney Selby
 **Function:** Oversees the detachment Honor Guard.
 
-**Reports to:****(345 SQ/RO)**
+**Reports to:** 
 
 **Duties:** The CW/HG is responsible for:
-
-1.     Recruiting, training, and equipping Honor Guard details.
-
-2.     Ensures flags are set up prior to LLAB.
-
-3.     Creating a GMC rotation to perform Honor Guard details during LLAB as needed.
-
-4.     Working with the Recruiting Flight Officer and recruiting at Honor Guard Events.
-
-5.     Organizing and leading weekly Honor Guard practices.
+1. Recruiting, training, and equipping Honor Guard details.
+2. Ensures flags are set up prior to LLAB.
+3. Creating a GMC rotation to perform Honor Guard details during LLAB as needed.
+4. Working with the Recruiting Flight Officer and recruiting at Honor Guard Events.
+5. Organizing and leading weekly Honor Guard practices.
 
 **Deliverables:**  
+1. Develop weekly Honor Guard practice schedule NLT LLAB #2.
+2. Consistently updating the rifle sign-out sheet to maintain accountability for the replica rifles in the storage room.
+3. Submit after action reports to Recruiting Flight Officer following all Honor Guard details NLT three days after execution including list of contacts from each event.
 
-1.     Develop weekly Honor Guard practice schedule NLT LLAB #2.
-
-2.     Consistently updating the rifle sign-out sheet to maintain accountability for the replica rifles in the storage room.
-
-3.     Submit after action reports to Recruiting Flight Officer following all Honor Guard details NLT three days after execution including list of contacts from each event.
-
-### **Public Affairs, Outreach, and Recruiting Deputies (345 SQ/PAD) – C/3C Connor Hall, C/3C Matthew Flores, C/4C Natalia Flores,  C/4C Isabella Bouchard**
+### Public Affairs, Outreach, and Recruiting Deputies – C/3C Connor Hall, C/3C Matthew Flores, C/4C Natalia Flores, C/4C Isabella Bouchard
 
 **Function:** Assists the Public Affairs, Outreach, and Recruiting Officer by staffing all SQ recruiting and retention events and coordinating community outreach events.
 
-**Reports to:** SQ/RO
+**Reports to:** 
 
 **Duties:** The CW/PAD is responsible for:
-
-1.     Supporting recruitment events organized by the SQ/RO.
-
-2.     Carrying out any additional duties delegated by the SQ/RO.
-
-3.     Organizing community service events for SQ participation.
+1. Supporting recruitment events organized by the SQ/RO.
+2. Carrying out any additional duties delegated by the SQ/RO.
+3. Organizing community service events for SQ participation.
 
 **Deliverables:**
+1. Organize at least two community service events scheduled NLT LLAB #13.
+2. Assist in monthly crosstown recruiting events at respective host universities.
+3. Submit after action reports to SQ/RO following all community service events NLT three days after execution including list of contacts from each event.
 
-1.     Organize at least two community service events scheduled NLT LLAB #13.
-
-2.     Assist in monthly crosstown recruiting events at respective host universities.
-
-2.     Submit after action reports to SQ/RO following all community service events NLT three days after execution including list of contacts from each event.
-
-### **Civil Air Patrol Representative (345 SQ/CAP) – C/3C Schuyler McCullough**
-
+### Civil Air Patrol Representative – C/3C Schuyler McCullough
 **Function:** Acts as a liaison between Detachment 345 and local Civil Air Patrol units.
 
-**Reports to:** SQ/RO
+**Reports to:** 
 
-**Duties:** The **SQ/CAP** is responsible for:
-
-1.     Organizing Detachment 345 support for any local Civil Air Patrol events.
-
-2.     Organizing Civil Air Patrol orientation flights for the CW.
+**Duties:** The Civil Air Patrol Representative is responsible for:
+1. Organizing Detachment 345 support for any local Civil Air Patrol events.
+2. Organizing Civil Air Patrol orientation flights for the CW.
 
 **Deliverables:**
+1. Contact MA Wing of Civil Air Patrol point of contact to begin scheduling orientation flights NLT LLAB #3.
 
-1.     Contact MA Wing of Civil Air Patrol point of contact to begin scheduling orientation flights NLT LLAB #3.
-
-### **AFCEA Representative (345 SQ/AFCEA) – C/3C Michael Kubit & C/3C Adam Warden**
+### AFCEA Representative – C/3C Michael Kubit & C/3C Adam Warden
 
 **Function:** Acts as a liaison between Detachment 345 and AFCEA Lexington-Concord.
 
-**Reports to:** SQ/RO
+**Reports to:** 
 
-**Duties:** The **SQ/AFCEA** is responsible for:
+**Duties:** The AFCEA Representative is responsible for:
+1. Organizing Detachment 345 support for local AFCEA events.
+2. Acting as point of contact for cadets interested in AFCEA.
 
-1.     Organizing Detachment 345 support for local AFCEA events.
-
-2.     Acting as point of contact for cadets interested in AFCEA.
-
-### **JROTC Representative (345 SQ/JROTC) – C/4C Santiago Echeverry & C/4C Danny Tran**
-
+### JROTC Representative – C/4C Santiago Echeverry & C/4C Danny Tran
 **Function:** Acts as a liaison between Detachment 345 and local JROTC units.
 
 **Reports to:** SQ/RO
 
 **Duties:** The SQ/JROTC is responsible for:
+1. Organizing Detachment 345 support for any local JROTC events.
 
-1.     Organizing Detachment 345 support for any local JROTC events.
-
-### **Physical Fitness Deputies (345 SQ/PTL) – C/3C Joanna Gordon, C/3C Justin Flynn**
-
+### Physical Fitness Leaders – C/3C Joanna Gordon, C/3C Justin Flynn
 **Function:** To execute PT plans developed by the **345 CDS/UFPM**.
 
-**Reports to:** **345 CDS/UFPM**
+**Reports to:** 345 CSQ/UFPM
 
-**Duties:** The TRS/PFOD is responsible for:
-
-1.     Leading the SQ in stretching and workouts during PT sessions.
-
-2.     Assisting the **345 CDS/UFPM** in mentoring cadets on physical fitness and promoting a healthy lifestyle to the GMC.
-
-3.     Monitoring cadets’ mental, emotional, and physical health during PT sessions and reporting safety issues to Cadre.
-
-4.     Fostering an environment in which cadets’ mentor their peers in different aspects of physical fitness.
-
-5.     Performing other duties as assigned by the **345 CDS/UFPM**.
+**Duties:** The Physical Fitness Leaders are responsible for:
+1. Leading the SQ in stretching and workouts during PT sessions.
+2. Assisting the **345 CDS/UFPM** in mentoring cadets on physical fitness and promoting a healthy lifestyle to the GMC.
+3. Monitoring cadets’ mental, emotional, and physical health during PT sessions and reporting safety issues to Cadre.
+4. Fostering an environment in which cadets’ mentor their peers in different aspects of physical fitness.
+5. Performing other duties as assigned by the **345 CDS/UFPM**.
 
 **Deliverables:** 
+1. Develop a schedule for rotating PTL’s each week NLT LLAB #3.
 
-1.     Develop a schedule for rotating PTL’s each week NLT LLAB #3.
-
-### **Communication Support Officers (CS?)** **– C/3C Ryan Belanger, C/3C Nolan O’Rourke**
-
+### Communication Support Officers – C/3C Ryan Belanger, C/3C Nolan O’Rourke
 **Function:** Assists the CS/CC to provide technical support to Detachment 345 cadets.
 
-**Reports to:** (**CS FLT/CC?)**  
+**Reports to:** 
 
-**Duties:** The **(CS?)** is responsible for:
-
-1.     Developing training and maintenance documentation for technological assets as needed.
-
-2.     Maintaining inventory of all technological assets.
-
-3.     Researching and developing new technological assets as directed by the **CS FLT/CC?)**   
-
-5.     Responding to and documenting past and potential cyber concerns as needed.
-
-6.     Providing technical support to the SQ.
-
-7.     Innovating ways to make better use of Det 345 cyber assets (Discord, Teams, etc.).
-
-8.     Carrying out any additional duties delegated by the **CS FLT/CC?)**  .
+**Duties:** The Communication Support Officers are responsible for:
+1. Developing training and maintenance documentation for technological assets as needed.
+2. Maintaining inventory of all technological assets.
+3. Researching and developing new technological assets as directed by the **CS FLT/CC?)**   
+5. Responding to and documenting past and potential cyber concerns as needed.
+6. Providing technical support to the SQ.
+7. Innovating ways to make better use of Det 345 cyber assets (Discord, Teams, etc.).
+8. Carrying out any additional duties delegated by the **CS FLT/CC?)**  .
 
 **Deliverables:** 
+1. Create an inventory of all cyber assets in the Detachment NLT LLAB #5.
+2. Create Detachment-wide cyber threat training exercise NLT LLAB #8.
 
-1.     Create an inventory of all cyber assets in the Detachment NLT LLAB #5.
-
-2.     Create Detachment-wide cyber threat training exercise NLT LLAB #8.
-
-### **Material Management Officers (LRS/LGRM) ?– C/3C Brian Bui-Tran, C/3C Austin Bobb, C/3C Al Fox**
-
+### Material Management Officers (LRS/LGRM) ?– C/3C Brian Bui-Tran, C/3C Austin Bobb, C/3C Al Fox
 **Function:** Oversees the readiness and serviceability of uniform articles for the SQ.
 
-**Reports to:** (**LS FLT/CC?)**
+**Reports to:** 
 
-**Duties:** The LRS/LGRM is responsible for:
-
-1.     Managing the uniform program for Detachment 345.
-
-2.     Keeping the uniform inventory consistently updated.
-
-3.     Serving as the SQ liaisons to identify uniform questions and/or requests.
-
-4.     Distributing uniform articles to the SQ.
-
-5.     Carrying out any additional duties delegated by the (**LS FLT/CC?)**.
+**Duties:** The Material Management Officers are responsible for:
+1. Managing the uniform program for Detachment 345.
+2. Keeping the uniform inventory consistently updated.
+3. Serving as the SQ liaisons to identify uniform questions and/or requests.
+4. Distributing uniform articles to the SQ.
+5. Carrying out any additional duties delegated by the (**LS FLT/CC?)**.
 
 **Deliverables:** 
+1. Complete an inventory of uniform articles and provide it to the (**LS FLT/CC?)** NLT LLAB #5.
+2. Update uniform accountability sheet weekly.
 
-1.     Complete an inventory of uniform articles and provide it to the (**LS FLT/CC?)** NLT LLAB #5.
-
-2.     Update uniform accountability sheet weekly.
-
-Major Events:
-
-Commissioning
-
-MilBall
-
-WarGaming
-
-FLX
-
-Retreat/Reveille??
-
-Pass and Review??
+## Major Events Committees
+- Commissioning
+- MilBall
+- WarGaming
+- FLX
+- Retreat/Reveille??
+- Pass and Review??
