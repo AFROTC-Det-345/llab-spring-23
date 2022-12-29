@@ -404,7 +404,7 @@
 ### JROTC Representative – C/4C Santiago Echeverry & C/4C Danny Tran
 **Function:** Acts as a liaison between Detachment 345 and local JROTC units.
 
-**Reports to:** SQ/RO
+**Reports to:** 
 
 **Duties:** The SQ/JROTC is responsible for:
 1. Organizing Detachment 345 support for any local JROTC events.
