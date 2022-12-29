@@ -284,125 +284,80 @@
 
 2.     Forward monthly safety gram to CSQ
 
-## ****TRAINING  SUPPORT FLIGHT****
-
-### **Training Support Flight Commander (345 TSF/CC) – C/Maj Ryan Kless**
+## TRAINING  SUPPORT FLIGHT
+### Training Support Flight Commander (345 CSQ/TSF) – C/Maj Ryan Kless
 
 **Function:** Supervises Detachment logistics readiness, equipment, and facilities management.
 
-**Reports to:** SQ/DO
+**Reports to:** DO
 
-**Duties:** The TSF/CC is responsible for:
-
-2.     Reporting status of uniform program, website, and equipment to SQ leadership as needed.
-
-3.     Supporting TOF through acquisition of materials and facilities for PMT activities.
-
-4.     Ensuring cadet logistical readiness through overseeing uniform program.
-
-5.     Ensuring Discord server and both Detachment and POC Teams are maintained.
-
-6.     Ensuring all facilities used by the SQ are cleaned and maintained (Cadet Area, Wannalancit 105, etc).
+**Duties:** The Training Support Flight Commander is responsible for:
+1. Reporting status of uniform program, website, and equipment to SQ leadership as needed.
+2. Supporting TOF through acquisition of materials and facilities for PMT activities.
+3. Ensuring cadet logistical readiness through overseeing uniform program.
+4. Ensuring Discord server and both Detachment and POC Teams are maintained.
+5. Ensuring all facilities used by the SQ are cleaned and maintained (Cadet Area, Wannalancit 105, etc).
 
 **Deliverables:**   
+1. Ensure respective flight is aware NLT Tuesday it is their duty to clean CA as scheduled by OIC/LS.
+2. Communicate to OIC/CS NLT three days of cadet’s respective add/drop to amend permissions.
+3. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
+4. Report status of supply requirements to TOF NLT one day prior to PMT activities.
+5. Brief Det/CC and OFC on Training Support Group status during meetings.
+6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
-1.     Ensure respective flight is aware NLT Tuesday it is their duty to clean CA as scheduled by OIC/LS.
-
-2.     Communicate to OIC/CS NLT three days of cadet’s respective add/drop to amend permissions.
-
-3.     Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
-
-4.     Report status of supply requirements to TOF NLT one day prior to PMT activities.
-
-5.     Brief Det/CC and OFC on Training Support Group status during meetings.
-
-6.     Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
-
-### **OIC of Communications Support (OIC/CS) – C/Capt Kathryn Swineford**
-
+### OIC, Communications Support (345 CSQ/TSFC) – C/Capt Kathryn Swineford
 **Function:** Provides technical support for cyberspace resources utilized by the SQ.
 
 **Reports to:** TSF/CC
 
-**Duties:** The OIC/CS is responsible for:
-
-1.     Coordinating with SQ leadership and Cadre to develop the vision for the Detachments’ digital presence.
-
-2.     Working with SQ leadership and Cadre to define specifications for new technological assets to be utilized by the Detachment.
-
-3.     Maintaining Discord server for both unofficial and official uses by the SQ.
-
-4.     Reviewing all current Detachment technology assets and establishing procedures to maintain tools.
-
-5.     Leading management and development of Detachment website in coordination with UML IT.
-
-6.     Maintaining Detachment and POC Teams.
-
-7.     Educating SQ on cyberspace awareness and safety.
-
-8.     Updating the SQ email distribution list as needed.
-
-9.     Ensuring technical support and equipment is provided at PMT as needed.
-
-10.  Compiling any LLAB briefs NLT two calendar days prior to the day of execution.
+**Duties:** The OIC, Communications Support is responsible for:
+1. Coordinating with SQ leadership and Cadre to develop the vision for the Detachments’ digital presence.
+2. Working with SQ leadership and Cadre to define specifications for new technological assets to be utilized by the Detachment.
+3. Maintaining Discord server for both unofficial and official uses by the SQ.
+4. Reviewing all current Detachment technology assets and establishing procedures to maintain tools.
+5. Leading management and development of Detachment website in coordination with UML IT.
+6. Maintaining Detachment and POC Teams.
+7. Educating SQ on cyberspace awareness and safety.
+8. Updating the SQ email distribution list as needed.
+9. Ensuring technical support and equipment is provided at PMT as needed.
+10. Compiling any LLAB briefs NLT two calendar days prior to the day of execution.
 
 **Deliverables:** 
+1. Update POC and Detachment Teams NLT 9 January  2023.
+2. Update all roles on the Det 345 Discord NLT 9 January  2023.
+3. Update SQ email distribution list NLT 9 January  2023
+5. Deliver a lesson to the SQ on the cyber domain.
+6. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
+7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
-1.     Update POC and Detachment Teams NLT 9 January  2023.
-
-2.     Update all roles on the Det 345 Discord NLT 9 January  2023.
-
-3.     Update SQ email distribution list NLT 9 January  2023
-
-5.     Deliver a lesson to the SQ on the cyber domain.
-
-6.     Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
-
-7.     Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
-
-### **OIC of Logistics Support (OIC/LS) – C/Capt Nikolaos Stavridis**  
-
+### OIC, Logistics Support (345 CSQ/TSFL) – C/Capt Nikolaos Stavridis  
 **Function:** Oversees the readiness and serviceability of Detachment equipment and Air Force ROTC issued uniform items.
 
-**Reports to:** TSF/CC
+**Reports to:** 345 CSQ/TSF
 
-Duties: The OIC/LS  is responsible for:
-
-1.     Identifying needs for new equipment and uniform items and acquiring them.
-
-2.     Working directly with **SQ/OX** on SQ Readiness Briefings (such as uniforms, PFA, medical, etc.).
-
-3.     Creating carpool lists for off-campus events as needed.
-
-4.     Developing uniform room schedule and ensuring uniform room is staffed regularly.
-
-5.     Ensuring full accountability for all uniform items and equipment.
-
-6.     Carrying out any additional duties delegated by the **SQ/OX**.
+**Duties:** The OIC, Logistics Support is responsible for:
+1. Identifying needs for new equipment and uniform items and acquiring them.
+2. Working directly with **SQ/OX** on SQ Readiness Briefings (such as uniforms, PFA, medical, etc.).
+3. Creating carpool lists for off-campus events as needed.
+4. Developing uniform room schedule and ensuring uniform room is staffed regularly.
+5. Ensuring full accountability for all uniform items and equipment.
+6. Carrying out any additional duties delegated by the **SQ/OX**.
 
 **Deliverables:** 
+1. Deliver a lesson to the SQ on AF dress and appearance standards during LLAB #1.
+2. Compile list of cadets needing access to Cadet Area NLT LLAB #2.
+3. Distribute a cleaning schedule for the Cadet Area NLT LLAB #3.
+4. Alert respective flight of cleaning duty NLT Tuesday of their week.
+5. Establish weekly staffed uniform room hours NLT LLAB #3.
+6. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
+7. Overhaul the organization of the supply closet NLT LLAB #7.
+8. Report weekly uniform and equipment status to **SQ/OX.**
+9. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
-1.     Deliver a lesson to the SQ on AF dress and appearance standards during LLAB #1.
+## ADDITIONAL DUTIES
 
-2.     Compile list of cadets needing access to Cadet Area NLT LLAB #2.
-
-3.     Distribute a cleaning schedule for the Cadet Area NLT LLAB #3.
-
-4.     Alert respective flight of cleaning duty NLT Tuesday of their week.
-
-5.     Establish weekly staffed uniform room hours NLT LLAB #3.
-
-6.     Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
-
-7.     Overhaul the organization of the supply closet NLT LLAB #7.
-
-8.     Report weekly uniform and equipment status to **SQ/OX.**
-
-9.     Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
-
-## ****ADDITIONAL DUTIES****
-
-### **Honor Guard Representatives (345 CW/HG) – C/3C Kai Williams & C/4C Sydney Selby**
+### Honor Guard Representatives (345 CW/HG) – C/3C Kai Williams & C/4C Sydney Selby
 
 **Function:** Oversees the detachment Honor Guard.
 
