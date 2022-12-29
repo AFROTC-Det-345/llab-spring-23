@@ -1,5 +1,5 @@
 ## SQUADRON STAFF
-### Squadron Commander  (345 CSQ/CC) – C/Col John Augusta
+### Squadron Commander (345 CSQ/CC) – C/Col John Augusta
 **Function:** Directs all actions of the Detachment 345 CW IAW guidance provided by the Detachment 345 Commander, OFC, and AFROTC instructions.
 
 **Reports to:** OFC
@@ -77,62 +77,41 @@
 5. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
 
 ### First Sergeant (345 CSQ/CCF) – C/3C Samantha Spaziano
-
 **Function:** Provide mentorship and advice to all GMC cadets. Serves as point of contact for GMC to express thoughts and opinions so SQ leadership can understand their honest perspective.
 
-**Reports to: C**SQ/IG
+**Reports to:** 345 CSQ/CC
 
-**Duties:** The CSQ/CCF is responsible for:
-
-1.     Providing mentorship and advice to GMC cadets on any aspect of cadet life. Point of contact for GMC questions.
-
-2.     Monitoring GMC cadets for attitude, appearance, and compliance with CSQ policies and regulations.
-
-3.     Providing recommendations to the CSQ leadership based on GMC feedback.
+**Duties:** The First Sergeant is responsible for:
+1. Providing mentorship and advice to GMC cadets on any aspect of cadet life. Point of contact for GMC questions.
+2. Monitoring GMC cadets for attitude, appearance, and compliance with CSQ policies and regulations.
+3. Providing recommendations to the CSQ leadership based on GMC feedback.
 
 **Deliverables:**  
+1. Organize at least one GMC morale event NLT LLAB #13.
+2. Conduct weekly GMC PMT feedback survey and provide responses to CSQ/IG
+3. Send a monthly wellness survey to GMC and report results to CW/CC.
+4. Submit GMC interest items, concerns, or feedback to CW/CC as needed.
 
-1.     Organize at least one GMC morale event NLT LLAB #13.
+### Unit Training Manager (345 CSQ/UTM) – C/Lt Col Brandon Wing
+**Function:** Verifies CSQ compliance with all AFROTC standards and objectives and ensures standardization of training. Provides guidance and feedback to TOF/CC on lesson plans and Cadet Report Cards.
 
-2.     Conduct weekly GMC PMT feedback survey and provide responses to CSQ/IG
+**Reports to:** 345 CSQ/DO
 
-2.     Send a monthly wellness survey to GMC and report results to CW/CC.
-
-3.     Submit GMC interest items, concerns, or feedback to CW/CC as needed.
-
- ### **Unit Training Manager (345 CSQ/UTM) – C/Lt Col Brandon Wing**
-
-**Function:** Verifies CSQ compliance with all AFROTC standards and objectives and ensures standardization of training. Provides guidance and feedback to (TOF/CC) on lesson plans and Cadet Report Cards.
-
-**Reports to:** **(345 CSQ/DO)**
-
-**Duties:** The (345 CSQ/UTM) is responsible for:
-
-1.     Verifying completion of all AFROTCI 36-2011 V1 objectives as listed in the weekly OPORD by compiling flight commanders’ individual cadet objective records and tracking objectives completed through lessons.
-
-2.     Coordinate with (TOF/CC) to ensure completion of any missed objectives.
-
-3.     Coordinate with (TOF/CC) to ensure standardization of training between flights, and IMT/FTP prior to PMT.
-
-4.     Monitor and identify positive / negative trends from Cadet Report Cards for all GMC cadets.
-
-5.     Correcting any incorrect instruction within the LLAB, IMT, and FTP environments.
-
-6.     Reviewing individual drill plans constructed by POC to ensure accuracy and compliance with AFMAN 36-2203.
-
-8.     Providing feedback to Training Ops Flight on standardization and quality of training.  
+**Duties:** The Unit Training Manager is responsible for:
+1. Verifying completion of all AFROTCI 36-2011 V1 objectives as listed in the weekly OPORD by compiling flight commanders’ individual cadet objective records and tracking objectives completed through lessons.
+2. Coordinate with (TOF/CC) to ensure completion of any missed objectives.
+3. Coordinate with (TOF/CC) to ensure standardization of training between flights, and IMT/FTP prior to PMT.
+4. Monitor and identify positive / negative trends from Cadet Report Cards for all GMC cadets.
+5. Correcting any incorrect instruction within the LLAB, IMT, and FTP environments.
+6. Reviewing individual drill plans constructed by POC to ensure accuracy and compliance with AFMAN 36-2203.
+8. Providing feedback to Training Ops Flight on standardization and quality of training.  
 
 **Deliverables:** 
-
-1.     Informing the (TOF/CC) on a weekly basis of Cadet Report Card trends NLT end of week.
-
-2.     Update Objective Tracker weekly.
-
-4.     Submit weekly OPORD NLT five days prior to the week of execution to the CSQ/CC for review/approval, will be established as part of POC Teams workflow.
-
-5.     Provide feedback on training and highlight cadets of concern at weekly POC meetings.
-
-6.     Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
+1. Informing the (TOF/CC) on a weekly basis of Cadet Report Card trends NLT end of week.
+2. Update Objective Tracker weekly.
+4. Submit weekly OPORD NLT five days prior to the week of execution to the CSQ/CC for review/approval, will be established as part of POC Teams workflow.
+5. Provide feedback on training and highlight cadets of concern at weekly POC meetings.
+6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
 
 ### **Readiness and Plans Officer (345 CSQ/RPO) – C/Lt Col Xi Xiao**
 
