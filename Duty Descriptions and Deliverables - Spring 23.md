@@ -1,5 +1,5 @@
 ## SQUADRON STAFF
-### Cadet Squadron Commander  (345 CSQ/CC) – C/Col John Augusta 
+### Squadron Commander  (345 CSQ/CC) – C/Col John Augusta 
 **Function:** Directs all actions of the Detachment 345 CW IAW guidance provided by the Detachment 345 Commander, OFC, and AFROTC instructions.  
 
 **Reports to:** OFC  
@@ -20,40 +20,29 @@
 4. Submit weekly OPORD NLT three days prior to the week of execution to the OFC for review/approval, will be established as part of POC Teams workflow.  5. Prepare and present status of CSQ to OFC during weekly staff meetings.  
 6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).  
 
-### **Cadet Squadron Director of Operations (345 CSQ/DO) –** **C/Col Alessandra Ramirez**
+### Director of Operations (345 CSQ/DO) – C/Col Alessandra Ramirez
+**Function:** Advises and supports CSQ/CC in the direction of all actions for the CSQ.  
 
-_Function:_ Advises and supports CSQ/CC in the direction of all actions for the CSQ.
+**Reports to:** (345 CSQ/CC)  
 
-_Reports to:_ **(345 CSQ/CC)**
+**Duties:** The CSQ/DO is responsible for:  
+1. Assuming command of the CW in the absence of the CW/CC.  
+2. Directing oversight of Training Flight, Training Support Flight, and Recruiting Flight.  
+3. Point of contact for all joint-detachment coordination unless delegated.  
+4. Track all CSQ deliverables and facilitate weekly updates from appropriate POC cadets at weekly POC meetings.  
 
-_Duties:_ The CSQ/DO is responsible for:
+**Deliverables:**  
+1. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
+2. Ensure all cadet resumes are updated NLT LLAB #12.
+3. Tracking POC accountability for all PMT events on Accountability Tracker.
+4. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
 
-1.      Assuming command of the CW in the absence of the CW/CC.
+### Executive Officer (345 CSQ/CCE) – C/Col Robert Crowley
+**Function:** Oversees and supports administrative efforts for Cadet Squadron Leadership and oversees Honor Guard.
 
-2.      Directing oversight of Training Flight, Training Support Flight, and Recruiting Flight.
+**Reports to: C**SQ/CC
 
-3.      Point of contact for all joint-detachment coordination unless delegated.
-
-4.     Track all CSQ deliverables and facilitate weekly updates from appropriate POC cadets at weekly POC meetings.
-
-_Deliverables:_  
-
-1.     Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
-
-2.     Ensure all cadet resumes are updated NLT LLAB #12.
-
-3.     Tracking POC accountability for all PMT events on Accountability Tracker.
-
-4.     Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
-
-### **Cadet Squadron Executive Officer (345 CSQ/CCE) – C/Col Robert Crowley**
-
-_Function:_ Oversees and supports administrative efforts for Cadet Squadron Leadership and oversees Honor Guard.
-
-_Reports to: C_SQ/CC
-
-_Duties:_ The Exec is responsible for:
-
+**Duties:** The Exec is responsible for:
 1.  Tracking required missed PMT memos for all cadets and making sure they are completed correctly before routing them to CSQ/CC.
 2.  Complete LLAB Hotwash debrief at weekly POC meetings.
 3.  Oversees all Honor Guard events and activities.
@@ -61,21 +50,20 @@ _Duties:_ The Exec is responsible for:
 5.  Facilitate announcements at PMT events.
 6.  Directing the Spring 2023 Commissioning Ceremony
 
-_Deliverables:_
-
+**Deliverables:**
 1.  Ensure CSQ/HG is properly trained and equipped to run weekly practices NLT LLAB #3.
 2.  Send out weekly POC PMT feedback surveys NLT Wednesday.
 3.  Delivering all Missed PMT memos to OFC NLT Friday.
 
 ### **Cadet Squadron Inspector General (345 CSQ/IG) – C/Lt Col** **Jacob Villeneuve**
 
-_Function:_ Serves as the point of contact for safety, mal-training, and honor code concerns
+**Function:** Serves as the point of contact for safety, mal-training, and honor code concerns
 
 outside of the chain of command and promotes cadet readiness.
 
-_Reports to:_ **(345 CSQ/CC)**
+**Reports to:** **(345 CSQ/CC)**
 
-_Duties:_ The CSQ/IG is responsible for:
+**Duties:** The CSQ/IG is responsible for:
 
 1.     Actively monitoring training environments to ensure zero-tolerance policy is upheld.
 
@@ -91,7 +79,7 @@ _Duties:_ The CSQ/IG is responsible for:
 
 7.     Supporting the Arnold Air Society Squadron Commander in promotion of AAS activities, and training events.
 
-_Deliverables:_
+**Deliverables:**
 
 1.     Deliver a brief to the CSQ on the role of the CSQ Inspector General during LLAB #2.
 
@@ -105,11 +93,11 @@ _Deliverables:_
 
  ### **Cadet First Sergeant** **(345 CSQ/CCF) – C/3C Samantha Spaziano**
 
-_Function:_ Provide mentorship and advice to all GMC cadets. Serves as point of contact for GMC to express thoughts and opinions so SQ leadership can understand their honest perspective.
+**Function:** Provide mentorship and advice to all GMC cadets. Serves as point of contact for GMC to express thoughts and opinions so SQ leadership can understand their honest perspective.
 
-_Reports to: C_SQ/IG
+**Reports to: C**SQ/IG
 
-_Duties:_ The CSQ/CCF is responsible for:
+**Duties:** The CSQ/CCF is responsible for:
 
 1.     Providing mentorship and advice to GMC cadets on any aspect of cadet life. Point of contact for GMC questions.
 
@@ -117,7 +105,7 @@ _Duties:_ The CSQ/CCF is responsible for:
 
 3.     Providing recommendations to the CSQ leadership based on GMC feedback.
 
-_Deliverables:_  
+**Deliverables:**  
 
 1.     Organize at least one GMC morale event NLT LLAB #13.
 
@@ -129,11 +117,11 @@ _Deliverables:_  
 
  ### **Unit Training Manager (345 CSQ/UTM) – C/Lt Col Brandon Wing**
 
-_Function:_ Verifies CSQ compliance with all AFROTC standards and objectives and ensures standardization of training. Provides guidance and feedback to (TOF/CC) on lesson plans and Cadet Report Cards.
+**Function:** Verifies CSQ compliance with all AFROTC standards and objectives and ensures standardization of training. Provides guidance and feedback to (TOF/CC) on lesson plans and Cadet Report Cards.
 
-_Reports to:_ **(345 CSQ/DO)**
+**Reports to:** **(345 CSQ/DO)**
 
-_Duties:_ The (345 CSQ/UTM) is responsible for:
+**Duties:** The (345 CSQ/UTM) is responsible for:
 
 1.     Verifying completion of all AFROTCI 36-2011 V1 objectives as listed in the weekly OPORD by compiling flight commanders’ individual cadet objective records and tracking objectives completed through lessons.
 
@@ -149,7 +137,7 @@ _Duties:_ The (345 CSQ/UTM) is responsible for:
 
 8.     Providing feedback to Training Ops Flight on standardization and quality of training.  
 
-_Deliverables:_ 
+**Deliverables:** 
 
 1.     Informing the (TOF/CC) on a weekly basis of Cadet Report Card trends NLT end of week.
 
@@ -163,11 +151,11 @@ _Deliverables:_ 
 
 ### **Readiness and Plans Officer (345 CSQ/RPO) – C/Lt Col Xi Xiao**
 
-_Function:_ Oversees CSQ standards and evaluations. Tracks all items that influence end of the semester flight or individual awards. Tracks readiness for the squadron.
+**Function:** Oversees CSQ standards and evaluations. Tracks all items that influence end of the semester flight or individual awards. Tracks readiness for the squadron.
 
-_Reports to: C_SQ/DO
+**Reports to: C**SQ/DO
 
-_Duties:_ The CSQ/RPO is responsible for:
+**Duties:** The CSQ/RPO is responsible for:
 
 1.     Track flight award progress, to include uniform inspections, Warrior Boards, PFA, community service/morale events, etc.
 
@@ -183,7 +171,7 @@ _Duties:_ The CSQ/RPO is responsible for:
 
 7.     Track readiness status of all Squadron cadets.
 
-_Deliverables:_  
+**Deliverables:**  
 
 1.     Approving standardization documents from Training Operations Flight NLT LLAB #2.
 
@@ -199,15 +187,15 @@ _Deliverables:_  
 
 7.     Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
 
-## **_RECRUITING AND RETENTION FLIGHT_**
+## ****RECRUITING AND RETENTION FLIGHT****
 
 ### **Recruiting & Retention Flight Commander (345 RFC/CC) – C/Maj Bryan Hureau**
 
-_Function:_ Oversees detachment public affairs, outreach, and recruiting through local community events, and supervises social media presence. Acts as Point of Contact (PoC) when coordinating with external organizations.
+**Function:** Oversees detachment public affairs, outreach, and recruiting through local community events, and supervises social media presence. Acts as Point of Contact (PoC) when coordinating with external organizations.
 
-_Reports to:_ 345 SQ/DO
+**Reports to:** 345 SQ/DO
 
-_Duties:_ The 345 RFC/CC is responsible for:
+**Duties:** The 345 RFC/CC is responsible for:
 
 1.     Planning and executing recruitment events, etc. as coordinated by the RO at UMass Lowell
 
@@ -221,9 +209,9 @@ _Duties:_ The 345 RFC/CC is responsible for:
 
 7.     Acting as a point of contact for cadets considering dropping Air Force ROTC.
 
-_Deliverables:_
+**Deliverables:**
 
-_1._     Submit after action reports to SQ/DO following all recruitment (local and crosstown) events NLT three days after event execution.
+**1.**     Submit after action reports to SQ/DO following all recruitment (local and crosstown) events NLT three days after event execution.
 
 2.     Organize and host biweekly MWR events with at least 10% detachment attendance.
 
@@ -237,11 +225,11 @@ _1._     Submit after action reports to SQ/DO following all recruitment (loc
 
 ### **OIC of Crosstown Recruiting & Retention (345 OIC/CRR) – C/Capt Evan Blatus**
 
-_Function:_ Oversees outreach, and recruiting through local community events around host crosstown universities as well as supervises all GMC recruiting and retention deputies.
+**Function:** Oversees outreach, and recruiting through local community events around host crosstown universities as well as supervises all GMC recruiting and retention deputies.
 
-_Reports to:_ 345 RFC/CC
+**Reports to:** 345 RFC/CC
 
-_Duties:_ The 345 OIC/CRR is responsible for:
+**Duties:** The 345 OIC/CRR is responsible for:
 
 1.     Planning and executing recruitment events, etc. as coordinated by the RO at host crosstown universities
 
@@ -251,13 +239,13 @@ _Duties:_ The 345 OIC/CRR is responsible for:
 
 5.     Researching opportunities for Detachment 345 publicity through outside organizations (Lowell Sun, UMass Lowell, AFA, etc.).  
 
-_7._     Acting as a point of contact for crosstown cadets.
+**7.**     Acting as a point of contact for crosstown cadets.
 
 8.     Monitoring and reporting relationship between the SQ and Air Force ROTC stakeholders including AFA, AFCEA, Junior ROTC, and Civil Air Patrol through the use and supervision of GMC deputies.
 
-_Deliverables:_
+**Deliverables:**
 
-_1._     Deliver a lesson to the SQ on the AF social media policies during LLAB #3_._
+**1.**     Deliver a lesson to the SQ on the AF social media policies during LLAB #3**.**
 
 2.     Submit after action reports to RFC/CC following all crosstown recruitment events NLT three days after event execution.
 
@@ -271,15 +259,15 @@ _1._     Deliver a lesson to the SQ on the AF social media policies during L
 
 7.     Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
-## **_TRAINING OPERATIONS FLIGHT_**
+## ****TRAINING OPERATIONS FLIGHT****
 
 ### **Training Operations Flight Commander (345 TOF/CC) – C/Maj Alex Monayer**
 
-_Function:_ Oversees all operations within the Training Operations Flight and planning/execution of PMT.
+**Function:** Oversees all operations within the Training Operations Flight and planning/execution of PMT.
 
-_Reports to:_ **(345 CSQ/ UTM)**
+**Reports to:** **(345 CSQ/ UTM)**
 
-_Duties:_ The (345 TOF/CC) is responsible for:
+**Duties:** The (345 TOF/CC) is responsible for:
 
 1.     Exercising command and control over the entire LLAB, IMT, and FTP training environments and working with squadron leadership to standardize training IAW AFROTCI 36-2011 V1 curriculum.
 
@@ -301,7 +289,7 @@ _Duties:_ The (345 TOF/CC) is responsible for:
 
 10.  Coordinating with Readiness and Plans to ensure completeness of information for awards program.
 
-_Deliverables:_
+**Deliverables:**
 
 1.     Creation of GMC flight roster NLT ?? January 2023.
 
@@ -321,11 +309,11 @@ _Deliverables:_
 
 ### **Flight Trainer (345 TOF/TRN) – C/Capt Cam Ellis**
 
-_Function:_ Trains, leads, and mentors AS100, AS200, AS250, and AS500 cadets during PMT.
+**Function:** Trains, leads, and mentors AS100, AS200, AS250, and AS500 cadets during PMT.
 
-_Reports to:_ (345 TOF/CC)
+**Reports to:** (345 TOF/CC)
 
-_Duties:_ The TOF/TRN is responsible for:
+**Duties:** The TOF/TRN is responsible for:
 
 1.     Tracking flight accountability at all PMT events on CW Accountability Tracker, and reporting it to Training Ops Flt/CC prior to the start of PMT.
 
@@ -343,7 +331,7 @@ _Duties:_ The TOF/TRN is responsible for:
 
 8.     Communicating training plans to supporting POC staff if applicable.
 
-_Deliverables:_  
+**Deliverables:**  
 
 1.     Update GMC Packet (Operating Instruction) NLT ?? Jan 2023.
 
@@ -361,11 +349,11 @@ _Deliverables:_  
 
 ### ** Flight Trainer (345 TOF/TRN) – C/Capt Kosta Stavridis**
 
-_Function:_ Trains, leads, and mentors AS100, AS200, AS250, and AS500 cadets during PMT.
+**Function:** Trains, leads, and mentors AS100, AS200, AS250, and AS500 cadets during PMT.
 
-_Reports to:_ (345 TOF/CC)
+**Reports to:** (345 TOF/CC)
 
-_Duties:_ The TOF/TRN is responsible for:
+**Duties:** The TOF/TRN is responsible for:
 
 1.     Tracking flight accountability at all PMT events on CW Accountability Tracker, and reporting it to Training Ops Flt/CC prior to the start of PMT.
 
@@ -383,7 +371,7 @@ _Duties:_ The TOF/TRN is responsible for:
 
 8.     Communicating training plans to supporting POC staff if applicable.
 
-_Deliverables:_  
+**Deliverables:**  
 
 1.     Update GMC Packet (Operating Instruction) NLT ?? Jan 2023.
 
@@ -401,11 +389,11 @@ _Deliverables:_  
 
 ### **Unit Fitness Program Manager (345 CDS/UFPM) – C/Capt Seth Perry**
 
-_Function:_ To plan, coordinate, and execute the CDS Physical Training program.
+**Function:** To plan, coordinate, and execute the CDS Physical Training program.
 
-_Reports to:_ (TOF/CC)
+**Reports to:** (TOF/CC)
 
-_Duties:_ The CDS/UFPM is responsible for:
+**Duties:** The CDS/UFPM is responsible for:
 
 1.     Promoting a holistic fitness environment where cadets want to show up for PT, and that all members of the CDS see improvement week after week.
 
@@ -425,7 +413,7 @@ _Duties:_ The CDS/UFPM is responsible for:
 
 9.     Ensuring proper verbiage for formation during PT is used as illustrated in the most current Field Training Manual.
 
-_Deliverables:_  
+**Deliverables:**  
 
 1.     Submit draft of Spring 2023 PT plan to the TOF/CC and CDS/CC NLT 04 January 2023.
 
@@ -437,11 +425,11 @@ _Deliverables:_  
 
 ###  **Cadet Squadron Health and Safety Officer**
 
-_Function:_ Promotes mental, physical, social, and spiritual fitness through education, utilization of campus resources, morale events, and community service.
+**Function:** Promotes mental, physical, social, and spiritual fitness through education, utilization of campus resources, morale events, and community service.
 
-_Reports to:_ **(??)**
+**Reports to:** **(??)**
 
-_Duties:_ The CSQ/SE is responsible for:
+**Duties:** The CSQ/SE is responsible for:
 
 1.     Educating the SQ on Comprehensive Airman Fitness or other Commander’s Call topics.
 
@@ -459,21 +447,21 @@ _Duties:_ The CSQ/SE is responsible for:
 
 8.     Reporting immediate safety concerns to the CSQ/CC or CSQ/DO.
 
-_Deliverables:_
+**Deliverables:**
 
 1.     Deliver a briefing to the CSQ on health and wellness during LLAB #3.
 
 2.     Forward monthly safety gram to CSQ
 
-## **_TRAINING  SUPPORT FLIGHT_**
+## ****TRAINING  SUPPORT FLIGHT****
 
 ### **Training Support Flight Commander (345 TSF/CC) – C/Maj Ryan Kless**
 
-_Function:_ Supervises Detachment logistics readiness, equipment, and facilities management.
+**Function:** Supervises Detachment logistics readiness, equipment, and facilities management.
 
-_Reports to:_ SQ/DO
+**Reports to:** SQ/DO
 
-_Duties:_ The TSF/CC is responsible for:
+**Duties:** The TSF/CC is responsible for:
 
 2.     Reporting status of uniform program, website, and equipment to SQ leadership as needed.
 
@@ -485,7 +473,7 @@ _Duties:_ The TSF/CC is responsible for:
 
 6.     Ensuring all facilities used by the SQ are cleaned and maintained (Cadet Area, Wannalancit 105, etc).
 
-_Deliverables:_   
+**Deliverables:**   
 
 1.     Ensure respective flight is aware NLT Tuesday it is their duty to clean CA as scheduled by OIC/LS.
 
@@ -501,11 +489,11 @@ _Deliverables:_   
 
 ### **OIC of Communications Support (OIC/CS) – C/Capt Kathryn Swineford**
 
-_Function:_ Provides technical support for cyberspace resources utilized by the SQ.
+**Function:** Provides technical support for cyberspace resources utilized by the SQ.
 
-_Reports to:_ TSF/CC
+**Reports to:** TSF/CC
 
-_Duties:_ The OIC/CS is responsible for:
+**Duties:** The OIC/CS is responsible for:
 
 1.     Coordinating with SQ leadership and Cadre to develop the vision for the Detachments’ digital presence.
 
@@ -527,7 +515,7 @@ _Duties:_ The OIC/CS is responsible for:
 
 10.  Compiling any LLAB briefs NLT two calendar days prior to the day of execution.
 
-_Deliverables:_ 
+**Deliverables:** 
 
 1.     Update POC and Detachment Teams NLT 9 January  2023.
 
@@ -543,9 +531,9 @@ _Deliverables:_ 
 
 ### **OIC of Logistics Support (OIC/LS) – C/Capt Nikolaos Stavridis**  
 
-_Function:_ Oversees the readiness and serviceability of Detachment equipment and Air Force ROTC issued uniform items.
+**Function:** Oversees the readiness and serviceability of Detachment equipment and Air Force ROTC issued uniform items.
 
-_Reports to:_ TSF/CC
+**Reports to:** TSF/CC
 
 Duties: The OIC/LS  is responsible for:
 
@@ -561,7 +549,7 @@ Duties: The OIC/LS  is responsible for:
 
 6.     Carrying out any additional duties delegated by the **SQ/OX**.
 
-_Deliverables:_ 
+**Deliverables:** 
 
 1.     Deliver a lesson to the SQ on AF dress and appearance standards during LLAB #1.
 
@@ -581,15 +569,15 @@ _Deliverables:_ 
 
 9.     Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
-## **_ADDITIONAL DUTIES_**
+## ****ADDITIONAL DUTIES****
 
 ### **Honor Guard Representatives (345 CW/HG) – C/3C Kai Williams & C/4C Sydney Selby**
 
-_Function:_ Oversees the detachment Honor Guard.
+**Function:** Oversees the detachment Honor Guard.
 
-_Reports to:_**(345 SQ/RO)**
+**Reports to:****(345 SQ/RO)**
 
-_Duties:_ The CW/HG is responsible for:
+**Duties:** The CW/HG is responsible for:
 
 1.     Recruiting, training, and equipping Honor Guard details.
 
@@ -601,7 +589,7 @@ _Duties:_ The CW/HG is responsible for:
 
 5.     Organizing and leading weekly Honor Guard practices.
 
-_Deliverables:_  
+**Deliverables:**  
 
 1.     Develop weekly Honor Guard practice schedule NLT LLAB #2.
 
@@ -611,11 +599,11 @@ _Deliverables:_  
 
 ### **Public Affairs, Outreach, and Recruiting Deputies (345 SQ/PAD) – C/3C Connor Hall, C/3C Matthew Flores, C/4C Natalia Flores,  C/4C Isabella Bouchard**
 
-_Function:_ Assists the Public Affairs, Outreach, and Recruiting Officer by staffing all SQ recruiting and retention events and coordinating community outreach events.
+**Function:** Assists the Public Affairs, Outreach, and Recruiting Officer by staffing all SQ recruiting and retention events and coordinating community outreach events.
 
-_Reports to:_ SQ/RO
+**Reports to:** SQ/RO
 
-_Duties:_ The CW/PAD is responsible for:
+**Duties:** The CW/PAD is responsible for:
 
 1.     Supporting recruitment events organized by the SQ/RO.
 
@@ -623,7 +611,7 @@ _Duties:_ The CW/PAD is responsible for:
 
 3.     Organizing community service events for SQ participation.
 
-_Deliverables:_
+**Deliverables:**
 
 1.     Organize at least two community service events scheduled NLT LLAB #13.
 
@@ -633,27 +621,27 @@ _Deliverables:_
 
 ### **Civil Air Patrol Representative (345 SQ/CAP) – C/3C Schuyler McCullough**
 
-_Function:_ Acts as a liaison between Detachment 345 and local Civil Air Patrol units.
+**Function:** Acts as a liaison between Detachment 345 and local Civil Air Patrol units.
 
-_Reports to:_ SQ/RO
+**Reports to:** SQ/RO
 
-_Duties:_ The **SQ/CAP** is responsible for:
+**Duties:** The **SQ/CAP** is responsible for:
 
 1.     Organizing Detachment 345 support for any local Civil Air Patrol events.
 
 2.     Organizing Civil Air Patrol orientation flights for the CW.
 
-_Deliverables:_
+**Deliverables:**
 
 1.     Contact MA Wing of Civil Air Patrol point of contact to begin scheduling orientation flights NLT LLAB #3.
 
 ### **AFCEA Representative (345 SQ/AFCEA) – C/3C Michael Kubit & C/3C Adam Warden**
 
-_Function:_ Acts as a liaison between Detachment 345 and AFCEA Lexington-Concord.
+**Function:** Acts as a liaison between Detachment 345 and AFCEA Lexington-Concord.
 
-_Reports to:_ SQ/RO
+**Reports to:** SQ/RO
 
-_Duties:_ The **SQ/AFCEA** is responsible for:
+**Duties:** The **SQ/AFCEA** is responsible for:
 
 1.     Organizing Detachment 345 support for local AFCEA events.
 
@@ -661,21 +649,21 @@ _Duties:_ The **SQ/AFCEA** is responsible for:
 
 ### **JROTC Representative (345 SQ/JROTC) – C/4C Santiago Echeverry & C/4C Danny Tran**
 
-_Function:_ Acts as a liaison between Detachment 345 and local JROTC units.
+**Function:** Acts as a liaison between Detachment 345 and local JROTC units.
 
-_Reports to:_ SQ/RO
+**Reports to:** SQ/RO
 
-_Duties:_ The SQ/JROTC is responsible for:
+**Duties:** The SQ/JROTC is responsible for:
 
 1.     Organizing Detachment 345 support for any local JROTC events.
 
 ### **Physical Fitness Deputies (345 SQ/PTL) – C/3C Joanna Gordon, C/3C Justin Flynn**
 
-_Function:_ To execute PT plans developed by the **345 CDS/UFPM**.
+**Function:** To execute PT plans developed by the **345 CDS/UFPM**.
 
-_Reports to:_ **345 CDS/UFPM**
+**Reports to:** **345 CDS/UFPM**
 
-_Duties:_ The TRS/PFOD is responsible for:
+**Duties:** The TRS/PFOD is responsible for:
 
 1.     Leading the SQ in stretching and workouts during PT sessions.
 
@@ -687,17 +675,17 @@ _Duties:_ The TRS/PFOD is responsible for:
 
 5.     Performing other duties as assigned by the **345 CDS/UFPM**.
 
-_Deliverables:_ 
+**Deliverables:** 
 
 1.     Develop a schedule for rotating PTL’s each week NLT LLAB #3.
 
 ### **Communication Support Officers (CS?)** **– C/3C Ryan Belanger, C/3C Nolan O’Rourke**
 
-_Function:_ Assists the CS/CC to provide technical support to Detachment 345 cadets.
+**Function:** Assists the CS/CC to provide technical support to Detachment 345 cadets.
 
-_Reports to:_ (**CS FLT/CC?)**  
+**Reports to:** (**CS FLT/CC?)**  
 
-_Duties:_ The **(CS?)** is responsible for:
+**Duties:** The **(CS?)** is responsible for:
 
 1.     Developing training and maintenance documentation for technological assets as needed.
 
@@ -713,7 +701,7 @@ _Duties:_ The **(CS?)** is responsible for:
 
 8.     Carrying out any additional duties delegated by the **CS FLT/CC?)**  .
 
-_Deliverables:_ 
+**Deliverables:** 
 
 1.     Create an inventory of all cyber assets in the Detachment NLT LLAB #5.
 
@@ -721,11 +709,11 @@ _Deliverables:_ 
 
 ### **Material Management Officers (LRS/LGRM) ?– C/3C Brian Bui-Tran, C/3C Austin Bobb, C/3C Al Fox**
 
-_Function:_ Oversees the readiness and serviceability of uniform articles for the SQ.
+**Function:** Oversees the readiness and serviceability of uniform articles for the SQ.
 
-_Reports to:_ (**LS FLT/CC?)**
+**Reports to:** (**LS FLT/CC?)**
 
-_Duties:_ The LRS/LGRM is responsible for:
+**Duties:** The LRS/LGRM is responsible for:
 
 1.     Managing the uniform program for Detachment 345.
 
@@ -737,7 +725,7 @@ _Duties:_ The LRS/LGRM is responsible for:
 
 5.     Carrying out any additional duties delegated by the (**LS FLT/CC?)**.
 
-_Deliverables:_ 
+**Deliverables:** 
 
 1.     Complete an inventory of uniform articles and provide it to the (**LS FLT/CC?)** NLT LLAB #5.
 
