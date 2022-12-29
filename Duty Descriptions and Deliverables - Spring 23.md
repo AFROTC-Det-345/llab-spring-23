@@ -137,12 +137,12 @@
 7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
 
 ## RECRUITING AND RETENTION FLIGHT
-### Recruiting & Retention Flight Commander (345 RFC/CC) – C/Maj Bryan Hureau
+### Recruiting & Retention Flight Commander (345 CSQ/RR) – C/Maj Bryan Hureau
 **Function:** Oversees detachment public affairs, outreach, and recruiting through local community events, and supervises social media presence. Acts as Point of Contact (PoC) when coordinating with external organizations.
 
 **Reports to:** 345 SQ/DO
 
-**Duties:** The 345 RFC/CC is responsible for:
+**Duties:** The Recruiting & Retention Flight Commander is responsible for:
 1. Planning and executing recruitment events, etc. as coordinated by the RO at UMass Lowell
 2. Overseeing the planning and execution of recruiting events, etc. at host crosstown universities as organized by 345 OIC/CRR.
 3. Ensuring pictures are taken at all PMT and voluntary PMT cadet functions and posting them to Flickr.
@@ -158,41 +158,27 @@
 5. Upload pictures to Detachment Flickr weekly.
 6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
-### **OIC of Crosstown Recruiting & Retention (345 OIC/CRR) – C/Capt Evan Blatus**
-
+### OIC, Crosstown Recruiting & Retention (345 CSQ/RRC) – C/Capt Evan Blatus
 **Function:** Oversees outreach, and recruiting through local community events around host crosstown universities as well as supervises all GMC recruiting and retention deputies.
 
 **Reports to:** 345 RFC/CC
 
-**Duties:** The 345 OIC/CRR is responsible for:
-
-1.     Planning and executing recruitment events, etc. as coordinated by the RO at host crosstown universities
-
-2.     Overseeing liaisons reaching out to local JROTC detachments, Civil Air Patrol units and AFCEA.
-
-3.     Ensuring pictures are taken at all crosstown recruiting events and sending them to the RFC/CC to post to Flickr.
-
-5.     Researching opportunities for Detachment 345 publicity through outside organizations (Lowell Sun, UMass Lowell, AFA, etc.).  
-
-**7.**     Acting as a point of contact for crosstown cadets.
-
-8.     Monitoring and reporting relationship between the SQ and Air Force ROTC stakeholders including AFA, AFCEA, Junior ROTC, and Civil Air Patrol through the use and supervision of GMC deputies.
-
+**Duties:** The OIC, Crosstown Recruiting & Retentionis responsible for:
+1. Planning and executing recruitment events, etc. as coordinated by the RO at host crosstown universities
+2. Overseeing liaisons reaching out to local JROTC detachments, Civil Air Patrol units and AFCEA.
+3. Ensuring pictures are taken at all crosstown recruiting events and sending them to the RFC/CC to post to Flickr.
+4. Researching opportunities for Detachment 345 publicity through outside organizations (Lowell Sun, UMass Lowell, AFA, etc.).  
+5. Acting as a point of contact for crosstown cadets.
+6. Monitoring and reporting relationship between the SQ and Air Force ROTC stakeholders including AFA, AFCEA, Junior ROTC, and Civil Air Patrol through the use and supervision of GMC deputies.
+   
 **Deliverables:**
-
-**1.**     Deliver a lesson to the SQ on the AF social media policies during LLAB #3**.**
-
-2.     Submit after action reports to RFC/CC following all crosstown recruitment events NLT three days after event execution.
-
-3.     Attain 10% of crosstown cadet attendance to biweekly MWR events.
-
-4.     Assist and attend RFC/CC in the planning of biweekly recruiting events scheduled during LLAB time.
-
-3.     Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
-
-5.     Plan and organize (1) information table and/or recruiting event at each host school and cross-town school per month.
-
-7.     Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
+1. Deliver a lesson to the SQ on the AF social media policies during LLAB #3.
+2. Submit after action reports to RFC/CC following all crosstown recruitment events NLT three days after event execution.
+3. Attain 10% of crosstown cadet attendance to biweekly MWR events.
+4. Assist and attend RFC/CC in the planning of biweekly recruiting events scheduled during LLAB time.
+5. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
+6. Plan and organize (1) information table and/or recruiting event at each host school and cross-town school per month.
+7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ## ****TRAINING OPERATIONS FLIGHT****
 
