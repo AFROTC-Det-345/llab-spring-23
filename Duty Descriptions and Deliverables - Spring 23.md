@@ -180,133 +180,57 @@
 6. Plan and organize (1) information table and/or recruiting event at each host school and cross-town school per month.
 7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
-## ****TRAINING OPERATIONS FLIGHT****
-
-### **Training Operations Flight Commander (345 TOF/CC) – C/Maj Alex Monayer**
-
+## TRAINING OPERATIONS FLIGHT
+### Training Operations Flight Commander (345 CSQ/TOF) – C/Maj Alex Monayer
 **Function:** Oversees all operations within the Training Operations Flight and planning/execution of PMT.
 
-**Reports to:** **(345 CSQ/ UTM)**
+**Reports to:** 345 CSQ/ DO
 
-**Duties:** The (345 TOF/CC) is responsible for:
-
-1.     Exercising command and control over the entire LLAB, IMT, and FTP training environments and working with squadron leadership to standardize training IAW AFROTCI 36-2011 V1 curriculum.
-
-2.     Ensuring Training Staff meet standards in areas of duty and cadet performance through frequent evaluation. (UTM in charge of evaluations?)
-
-3.     Serving as the SME for all LLAB, IMT, and FTP training objectives.
-
-4.     Planning, organizing, and coordinating weekly CONOPs, lesson plans, instructor assignments, and other LLAB aids.
-
-5.     Overseeing the organization of GMC flights and authorizing all changes to structure with approval from CSQ/CC and OFC.
-
-6.     Maintaining staff schedule for IMT, FTP, and Alt LLAB if applicable.
-
-7.     Reporting status of Training to squadron leadership.
-
-8.     Ensuring all needed materials and facilities for PMT activities are obtained through coordination with Training Support Flight.
-
-9.     Reviewing and approving LLAB, IMT, FTP, PT plans, and Concepts of Operations (CONOPs).
-
-10.  Coordinating with Readiness and Plans to ensure completeness of information for awards program.
+**Duties:** The Training Operations Flight Commander is responsible for:
+1. Exercising command and control over the entire LLAB, IMT, and FTP training environments and working with squadron leadership to standardize training IAW AFROTCI 36-2011 V1 curriculum.
+2. Ensuring Training Staff meet standards in areas of duty and cadet performance through frequent evaluation. (UTM in charge of evaluations?)
+3. Serving as the SME for all LLAB, IMT, and FTP training objectives.
+4. Planning, organizing, and coordinating weekly CONOPs, lesson plans, instructor assignments, and other LLAB aids.
+5. Overseeing the organization of GMC flights and authorizing all changes to structure with approval from CSQ/CC and OFC.
+6. Maintaining staff schedule for IMT, FTP, and Alt LLAB if applicable.
+7. Reporting status of Training to squadron leadership.
+8. Ensuring all needed materials and facilities for PMT activities are obtained through coordination with Training Support Flight.
+9. Reviewing and approving LLAB, IMT, FTP, PT plans, and Concepts of Operations (CONOPs).
+10. Coordinating with Readiness and Plans to ensure completeness of information for awards program.
 
 **Deliverables:**
+1. Creation of GMC flight roster NLT ?? January 2023.
+2. Creation of Draft Spring 2023 PMT Schedule NLT 04 January 2023
+3. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.  
+4. Report CSQ accountability to CSQ/CC at the beginning of every PMT event. 
+5. Coordinate CSQ accountability with Trainers and submit Accountability Tracker NLT EOD Sunday to OFC, will be established as part of POC Teams workflow.
+6. Selecting and notifying LLAB presenters NLT two weeks prior to the week of execution.
+7. Update OFC on Training status and Cadet Report Card trends during staff meetings. (UTM)
+8. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
 
-1.     Creation of GMC flight roster NLT ?? January 2023.
-
-2.     Creation of Draft Spring 2023 PMT Schedule NLT 04 January 2023
-
-2.     Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.  
-
-4.     Report CSQ accountability to CSQ/CC at the beginning of every PMT event. 
-
-5.     Coordinate CSQ accountability with Trainers and submit Accountability Tracker NLT EOD Sunday to OFC, will be established as part of POC Teams workflow.
-
-5.     Selecting and notifying LLAB presenters NLT two weeks prior to the week of execution.
-
-6.     Update OFC on Training status and Cadet Report Card trends during staff meetings. (UTM)
-
-7.     Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
-
-### **Flight Trainer (345 TOF/TRN) – C/Capt Cam Ellis**
-
+### Flight Trainer (345 CSQ/TOFT) – C/Capt Cam Ellis, C/Capt Kosta Stavridis
 **Function:** Trains, leads, and mentors AS100, AS200, AS250, and AS500 cadets during PMT.
 
 **Reports to:** (345 TOF/CC)
 
 **Duties:** The TOF/TRN is responsible for:
-
-1.     Tracking flight accountability at all PMT events on CW Accountability Tracker, and reporting it to Training Ops Flt/CC prior to the start of PMT.
-
-2.     Identifying GMC struggling to maintain academic, physical fitness, or Air Force standards.
-
-3.     Conducting uniform inspections with support of (CSQ/RPO) at all PMT events to ensure proper uniform wear per AFI 36-2903 and AFI 36-2903 AFROTC SUP.
-
-4.     Supporting GMC flight members with creation of standardization document in conjunction with (CSQ/RPO).
-
-5.     Instructing GMC cadets IAW weekly OPORD, plans delivered from the Training Ops Flt/CC, and AFROTCI 36-2011 V1.
-
-6.     Tracking individual objectives for cadets within their flight and reporting them to (CSQ/UTM).
-
-7.     Assisting with PMT planning (CONOPS, lesson plans, etc.).
-
-8.     Communicating training plans to supporting POC staff if applicable.
+1. Tracking flight accountability at all PMT events on CW Accountability Tracker, and reporting it to Training Ops Flt/CC prior to the start of PMT.
+2. Identifying GMC struggling to maintain academic, physical fitness, or Air Force standards.
+3. Conducting uniform inspections with support of (CSQ/RPO) at all PMT events to ensure proper uniform wear per AFI 36-2903 and AFI 36-2903 AFROTC SUP.
+4. Supporting GMC flight members with creation of standardization document in conjunction with (CSQ/RPO).
+5. Instructing GMC cadets IAW weekly OPORD, plans delivered from the Training Ops Flt/CC, and AFROTCI 36-2011 V1.
+6. Tracking individual objectives for cadets within their flight and reporting them to (CSQ/UTM).
+7. Assisting with PMT planning (CONOPS, lesson plans, etc.).
+8. Communicating training plans to supporting POC staff if applicable.
 
 **Deliverables:**  
-
-1.     Update GMC Packet (Operating Instruction) NLT ?? Jan 2023.
-
-2.     Rotate GMC cadet positions weekly.
-
-3.     Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
-
-4.     Update Accountability Tracker NLT 24hrs after PMT event for all cadets in their element.
-
-5.     Update Cadet Report Card NLT 24 hours after any PMT for all cadets in their element
-
-6.     Assist Training Ops Flt/CC in preparing LLAB, IMT, and FTP plans for submission to (TOF/CC) NLT five days before the week of execution.
-
-7.     Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
-
-### ** Flight Trainer (345 TOF/TRN) – C/Capt Kosta Stavridis**
-
-**Function:** Trains, leads, and mentors AS100, AS200, AS250, and AS500 cadets during PMT.
-
-**Reports to:** (345 TOF/CC)
-
-**Duties:** The TOF/TRN is responsible for:
-
-1.     Tracking flight accountability at all PMT events on CW Accountability Tracker, and reporting it to Training Ops Flt/CC prior to the start of PMT.
-
-2.     Identifying GMC struggling to maintain academic, physical fitness, or Air Force standards.
-
-3.     Conducting uniform inspections with support of (CSQ/RPO) at all PMT events to ensure proper uniform wear per AFI 36-2903 and AFI 36-2903 AFROTC SUP.
-
-4.     Supporting GMC flight members with creation of standardization document in conjunction with (CSQ/RPO).
-
-5.     Instructing GMC cadets IAW weekly OPORD, plans delivered from the Training Ops Flt/CC, and AFROTCI 36-2011 V1.
-
-6.     Tracking individual objectives for cadets within their flight and reporting them to (CSQ/UTM).
-
-7.     Assisting with PMT planning (CONOPS, lesson plans, etc.).
-
-8.     Communicating training plans to supporting POC staff if applicable.
-
-**Deliverables:**  
-
-1.     Update GMC Packet (Operating Instruction) NLT ?? Jan 2023.
-
-2.     Rotate GMC cadet positions weekly.
-
-3.     Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
-
-4.     Update Accountability Tracker NLT 24hrs after PMT event for all cadets in their element.
-
-5.     Update Cadet Report Card NLT 24 hours after any PMT for all cadets in their element
-
-6.     Assist Training Ops Flt/CC in preparing LLAB, IMT, and FTP plans for submission to (TOF/CC) NLT five days before the week of execution.
-
-7.     Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
+1. Update GMC Packet (Operating Instruction) NLT ?? Jan 2023.
+2. Rotate GMC cadet positions weekly.
+3. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
+4. Update Accountability Tracker NLT 24hrs after PMT event for all cadets in their element.
+5. Update Cadet Report Card NLT 24 hours after any PMT for all cadets in their element
+6. Assist Training Ops Flt/CC in preparing LLAB, IMT, and FTP plans for submission to (TOF/CC) NLT five days before the week of execution.
+7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
 
 ### **Unit Fitness Program Manager (345 CDS/UFPM) – C/Capt Seth Perry**
 
