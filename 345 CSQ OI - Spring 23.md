@@ -28,7 +28,7 @@ This operating instruction (OI) is AFROTC Det 345 OPLAN equivalent and establish
 - [ ] Insert ToC
 
 ## CHAPTER 1 – SYLLABUS INFORMATION
-### COURSE TITLE
+### Course Title
 Aerospace Studies (AERO) 0001 *Leadership Laboratory (LLAB),* (0 credit hours)
 
 **Leadership Development**, Tuesdays 1530-1730 Location varies based on scheduled activities.
@@ -39,23 +39,23 @@ Aerospace Studies (AERO) 0001 *Leadership Laboratory (LLAB),* (0 credit hours)
 
 **Always refer to the weekly OPORD for location information.**
 
-### INSTRUCTOR CONTACT INFO
+### Instructor Contact Info
 Major Daniel McKeown, USAF
 Office Phone: (978) 934-4948
 Office Hours: TBD
 E-mail: [daniel_mckeown@uml.edu](mailto:daniel_mckeown@uml.edu)
 
-### COURSE DESCRIPTION
+### Course Description
 The purpose of the program is to augment the AFROTC academic curriculum by providing prospective Department of the Air Force (DAF) officers the opportunities and feedback needed to develop the leadership, managerial, and supervisory skills required of successful DAF officers.
 
-### COURSE OBJECTIVES
+### Course Objectives
 **1. Leadership Development:** LLAB is a dynamic and integrated grouping of leadership developmental activities designed to meet the needs and expectations of prospective Air Force second lieutenants and complement the AFROTC academic program. Most of the lesson objectives are cadet planned, organized, and executed under the supervision of the Detachment Commander and OFC. Cross-town cadets are not expected to attend LLAB when their host institution is not in session. Please communicate these excused absences in advance because LLAB Objectives still need to be covered at another opportunity during the academic year.
 
 **2. Physical Training:** LLAB also incorporates a mandatory PT program. This program is designed to keep you physically fit and deliver a structured program to prepare you to pass the Air Force Physical Fitness Assessment (PFA). You may need to supplement this program with individual workouts to reach your individual fitness goals. Cross-town cadets are not expected to attend Monday/Wednesday PT sessions but instead work with the Cadet Physical Fitness Officer for PT workout planning/tracking. **All** cadets are expected to attend Friday afternoon PT sessions.
 
 **3. Professional Development Training (PDT)**: It is an integral part of the 4-year curriculum. It is designed to progress cadets from academic experiences into operational application and understanding. PDTs are broken up into two classifications, General Military Course (GMC) or Professional Officer Course (POC), and align with the respective part of the 4-year program. PDT events build upon classroom instruction by expose cadets to the Air Force mission, culture, and opportunities while reinforcing leadership skills. Each cadet must participate in at least one PDT as a GMC and one PDT as a POC. A cadet must accrue at least two PDT events before they are eligible to commission. There will be one planned PDT event in each semester and cadets will be eligible to compete for regional/national-level PDT events.
 
-### COURSE REQUIREMENTS
+### Course Requirements
 #### Attendance and Tardiness
 Attendance at all LLABs and PT sessions per week is expected. Students must achieve at least 80 percent attendance over the course of the term to pass LLAB and PT. All absences will initially be categorized as unexcused and will count against the 80 percent attendance requirement. 
 
@@ -97,22 +97,18 @@ The UML Academic Integrity policy may be further explored at the following link:
 
 > “We will not lie, steal, or cheat, nor tolerate among us anyone who does.
 
-#### Civil Involvements
-While in the AFROTC program, you should respect all civil, military, and school policies and refrain from behavior that leads to being cited or charged by civil, military, or school agencies. Any offense, violation of law or ordinance, or any other incident causing adverse involvement or contact with civil, military, or school authorities as an adult or juvenile is an involvement for AFROTC purposes and must be reported in WINGS. If you are involved in an incident, you must report the adverse involvement to cadre within 72 hours of the incident. The initial cadre point of contact for civil involvements will be Technical Sergeant Jairzinho Chin.
-
-AFROTC cadets will self-report the Civil Involvement via WINGS at the following link: [https://WINGS.holmcenter.com/psp/hcp/LANDING/PORT_HCP/h/?tab=HOME](https://wings.holmcenter.com/psp/hcp/LANDING/PORT_HCP/h/?tab=HOME)
-
-#### Drug Use
-During the completion of the AFROTC application, you completed the AFROTC Form 2030 on the United States Air Force Drug and Alcohol Abuse Policy. With this certification, you have been counseled and briefed on the fact that any future use (referred as post-orientation) is disqualifying (non-waivable). AFROTC is an extremely competitive environment and any illegal drug use will jeopardize your future career as an Air Force Officer. Cadets who are under 21 years old are strongly discouraged from drinking alcohol. If underage cadets are found guilty by school or civil authorities of underage drinking, those cadets will be counseled and may be processed for disenrollment or asked to leave the program.
-
-The Air Force has a Zero Tolerance policy on illegal drug use or abuse in the cadet corps and on active duty. By signing the Drug Demand Reduction Program memorandum of understanding upon program entry, you are subject to random drug testing any time after program entry during the Academic Year or at Field Training.
-
-#### Inclement Weather/Safety
+### Safety
+#### Inclement Weather
 Safety is paramount. No student should jeopardize their safety to make it to class. For commuters, this includes speeding to avoid being late. Be aware of road conditions and inclement/winter weather the evening before class. If the roads are impassable or unsafe, please contact your Cadet Squadron supervisor if you do not think you will make class or will be late. Plan ahead; bad weather will slow travel, so leave early for class if safe to do so. If you have transportation problems outside of weather delays, contact your Cadet Squadron supervisor to apprise your situation.
 
 Please register for approved University of Massachusetts – Lowell emergency communications via text message and email at: [https://www.getrave.com/login/uml](https://www.getrave.com/login/uml). This notification system will provide detailed instructions as to the delay or closure of UML. In the event UML is delayed or closed, Air Force ROTC classes will be subsequently cancelled for the day affected by inclement weather. If the instructor cancels class for safety or weather considerations, the Cadet Squadron Chain of Command will initiate recall procedures to ensure everyone is notified.
 
-### CURRICULUM
+#### Medical Qualification
+Non-contract cadets who have not completed a Department of Defense Medical Examination Review Board (DoDMERB) physical are required to have a sports physical to participate in LLAB/PT. A sports physical will expire no later than one year after completed and dated. If you do not have a certified sports physical on file, you will be required to attend all weekly PT sessions and observe to avoid an unexcused absence.
+
+For contracted cadets placed on a Medical Recheck Status (MRS), you will be excused from participating in PT activities and attempting the PFA; however you will still be required to attend all weekly PT sessions to avoid an unexcused absence.
+
+### Curriculum
 #### Lesson Objectives
 1. Provide first-year cadets an informative and motivational program designed to recruit, retain, and familiarize cadets with the Air Force way of life and foster leadership, followership, teamwork, and esprit de corps.
 2. Provide cadets scheduled to attend Field Training (FT) with the mental and physical skills needed to succeed in the AFROTC FT environment.
@@ -141,16 +137,7 @@ LLAB is on a pass/no credit system. There is no scale associated with the assign
   1. All cadets must attend a minimum of 80 percent of LLAB activities. Cadets must also meet the 80 percent PT attendance requirements to pass LLAB.
   2. Cadet must show a positive attitude towards training. The inability or refusal to conform to military training may result in immediate failure and/or dismissal from the course. This requirement is assumed to be met by all cadets, unless otherwise documented.
 
-### OTHER INFORMATION
-#### Detachment 345 Cadet Communication
-The Cadet Squadron MS Teams page has source documents pertinent to your success in this class. It can be found here: [https://teams.microsoft.com/l/team/19%3axT2oLqa5SflJVRQhdmP2ndaYvFH3lKZzm2hNTG_8pn41%40thread.tacv2/conversations?groupId=cb726f59-dd8a-4a54-93e5-5fd00b88824e&tenantId=4c25b8a6-17f7-46f9-83f0-54734ab81fb1](https://teams.microsoft.com/l/team/19%3axT2oLqa5SflJVRQhdmP2ndaYvFH3lKZzm2hNTG_8pn41%40thread.tacv2/conversations?groupId=cb726f59-dd8a-4a54-93e5-5fd00b88824e&tenantId=4c25b8a6-17f7-46f9-83f0-54734ab81fb1)
-
-#### Medical Qualification
-Non-contract cadets who have not completed a Department of Defense Medical Examination Review Board (DoDMERB) physical are required to have a sports physical to participate in LLAB/PT. A sports physical will expire no later than one year after completed and dated. If you do not have a certified sports physical on file, you will be required to attend all weekly PT sessions and observe to avoid an unexcused absence.
-
-For contracted cadets placed on a Medical Recheck Status (MRS), you will be excused from participating in PT activities and attempting the PFA; however you will still be required to attend all weekly PT sessions to avoid an unexcused absence.
-
-## CHAPTER 2 - ADMINISTRATION
+## CHAPTER 2 - GENERAL INFORMATION & POLICY
 ### Situation
 HQ ROTC has directed Detachment 345 to execute Practical Military Training (PMT) in accordance with AFROTCI 36-2011, _Cadet Operations_ and AFROTC 36-2011 Volume 1, _Cadet’s Guide to Leadership Laboratory (LLAB) Curriculum, Academic Year 2022- 2023_ to recruit, train, and commission the world’s best Air Force and Space Force Second Lieutenants.  This directive establishes the mission, responsibilities, and Det 345 force structure.
 
@@ -159,6 +146,9 @@ The 345th Air Force ROTC Detachment Cadet Wing trains, educates, and motivates c
 
 ### Vision
 Fostering a high performing and supportive environment that emphasizes mentorship, ownership, and attention to detail.
+
+### Detachment 345 Cadet Communication
+The Cadet Squadron MS Teams page has source documents pertinent to your success in this class. It can be found here: [https://teams.microsoft.com/l/team/19%3axT2oLqa5SflJVRQhdmP2ndaYvFH3lKZzm2hNTG_8pn41%40thread.tacv2/conversations?groupId=cb726f59-dd8a-4a54-93e5-5fd00b88824e&tenantId=4c25b8a6-17f7-46f9-83f0-54734ab81fb1](https://teams.microsoft.com/l/team/19%3axT2oLqa5SflJVRQhdmP2ndaYvFH3lKZzm2hNTG_8pn41%40thread.tacv2/conversations?groupId=cb726f59-dd8a-4a54-93e5-5fd00b88824e&tenantId=4c25b8a6-17f7-46f9-83f0-54734ab81fb1)
 
 ### Policies
 Outlined below are various Cadet Wing policies to be implemented throughout the Fall 2022 semester. The intention for these policies is to clearly covey expectations for the Cadet Wing as a whole, and to serve as a quick reference for all cadets.
@@ -179,6 +169,16 @@ Detachment 345 has a zero-tolerance policy on sexual harassment and assault, dru
 Cadets with exemplary Physical Fitness Assessment scores will be granted “PT Passes” on a sliding scale. The pass may be used at the cadet’s discretion to excuse them from one PT session without counting against their total attendance. The cadet must inform their chain of command NLT 24 hours prior to its use for proper accountability of all cadets. This number of passes is determined by following scale:
   - ≥ 95 PFA score grants one PT Pass
   - = 100 PFA score grants two PT Passes
+
+#### Civil Involvements
+While in the AFROTC program, you should respect all civil, military, and school policies and refrain from behavior that leads to being cited or charged by civil, military, or school agencies. Any offense, violation of law or ordinance, or any other incident causing adverse involvement or contact with civil, military, or school authorities as an adult or juvenile is an involvement for AFROTC purposes and must be reported in WINGS. If you are involved in an incident, you must report the adverse involvement to cadre within 72 hours of the incident. The initial cadre point of contact for civil involvements will be Technical Sergeant Jairzinho Chin.
+
+AFROTC cadets will self-report the Civil Involvement via WINGS at the following link: [https://WINGS.holmcenter.com/psp/hcp/LANDING/PORT_HCP/h/?tab=HOME](https://wings.holmcenter.com/psp/hcp/LANDING/PORT_HCP/h/?tab=HOME)
+
+#### Drug Use
+During the completion of the AFROTC application, you completed the AFROTC Form 2030 on the United States Air Force Drug and Alcohol Abuse Policy. With this certification, you have been counseled and briefed on the fact that any future use (referred as post-orientation) is disqualifying (non-waivable). AFROTC is an extremely competitive environment and any illegal drug use will jeopardize your future career as an Air Force Officer. Cadets who are under 21 years old are strongly discouraged from drinking alcohol. If underage cadets are found guilty by school or civil authorities of underage drinking, those cadets will be counseled and may be processed for disenrollment or asked to leave the program.
+
+The Air Force has a Zero Tolerance policy on illegal drug use or abuse in the cadet corps and on active duty. By signing the Drug Demand Reduction Program memorandum of understanding upon program entry, you are subject to random drug testing any time after program entry during the Academic Year or at Field Training.
 
 ## CHAPTER 3 – CADET WING ORGANIZATION
 ### Organizational Structure
