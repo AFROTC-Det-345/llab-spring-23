@@ -1,21 +1,21 @@
 **_BY ORDER OF THE COMMANDER_**
 
-**_345th CADET SQUADRON AFROTC_**
+**_345th CADET SQUADRON (AFROTC)_**
 
 ![Logo
 Description automatically generated](file:////Users/danielmckeown/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png) 
 
-**_CADET WING OPERATIONS PLAN_**
-**_25 AUGUST 2022_**
-**_FALL 2022 SEMESTER_**
+**_CADET SQUADRON OPERATING INSTRUCTION_**
+**_6 JAN 2023_**
+**_SPRING SEMESTER_**
 
 **COMPLIANCE WITH THIS PUBLICATION IS MANDATORY**
-**ACCESSIBILITY:**  This document can be accessed in the Detachment 345 Microsoft Teams.
-**RELEASIBILITY:**  Cadre and cadets of Air Force ROTC Detachment 345.
+**ACCESSIBILITY:**This document can be accessed in the Detachment 345 Microsoft Teams.
+**RELEASIBILITY:**Cadre and cadets of Air Force ROTC Detachment 345.
 
 OPR: 345 CSQ/CC
 Supersedes: Fall 2022 OPLAN
-Certified by:  AFROTC Det 345/OFC
+Certified by: AFROTC Det 345/OFC
 
 IAW AFROTCI 36-2011V3, 31 March 2022, *Cadet Operations* para. 10.2.13. The OPLAN is designed to provide the Cadet Wing, or equivalent, an OFC approved training roadmap for a specific semester.  At a minimum, OPLANs must include:
   >10.2.13.1.  When the required training objectives are to be presented within the semester.  If any training objectives for the academic year will not be presented during the semester, the current OPLAN must account for these missed objectives in either a previous or subsequent OPLAN that falls within the same academic year.
@@ -36,7 +36,7 @@ Aerospace Studies (AERO) 0001 *Leadership Laboratory (LLAB),* (0 credit hours)
 
 **Physical Training (PT)**, Mondays/Wednesdays 0630-0730 & Fridays 1610-1700, Location varies based on scheduled activities.
 
-**Always refer to the weekly OPORD.**
+**Always refer to the weekly OPORD for location information.**
 
 ### INSTRUCTOR CONTACT INFO
 Major Daniel McKeown, USAF
@@ -118,7 +118,7 @@ Please register for approved University of Massachusetts – Lowell emergency co
 3. Provide cadets returning from FT sufficient opportunities to demonstrate and develop the leadership and management skills needed to successfully function as active duty officers.
 4. Provide cadets to be commissioned additional opportunities to demonstrate and develop the leadership and management skills needed to successfully function as an active duty officer and to adequately prepare them to transition from the AFROTC environment to active duty.
 
-**NOTE:** A full list of objectives can be found in AFROTCI 36-2011 Vol 1.
+**NOTE:** A full list of objectives can be found in AFROTCI 36-2011V1.
 
 #### 2. Reading Assignments
 You **must** read and understand the weekly Operations Order (OPORD) prior to the beginning of LLAB and PT. The OPORDs are located on MS Teams. Please direct questions or concerns with OPORDs directly through your Cadet Squadron Chain of Command.
@@ -180,22 +180,15 @@ Attendance at mandatory Practical Military Training events is the expected norm.
 Regular attendance is also expected for POC at events in addition to PMT. Such events may include, but are not limited to, weekly meetings for all POC that take place before and after PMT, Cadre meetings for members of CW leadership, and meetings for all POC following AS300 and AS400 class.
 
 Detachment 345 has a zero-tolerance policy on sexual harassment and assault, drug abuse, underage drinking, mal-training, and discrimination of any kind. If a cadet would like to report on one of these issues, there are four courses of action one may take:
-
-Follow their respective chain of command, informing their direct supervisor.
-
-“Jump” their chain of command and inform their superior’s superior, or any other cadet higher in the chain of command or go directly to the Cadre.
-
-Go directly to the Cadet Wing Inspector General.
-
-Utilize the Commander’s Action Line.
-
-The Commander’s Action Line is an anonymous reporting tool for issues of mal-training, mal-treatment, hazing, unprofessional relations, or any other serious concerns that are shared directly with the Detachment Commander. The form is For Official Use Only (FOUO) and can be accessed via the Detachment 345 Teams.
+   - Follow their respective chain of command, informing their direct supervisor.
+   - “Jump” their chain of command and inform their superior’s superior, or any other cadet higher in the chain of command or go directly to the Cadre.
+   - Go directly to the Cadet Wing Inspector General.
+   - Utilize the Commander’s Action Line.
+     - The Commander’s Action Line is an anonymous reporting tool for issues of mal-training, mal-treatment, hazing, unprofessional relations, or any other serious concerns that are shared directly with the Detachment Commander. The form is For Official Use Only (FOUO) and can be accessed via the Detachment 345 Teams.
 
 Cadets with exemplary Physical Fitness Assessment scores will be granted “PT Passes” on a sliding scale. The pass may be used at the cadet’s discretion to excuse them from one PT session without counting against their total attendance. The cadet must inform their chain of command NLT 24 hours prior to its use for proper accountability of all cadets. This number of passes is determined by following scale:
-
-≥ 95 PFA score grants one PT Pass
-
-= 100 PFA score grants two PT Passes
+  - ≥ 95 PFA score grants one PT Pass
+  - = 100 PFA score grants two PT Passes
 
 ## CHAPTER 3 – CADET WING ORGANIZATION
 
