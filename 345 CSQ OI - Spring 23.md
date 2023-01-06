@@ -56,7 +56,7 @@ The purpose of the program is to augment the AFROTC academic curriculum by provi
 **3. Professional Development Training (PDT)**: It is an integral part of the 4-year curriculum. It is designed to progress cadets from academic experiences into operational application and understanding. PDTs are broken up into two classifications, General Military Course (GMC) or Professional Officer Course (POC), and align with the respective part of the 4-year program. PDT events build upon classroom instruction by expose cadets to the Air Force mission, culture, and opportunities while reinforcing leadership skills. Each cadet must participate in at least one PDT as a GMC and one PDT as a POC. A cadet must accrue at least two PDT events before they are eligible to commission. There will be one planned PDT event in each semester and cadets will be eligible to compete for regional/national-level PDT events.
 
 ### COURSE REQUIREMENTS
-#### 1. Attendance and Tardiness
+#### Attendance and Tardiness
 Attendance at all LLABs and PT sessions per week is expected. Students must achieve at least 80 percent attendance over the course of the term to pass LLAB and PT. All absences will initially be categorized as unexcused and will count against the 80 percent attendance requirement. 
 
 If you are unable to attend a LLAB or PT session, notify your Cadet Squadron Chain of Command to let them know why you are unable to attend. Each cadet must submit a missed memo for the absence **no later than 3 days** from the absence. 
@@ -77,18 +77,18 @@ Cadets are responsible for working through their Cadet Squadron Chain of Command
 
 Late arrivals can be disruptive to LLAB and PT and discourteous to the instructor and other students. If you know you will be late for LLAB or PT, coordinate in advance with your Cadet Squadron Chain of Command. If you are late, your attendance will initially be counted as unexcused. You will be required to provide a missed PMT memo **no later than 3 days** from the date of the late arrival.
 
-#### 2. Customs and Courtesies/Personal Appearance
+#### Customs and Courtesies/Personal Appearance
 AFROTC cadets will wear the uniform of the day (UOD) on Tuesdays to **all** university classes and LLAB. The UOD will be identified in advance of LLAB in the weekly Operations Order. If you have not been issued a uniform, cadets will wear appropriate business-like attire—no jeans, sneakers, dirty, wrinkled, or provocative/revealing clothing. Your personal appearance will be within Air Force standards. Do not wear distinctive Air Force-provided clothing while conducting fundraising activities.
 
 Cadets will observe standard military customs and courtesies during LLAB and PT. These customs and courtesies include coming to attention when the senior officer enters and leaves the area, wearing the uniform directed by the current Operations Order unless an alternative is previously approved, and complying with Department of the Air Force Instruction (DAFI) 36-2903 *“Dress and Personal Appearance of Air Force Personnel”* and the AFROTC Supplement at all times.
 
-#### 3. Academic Freedom
+#### Academic Freedom
 Disagreement and free expression of opinion are encouraged, but must be professional and courteous. To promote free expression, academic freedom and non-attribution will be observed. There will be no retribution for ideas or opinions expressed in class and students may not attribute an idea or opinion to an individual outside the classroom without that person’s consent. This freedom allows us the opportunity to engage in the entire spectrum of activities involved in the search of knowledge and understanding of our subject while maintaining mutual respect of others.
 
-#### 4. Food/Tobacco Use
+#### Food/Tobacco Use
 Snacks and drinks are permitted as long as they do not become disruptive to other class members or presentation of material. All cadets are required to bring a water source to **all** PMT activities in order to maintain hydration. The use of tobacco products is prohibited.
 
-#### 5. Academic Integrity
+#### Academic Integrity
 When submitting work for academic credit, it is assumed the work is the student’s own. Plagiarism is the act of using another person’s ideas, expressions, or thoughts without acknowledging the source. If students use quotations, text, or ideas from a source other than themselves, documentation is required. For written work, documentation is given using footnotes, references, or bibliographies. If help was received help from another person in the accomplishment of an assignment, that collaboration must be documented. All students, including cross-town enrollees, will comply with the University of Massachusetts–Lowell Academic Integrity policy:
 
 > “The integrity of the academic enterprise of any institution of higher education requires honesty in all aspects of its endeavor. Maintaining academic integrity is therefore the responsibility of all faculty, staff, and students at the University of Massachusetts–Lowell. Academic dishonesty is prohibited in all programs of the University. Sanctions may be imposed on any student who has committed an act of academic dishonesty.”
@@ -97,23 +97,23 @@ The UML Academic Integrity policy may be further explored at the following link:
 
 > “We will not lie, steal, or cheat, nor tolerate among us anyone who does.
 
-#### 6. Civil Involvements
+#### Civil Involvements
 While in the AFROTC program, you should respect all civil, military, and school policies and refrain from behavior that leads to being cited or charged by civil, military, or school agencies. Any offense, violation of law or ordinance, or any other incident causing adverse involvement or contact with civil, military, or school authorities as an adult or juvenile is an involvement for AFROTC purposes and must be reported in WINGS. If you are involved in an incident, you must report the adverse involvement to cadre within 72 hours of the incident. The initial cadre point of contact for civil involvements will be Technical Sergeant Jairzinho Chin.
 
 AFROTC cadets will self-report the Civil Involvement via WINGS at the following link: [https://WINGS.holmcenter.com/psp/hcp/LANDING/PORT_HCP/h/?tab=HOME](https://wings.holmcenter.com/psp/hcp/LANDING/PORT_HCP/h/?tab=HOME)
 
-#### 7. Drug Use
+#### Drug Use
 During the completion of the AFROTC application, you completed the AFROTC Form 2030 on the United States Air Force Drug and Alcohol Abuse Policy. With this certification, you have been counseled and briefed on the fact that any future use (referred as post-orientation) is disqualifying (non-waivable). AFROTC is an extremely competitive environment and any illegal drug use will jeopardize your future career as an Air Force Officer. Cadets who are under 21 years old are strongly discouraged from drinking alcohol. If underage cadets are found guilty by school or civil authorities of underage drinking, those cadets will be counseled and may be processed for disenrollment or asked to leave the program.
 
 The Air Force has a Zero Tolerance policy on illegal drug use or abuse in the cadet corps and on active duty. By signing the Drug Demand Reduction Program memorandum of understanding upon program entry, you are subject to random drug testing any time after program entry during the Academic Year or at Field Training.
 
-#### 8. Inclement Weather/Safety
+#### Inclement Weather/Safety
 Safety is paramount. No student should jeopardize their safety to make it to class. For commuters, this includes speeding to avoid being late. Be aware of road conditions and inclement/winter weather the evening before class. If the roads are impassable or unsafe, please contact your Cadet Squadron supervisor if you do not think you will make class or will be late. Plan ahead; bad weather will slow travel, so leave early for class if safe to do so. If you have transportation problems outside of weather delays, contact your Cadet Squadron supervisor to apprise your situation.
 
 Please register for approved University of Massachusetts – Lowell emergency communications via text message and email at: [https://www.getrave.com/login/uml](https://www.getrave.com/login/uml). This notification system will provide detailed instructions as to the delay or closure of UML. In the event UML is delayed or closed, Air Force ROTC classes will be subsequently cancelled for the day affected by inclement weather. If the instructor cancels class for safety or weather considerations, the Cadet Squadron Chain of Command will initiate recall procedures to ensure everyone is notified.
 
 ### CURRICULUM
-#### 1. Lesson Objectives
+#### Lesson Objectives
 1. Provide first-year cadets an informative and motivational program designed to recruit, retain, and familiarize cadets with the Air Force way of life and foster leadership, followership, teamwork, and esprit de corps.
 2. Provide cadets scheduled to attend Field Training (FT) with the mental and physical skills needed to succeed in the AFROTC FT environment.
 3. Provide cadets returning from FT sufficient opportunities to demonstrate and develop the leadership and management skills needed to successfully function as active duty officers.
@@ -121,10 +121,10 @@ Please register for approved University of Massachusetts – Lowell emergency co
 
 **NOTE:** A full list of objectives can be found in AFROTCI 36-2011V1.
 
-#### 2. Reading Assignments
+#### Reading Assignments
 You **must** read and understand the weekly Operations Order (OPORD) prior to the beginning of LLAB and PT. The OPORDs are located on MS Teams. Please direct questions or concerns with OPORDs directly through your Cadet Squadron Chain of Command.
 
-#### 3. Classification of Cadets
+#### Classification of Cadets
 Normally, cadets are classified as AS100, AS200, AS300, or AS400, corresponding to the academic course in which they are enrolled. Although this classification system works well for most LLAB cadets, it may not apply in all situations. To avoid confusion, the Det/CC and OFC will classify and assign LLAB cadets according to where they are with respect to Field Training attendance and commissioning. For LLAB, cadets are classified using the five areas below:
 
 - **Initial Military Training (IMT)** – Cadets who are part of the General Military Course (GMC) but not scheduled to attend FT, normally AS100 cadets.
@@ -133,19 +133,19 @@ Normally, cadets are classified as AS100, AS200, AS300, or AS400, corresponding 
 - **Senior Cadet Leaders (SCL)** – Cadets scheduled to be commissioned in the upcoming year, normally AS400 cadets.
 - **Extended Cadet Leaders (ECL)** – Cadets scheduled to be commissioned in the upcoming year who have completed all Aerospace Studies and LLAB requirements but have not graduated, normally AS700 or AS800 cadets.
 
-#### 4. Textbook
+#### Textbook
 There are no textbooks required for this course. LLAB and PT goals are met by implementation of a robust LLAB program that incorporates and accomplishes the objectives and samples of behavior in AFI 36-2011 Vol 1, Cadet’s Guide to Leadership Laboratory (LLAB) Curriculum. Each objective in Vol 1 will be accomplished at least once per academic year.
 
-#### 5. Grade Determination
+#### Grade Determination
 LLAB is on a pass/no credit system. There is no scale associated with the assignment of the pass/no credit grade. To pass you must meet **all** of the following requirements:
   1. All cadets must attend a minimum of 80 percent of LLAB activities. Cadets must also meet the 80 percent PT attendance requirements to pass LLAB.
   2. Cadet must show a positive attitude towards training. The inability or refusal to conform to military training may result in immediate failure and/or dismissal from the course. This requirement is assumed to be met by all cadets, unless otherwise documented.
 
 ### OTHER INFORMATION
-#### 1. Detachment 345 Cadet Communication
+#### Detachment 345 Cadet Communication
 The Cadet Squadron MS Teams page has source documents pertinent to your success in this class. It can be found here: [https://teams.microsoft.com/l/team/19%3axT2oLqa5SflJVRQhdmP2ndaYvFH3lKZzm2hNTG_8pn41%40thread.tacv2/conversations?groupId=cb726f59-dd8a-4a54-93e5-5fd00b88824e&tenantId=4c25b8a6-17f7-46f9-83f0-54734ab81fb1](https://teams.microsoft.com/l/team/19%3axT2oLqa5SflJVRQhdmP2ndaYvFH3lKZzm2hNTG_8pn41%40thread.tacv2/conversations?groupId=cb726f59-dd8a-4a54-93e5-5fd00b88824e&tenantId=4c25b8a6-17f7-46f9-83f0-54734ab81fb1)
 
-#### 2. Medical Qualification
+#### Medical Qualification
 Non-contract cadets who have not completed a Department of Defense Medical Examination Review Board (DoDMERB) physical are required to have a sports physical to participate in LLAB/PT. A sports physical will expire no later than one year after completed and dated. If you do not have a certified sports physical on file, you will be required to attend all weekly PT sessions and observe to avoid an unexcused absence.
 
 For contracted cadets placed on a Medical Recheck Status (MRS), you will be excused from participating in PT activities and attempting the PFA; however you will still be required to attend all weekly PT sessions to avoid an unexcused absence.
