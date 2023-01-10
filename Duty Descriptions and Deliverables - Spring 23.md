@@ -331,7 +331,7 @@
 1. Update POC and Detachment Teams NLT 9 January  2023.
 2. Update all roles on the Det 345 Discord NLT 9 January  2023.
 3. Update SQ email distribution list NLT 9 January  2023
-5. Deliver a lesson to the SQ on the cyber domain.
+5. Deliver a Land Navigation lesson on LLAB #7.
 6. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
 7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
