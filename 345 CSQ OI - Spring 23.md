@@ -57,23 +57,11 @@ The purpose of the program is to augment the AFROTC academic curriculum by provi
 
 ### Course Requirements
 #### Attendance and Tardiness
-Attendance at all LLABs and PT sessions per week is expected. Students must achieve at least 80 percent attendance over the course of the term to pass LLAB and PT. All absences will initially be categorized as unexcused and will count against the 80 percent attendance requirement. 
-
-If you are unable to attend a LLAB or PT session, notify your Cadet Squadron Chain of Command to let them know why you are unable to attend. Each cadet must submit a missed memo for the absence **no later than 3 days** from the absence. 
-
-For those cadets that miss LLAB, they will submit the missed memo to Maj McKeown through your Cadet Squadron Chain of Command. For those cadets that miss PT, to include completing the workout tracker (for cross-town cadets), they will submit the missed memo to Maj McKeown. I expect you to explain why you missed mandatory military training, what you could have done to prevent that specific absence, and what you will do to prevent future absences. If you miss a PT session, you will need to document what exercises you completed over a 60-minute make-up. 
-
-Failure to meet the timeline requirements will result in an unexcused absence. 
-
-Lack of sufficient justification (e.g. doctor’s or clinic note) or planned make-up activities will also result in unexcused absences. 
-
-Cadets are responsible for working through their Cadet Squadron Chain of Command to make up and document all work from any missed LLAB.
+Attendance at all LLABs and PT sessions per week is expected. Students must achieve at least 80 percent attendance over the course of the term to pass LLAB and PT. All absences will initially be categorized as unexcused and will count against the 80 percent attendance requirement.
 
 **Cross-town cadets** are not required to attend AFROTC events when their host institution is not in session. LLAB Objectives are required to be completed by all cadets during the current Academic Year, in addition to the 80 percent attendance requirement. Cross-town cadets are not required to attend PT on Monday/Wednesday mornings, they are required to coordinate with Cadet Squadron Unit Fitness Program Monitor for weekly PT requirements.
 
-**Extended Cadet Leaders** have completed the LLAB curriculum requirements and will attend Alt Lab with OFC on a weekly basis to complete Cadet Director roles as required. They are still expected to meet the 80 percent attendance requirement. Extended Cadet Leaders will attend all weekly PT sessions and will coordinate with OFC for excused absences. They will work with 345 TRG/PFO for QFR scheduling.
-
-**NOTE:** Extracurricular activities are not LLAB activities and will **not** be credited for LLAB attendance.
+**Extended Cadet Leaders** have completed the LLAB curriculum requirements and will attend Alt Lab with OFC on a weekly basis to complete Cadet Director roles as required. They are still expected to meet the 80 percent attendance requirement. Extended Cadet Leaders will attend all weekly PT sessions and will coordinate with OFC for excused absences. They will work with 345 /PFO for QFR scheduling.
 
 Late arrivals can be disruptive to LLAB and PT and discourteous to the instructor and other students. If you know you will be late for LLAB or PT, coordinate in advance with your Cadet Squadron Chain of Command. If you are late, your attendance will initially be counted as unexcused. You will be required to provide a missed PMT memo **no later than 3 days** from the date of the late arrival.
 
@@ -169,6 +157,19 @@ Detachment 345 has a zero-tolerance policy on sexual harassment and assault, dru
 Cadets with exemplary Physical Fitness Assessment scores will be granted “PT Passes” on a sliding scale. The pass may be used at the cadet’s discretion to excuse them from one PT session without counting against their total attendance. The cadet must inform their chain of command NLT 24 hours prior to its use for proper accountability of all cadets. This number of passes is determined by following scale:
   - ≥ 95 PFA score grants one PT Pass
   - = 100 PFA score grants two PT Passes
+
+#### Missed PMT
+If you are unable to attend a LLAB or PT session, notify your Cadet Squadron Chain of Command to let them know why you are unable to attend. Each cadet must submit a missed memo for the absence **no later than 3 days** from the absence. 
+
+For those cadets that miss LLAB, they will submit the missed memo to Maj McKeown through your Cadet Squadron Chain of Command. For those cadets that miss PT, to include completing the workout tracker (for cross-town cadets), they will submit the missed memo to Maj McKeown. I expect you to explain why you missed mandatory military training, what you could have done to prevent that specific absence, and what you will do to prevent future absences. If you miss a PT session, you will need to document what exercises you completed over a 60-minute make-up. 
+
+Failure to meet the timeline requirements will result in an unexcused absence. 
+
+Lack of sufficient justification (e.g. doctor’s or clinic note) or planned make-up activities will also result in unexcused absences. 
+
+Cadets are responsible for working through their Cadet Squadron Chain of Command to make up and document all work from any missed LLAB.
+
+**NOTE:** Extracurricular activities are not LLAB activities and will **not** be credited for LLAB attendance.
 
 #### Civil Involvements
 While in the AFROTC program, you should respect all civil, military, and school policies and refrain from behavior that leads to being cited or charged by civil, military, or school agencies. Any offense, violation of law or ordinance, or any other incident causing adverse involvement or contact with civil, military, or school authorities as an adult or juvenile is an involvement for AFROTC purposes and must be reported in WINGS. If you are involved in an incident, you must report the adverse involvement to cadre within 72 hours of the incident. The initial cadre point of contact for civil involvements will be Technical Sergeant Jairzinho Chin.
