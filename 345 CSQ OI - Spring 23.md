@@ -155,7 +155,7 @@ Non-contract cadets who have not completed a Department of Defense Medical Exami
 For contracted cadets placed on a Medical Recheck Status (MRS), you will be excused from participating in PT activities and attempting the PFA; however you will still be required to attend all weekly PT sessions to avoid an unexcused absence.
 
 ## General Policies
-Outlined below are various Cadet Wing policies to be implemented throughout the Fall 2022 semester. The intention for these policies is to clearly covey expectations for the Cadet Wing as a whole, and to serve as a quick reference for all cadets.
+Outlined below are various Cadet Wing policies to be implemented throughout the Spring 2023 semester. The intention for these policies is to clearly covey expectations for the Cadet Wing as a whole, and to serve as a quick reference for all cadets.
 
 ### Zero-Tolerance Policy
 Detachment 345 has a zero-tolerance policy on sexual harassment and assault, drug abuse, underage drinking, mal-training, and discrimination of any kind. If a cadet would like to report on one of these issues, there are four courses of action one may take:
