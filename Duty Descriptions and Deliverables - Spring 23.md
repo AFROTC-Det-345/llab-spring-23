@@ -164,7 +164,7 @@
 2. Brief CSQ leadership and OFC on award tracking status weekly.
 3. Update Uniform Inspection Tracker weekly.
 4. Send out a squadron readiness email monthly.
-5. Determine mid-semester flight awards NLT ?? February 2023.
+5. Determine mid-semester flight awards NLT 26 February 2023.
 6. Determine end-of-semester flight awards individual awards NLT LLAB #12.
 7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
 
@@ -258,13 +258,15 @@
 8. Communicating training plans to supporting POC staff if applicable.
 
 **Deliverables:**  
-1. Update GMC Packet (Operating Instruction) NLT ?? Jan 2023.
+1. Update GMC Packet (Operating Instruction) NLT 10 Jan 2023.
 2. Rotate GMC cadet positions weekly.
-3. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
-4. Update Accountability Tracker NLT 24hrs after PMT event for all cadets in their element.
-5. Update Cadet Report Card NLT 24 hours after any PMT for all cadets in their element
-6. Assist Training Ops Flt/CC in preparing LLAB, IMT, and FTP plans for submission to (TOF/CC) NLT five days before the week of execution.
-7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
+3. Deliver UXO/IED lesson on LLAB #7.
+4. Deliver TCCC lesson on LLAB #7.
+5. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
+6. Update Accountability Tracker NLT 24hrs after PMT event for all cadets in their element.
+7. Update Cadet Report Card NLT 24 hours after any PMT for all cadets in their element
+8. Assist Training Ops Flt/CC in preparing LLAB, IMT, and FTP plans for submission to (TOF/CC) NLT five days before the week of execution.
+9. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
 
 ### Unit Fitness Program Manager (345 CSQ/UFPM) – C/Capt Seth Perry
 **Function:** To plan, coordinate, and execute the CDS Physical Training program.
@@ -355,9 +357,10 @@
 4. Alert respective flight of cleaning duty NLT Tuesday of their week.
 5. Establish weekly staffed uniform room hours NLT LLAB #3.
 6. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
-7. Overhaul the organization of the supply closet NLT LLAB #7.
-8. Report weekly uniform and equipment status to **SQ/OX.**
-9. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
+7. Deliver Radio Etiquette lesson on LLAB#7
+8. Overhaul the organization of the supply closet NLT LLAB #8.
+9. Report weekly uniform and equipment status to **SQ/OX.**
+10. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ## ADDITIONAL DUTIES
 ### Health and Safety Officer C/3C Joanna C. Gordon
