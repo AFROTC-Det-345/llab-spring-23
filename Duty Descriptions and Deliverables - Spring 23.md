@@ -103,7 +103,7 @@
 
 **Deliverables:**
 1. Deliver a brief to the CSQ on the role of the CSQ Inspector General during LLAB #2.
-2. Review and modify the Fall 2022 Mentor Program for use during Spring 2023 NLT LLAB #3.
+2. Review and modify the Fall 2022 Mentorship Program for use during Spring 2023 NLT LLAB #3.
 3. Deliver a briefing to the CSQ on the mentorship program during LLAB #3.
 4. Conduct health and wellness checks on POC at weekly POC meetings.
 5. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
@@ -364,7 +364,7 @@
 
 **Function:** Promotes mental, physical, social, and spiritual fitness through education, utilization of campus resources, morale events, and community service.
 
-**Reports to:** 
+**Reports to:** 345 CSQ/CC
 
 **Duties:** The Health and Safety Officer is responsible for:
 1. Educating the SQ on Comprehensive Airman Fitness or other Commander’s Call topics.
