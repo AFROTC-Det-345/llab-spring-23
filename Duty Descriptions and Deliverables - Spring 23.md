@@ -286,26 +286,6 @@
 3. Submit weekly PT portion of OPORD to (CSQ/UTM) NLT five days prior to the week of execution.
 4. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
 
-### Health and Safety Officer
-
-**Function:** Promotes mental, physical, social, and spiritual fitness through education, utilization of campus resources, morale events, and community service.
-
-**Reports to:** 
-
-**Duties:** The Health and Safety Officer is responsible for:
-1. Educating the SQ on Comprehensive Airman Fitness or other Commander’s Call topics.
-2. Serving as the liaison between CW and campus health and wellness resources to include but not limited to health and wellness center, academic assistance center, student affairs, veteran’s services, and campus ministries.
-3. Hosting SMEs to deliver health and wellness topics and reporting status and availability of special-hosted training to SQ leadership.
-4. Forwarding safety grams and other useful information to the SQ.
-5. Ensuring a safe training environment during PMT. Coordinates with **(345 TSF/CC)** and **(345 TOF/CC)** to ensure availability of safety kits, water, and any other safety-related items.
-6. Coordinating incident reports for cadets injured during PMT activities.
-7. Advise CSQ leadership on university, state, and Department of Defense Coronavirus guidelines.
-8. Reporting immediate safety concerns to the CSQ/CC or CSQ/DO.
-
-**Deliverables:**
-1. Deliver a briefing to the CSQ on health and wellness during LLAB #3.
-2. Forward monthly safety gram to CSQ.
-
 ## TRAINING  SUPPORT FLIGHT
 ### Training Support Flight Commander (345 CSQ/TSF) – C/Maj Ryan Kless
 
@@ -378,6 +358,26 @@
 9. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ## ADDITIONAL DUTIES
+### Health and Safety Officer
+
+**Function:** Promotes mental, physical, social, and spiritual fitness through education, utilization of campus resources, morale events, and community service.
+
+**Reports to:** 
+
+**Duties:** The Health and Safety Officer is responsible for:
+1. Educating the SQ on Comprehensive Airman Fitness or other Commander’s Call topics.
+2. Serving as the liaison between CW and campus health and wellness resources to include but not limited to health and wellness center, academic assistance center, student affairs, veteran’s services, and campus ministries.
+3. Hosting SMEs to deliver health and wellness topics and reporting status and availability of special-hosted training to SQ leadership.
+4. Forwarding safety grams and other useful information to the SQ.
+5. Ensuring a safe training environment during PMT. Coordinates with **(345 TSF/CC)** and **(345 TOF/CC)** to ensure availability of safety kits, water, and any other safety-related items.
+6. Coordinating incident reports for cadets injured during PMT activities.
+7. Advise CSQ leadership on university, state, and Department of Defense Coronavirus guidelines.
+8. Reporting immediate safety concerns to the CSQ/CC or CSQ/DO.
+
+**Deliverables:**
+1. Deliver a briefing to the CSQ on health and wellness during LLAB #3.
+2. Forward monthly safety gram to CSQ.
+
 ### Honor Guard Representatives (345 CSQ/HG) – C/3C Kai Williams & C/4C Sydney Selby
 **Function:** Oversees the detachment Honor Guard.
 
