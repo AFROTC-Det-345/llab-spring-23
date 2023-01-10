@@ -358,7 +358,7 @@
 9. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ## ADDITIONAL DUTIES
-### Health and Safety Officer
+### Health and Safety Officer C/3C Joanna C. Gordon
 
 **Function:** Promotes mental, physical, social, and spiritual fitness through education, utilization of campus resources, morale events, and community service.
 
