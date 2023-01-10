@@ -43,14 +43,10 @@ This operating instruction (OI) is AFROTC Det 345 OPLAN equivalent and establish
   - [Textbook](#textbook)
   - [Grade Determination](#grade-determination)
 - [General Policies](#general-policies)
-  - [Situation](#situation)
-  - [Mission](#mission)
-  - [Vision](#vision)
-  - [Detachment 345 Cadet Communication](#detachment-345-cadet-communication)
-  - [Policies](#policies)
     - [Missed PMT](#missed-pmt)
     - [Civil Involvements](#civil-involvements)
     - [Drug Use](#drug-use)
+  - [Detachment 345 Cadet Communication](#detachment-345-cadet-communication)
 - [Cadet Wing Organization](#cadet-wing-organization)
   - [Organizational Structure](#organizational-structure)
   - [Cadet Appointments and Rotation](#cadet-appointments-and-rotation)
@@ -173,19 +169,6 @@ LLAB is on a pass/no credit system. There is no scale associated with the assign
   2. Cadet must show a positive attitude towards training. The inability or refusal to conform to military training may result in immediate failure and/or dismissal from the course. This requirement is assumed to be met by all cadets, unless otherwise documented.
 
 ## General Policies
-### Situation
-HQ ROTC has directed Detachment 345 to execute Practical Military Training (PMT) in accordance with AFROTCI 36-2011, _Cadet Operations_ and AFROTC 36-2011 Volume 1, _Cadet’s Guide to Leadership Laboratory (LLAB) Curriculum, Academic Year 2022- 2023_ to recruit, train, and commission the world’s best Air Force and Space Force Second Lieutenants.  This directive establishes the mission, responsibilities, and Det 345 force structure.
-
-### Mission
-The 345th Air Force ROTC Detachment Cadet Wing trains, educates, and motivates cadets to develop leadership and followership skills necessary to commission as Air Force and Space Force officers through the embodiment of core values, comprehension of doctrine, and esprit de corps.
-
-### Vision
-Fostering a high performing and supportive environment that emphasizes mentorship, ownership, and attention to detail.
-
-### Detachment 345 Cadet Communication
-The Cadet Squadron MS Teams page has source documents pertinent to your success in this class. It can be found here: [https://teams.microsoft.com/l/team/19%3axT2oLqa5SflJVRQhdmP2ndaYvFH3lKZzm2hNTG_8pn41%40thread.tacv2/conversations?groupId=cb726f59-dd8a-4a54-93e5-5fd00b88824e&tenantId=4c25b8a6-17f7-46f9-83f0-54734ab81fb1](https://teams.microsoft.com/l/team/19%3axT2oLqa5SflJVRQhdmP2ndaYvFH3lKZzm2hNTG_8pn41%40thread.tacv2/conversations?groupId=cb726f59-dd8a-4a54-93e5-5fd00b88824e&tenantId=4c25b8a6-17f7-46f9-83f0-54734ab81fb1)
-
-### Policies
 Outlined below are various Cadet Wing policies to be implemented throughout the Fall 2022 semester. The intention for these policies is to clearly covey expectations for the Cadet Wing as a whole, and to serve as a quick reference for all cadets.
 
 ** IAW AFROTCI 36-2011V3, para 9.10.1, “cadets and participating students must achieve at least 80% attendance over the course of the term to pass each of the following: AS Class, LLAB, and PT. All absences will initially be categorized as unexcused and will count against the 80% attendance requirement. At the discretion of the primary instructor, the absence may be marked as excused after the cadet completes missed objectives. Excused absences will count towards meeting the 80% attendance requirement.”
@@ -227,6 +210,9 @@ AFROTC cadets will self-report the Civil Involvement via WINGS at the following 
 During the completion of the AFROTC application, you completed the AFROTC Form 2030 on the United States Air Force Drug and Alcohol Abuse Policy. With this certification, you have been counseled and briefed on the fact that any future use (referred as post-orientation) is disqualifying (non-waivable). AFROTC is an extremely competitive environment and any illegal drug use will jeopardize your future career as an Air Force Officer. Cadets who are under 21 years old are strongly discouraged from drinking alcohol. If underage cadets are found guilty by school or civil authorities of underage drinking, those cadets will be counseled and may be processed for disenrollment or asked to leave the program.
 
 The Air Force has a Zero Tolerance policy on illegal drug use or abuse in the cadet corps and on active duty. By signing the Drug Demand Reduction Program memorandum of understanding upon program entry, you are subject to random drug testing any time after program entry during the Academic Year or at Field Training.
+
+### Detachment 345 Cadet Communication
+The Cadet Squadron MS Teams page has source documents pertinent to your success in this class. It can be found here: [https://teams.microsoft.com/l/team/19%3axT2oLqa5SflJVRQhdmP2ndaYvFH3lKZzm2hNTG_8pn41%40thread.tacv2/conversations?groupId=cb726f59-dd8a-4a54-93e5-5fd00b88824e&tenantId=4c25b8a6-17f7-46f9-83f0-54734ab81fb1](https://teams.microsoft.com/l/team/19%3axT2oLqa5SflJVRQhdmP2ndaYvFH3lKZzm2hNTG_8pn41%40thread.tacv2/conversations?groupId=cb726f59-dd8a-4a54-93e5-5fd00b88824e&tenantId=4c25b8a6-17f7-46f9-83f0-54734ab81fb1)
 
 ## Cadet Wing Organization
 ### Organizational Structure
