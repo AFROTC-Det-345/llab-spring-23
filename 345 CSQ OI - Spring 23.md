@@ -25,7 +25,57 @@ Certified by: AFROTC Det 345/OFC
 This operating instruction (OI) is AFROTC Det 345 OPLAN equivalent and establishes policies for all cadets assigned to the 345th Cadet Squadron (345 CQS). This document has been substantially revised and must be thoroughly reviewed. Major changes include the consolidation of syllabus information, missed PMT procedures, and the change from a Wing to a Squadron. 
 
 **TABLE OF CONTENTS**
-- [ ] Insert ToC
+- [Syllabus Information](#syllabus-information)
+  - [Course Title](#course-title)
+  - [Instructor Contact Info](#instructor-contact-info)
+  - [Course Description](#course-description)
+  - [Course Objectives](#course-objectives)
+  - [Attendance and Tardiness](#attendance-and-tardiness)
+  - [Customs and Courtesies/Personal Appearance](#customs-and-courtesiespersonal-appearance)
+  - [Academic Freedom](#academic-freedom)
+  - [Food/Tobacco Use](#foodtobacco-use)
+  - [Academic Integrity](#academic-integrity)
+  - [Inclement Weather](#inclement-weather)
+  - [Medical Qualification](#medical-qualification)
+  - [Lesson Objectives](#lesson-objectives)
+  - [Reading Assignments](#reading-assignments)
+  - [Classification of Cadets](#classification-of-cadets)
+  - [Textbook](#textbook)
+  - [Grade Determination](#grade-determination)
+- [General Policies](#general-policies)
+  - [Situation](#situation)
+  - [Mission](#mission)
+  - [Vision](#vision)
+  - [Detachment 345 Cadet Communication](#detachment-345-cadet-communication)
+  - [Policies](#policies)
+    - [Missed PMT](#missed-pmt)
+    - [Civil Involvements](#civil-involvements)
+    - [Drug Use](#drug-use)
+- [Cadet Wing Organization](#cadet-wing-organization)
+  - [Organizational Structure](#organizational-structure)
+  - [Cadet Appointments and Rotation](#cadet-appointments-and-rotation)
+- [Practical Military Training (PMT)](#practical-military-training-pmt)
+  - [Mandatory PMT](#mandatory-pmt)
+  - [Leadership Laboratory (LLAB)](#leadership-laboratory-llab)
+    - [Initial Military Training](#initial-military-training)
+    - [Field Training Preparation](#field-training-preparation)
+    - [Physical Training](#physical-training)
+  - [Voluntary PMT](#voluntary-pmt)
+    - [Arnold Air Society](#arnold-air-society)
+- [Awards Criteria](#awards-criteria)
+  - [Mid-Semester Flight Awards](#mid-semester-flight-awards)
+  - [GMC of the Month](#gmc-of-the-month)
+  - [POC of the Month](#poc-of-the-month)
+  - [End-of-Semester Awards](#end-of-semester-awards)
+  - [Further Award Information](#further-award-information)
+- [Evaluation and Discipline](#evaluation-and-discipline)
+  - [Evaluation](#evaluation)
+  - [Discipline](#discipline)
+- [ATTACHMENT 1 - OBJECTIVE TABLE](#attachment-1---objective-table)
+- [ATTACHMENT 2 - OBJECTIVE PROFICIENCY CODE KEY](#attachment-2---objective-proficiency-code-key)
+- [ATTACHMENT 3 - GLOSSARY OF REFERENCES AND SUPPORTING INFORMATION](#attachment-3---glossary-of-references-and-supporting-information)
+- [ATTACHMENT 4 - ABBREVIATIONS AND ACRONYMS](#attachment-4---abbreviations-and-acronyms)
+
 
 ## Syllabus Information
 ### Course Title
@@ -204,29 +254,29 @@ Cadets in Alpha Flight will have the duty title of Alpha Flight Cadet.
 Cadets in Bravo Flight will have the duty title of Bravo Flight Cadet.
 
 ## Practical Military Training (PMT)
-PMT is an AFROTC-sponsored training activity uniquely military or that Holm Center or AFROTC instructions or the Detachment Commander designates as PMT. 
+PMT is an AFROTC-sponsored training activity uniquely military or that Holm Center or AFROTC instructions or the Detachment Commander designates as PMT. There are two types of PMT: mandatory and voluntary. Each cadet attends mandatory PMT activities that are AFROTC sponsored training. These activities are uniquely military, meet the requirements in Title 10 U.S.C. 2109, Practical Military Training, and Detachment Commander designates as PMT. For the Fall 2022 term, mandatory PMT will include weekly LLAB, three weekly PT sessions, and weekly IMT or FTP. IAW AFROTCI 36-2011 V3, para 10.3.4.4., cadets will attend no more than six (6) hours (Monday through Sunday) of mandatory PMT activities each week. Deviations from the mandatory PMT maximum time limits will be coordinated and approved by the Detachment 345 Commander in advance. There are many activities cadets participate in that are not training and/or are not sponsored by the Detachment or Cadet Wing. Cadet Wing meetings will be held on a weekly basis for cadets in leadership or staff positions.
 
-There are two types of PMT: mandatory and voluntary.
-
-**Practical Military Training Policies.** Each cadet attends mandatory PMT activities that are AFROTC sponsored training. These activities are uniquely military, meet the requirements in Title 10 U.S.C. 2109, Practical Military Training, and Detachment Commander designates as PMT. For the Fall 2022 term, mandatory PMT will include weekly LLAB, three weekly PT sessions, and weekly IMT or FTP. IAW AFROTCI 36-2011 V3, para 10.3.4.4., cadets will attend no more than six (6) hours (Monday through Sunday) of mandatory PMT activities each week. Deviations from the mandatory PMT maximum time limits will be coordinated and approved by the Detachment 345 Commander in advance. There are many activities cadets participate in that are not training and/or are not sponsored by the Detachment or Cadet Wing. Cadet Wing meetings will be held on a weekly basis for cadets in leadership or staff positions.
-
-**Practical Military Training Responsibilities.** The success of all PMT events relies solely on POC understanding the training objectives and supporting the instruction of such objectives. Prior to all PMT events, a CONOP will be created by TRG and distributed to all POC in attendance of the PMT event. The purpose of this CONOP is to ensure all POC understand their duties and responsibilities for the PMT event. The CONOP must include, but is not limited to, all objectives being certified, a timeline of the events and required materials. MSG will be required to ensure all materials are at the location of the PMT event as well as serviceable. TRG will be required to ensure all POC are adequately training the GMC, accomplishing all objectives for that day, and sticking to the timeline. Wing staff will be required to ensure all POC have a CONOP and to resolve any issues that may arise. All POC are required to attend LLAB. IMT and FTP both require at least three POC in attendance. Additionally, one of the following must be in attendance at both IMT and FTP: CW/CC, CW/CV, or TRG/CC.
+The success of all PMT events relies solely on POC understanding the training objectives and supporting the instruction of such objectives. Prior to all PMT events, a CONOP will be created by TRG and distributed to all POC in attendance of the PMT event. The purpose of this CONOP is to ensure all POC understand their duties and responsibilities for the PMT event. The CONOP must include, but is not limited to, all objectives being certified, a timeline of the events and required materials. MSG will be required to ensure all materials are at the location of the PMT event as well as serviceable. TRG will be required to ensure all POC are adequately training the GMC, accomplishing all objectives for that day, and sticking to the timeline. Wing staff will be required to ensure all POC have a CONOP and to resolve any issues that may arise. All POC are required to attend LLAB. IMT and FTP both require at least three POC in attendance. Additionally, one of the following must be in attendance at both IMT and FTP: CSQ/CC, CSQ/DO, or TOF/CC.
 
 ### Mandatory PMT
 **Mandatory Practical Military Training.** IAW AFROTCI 36-2011V3, para 10.3.1.1, “Any AFROTC sponsored training activity designed to present training objectives IAW the current academic year’s AFROTCI 36-2011, VOL. 1. Mandatory PMT events include but are not limited to LLAB and PT and must be supervised, authorized, facilitated and/or provided resources by an authorized cadre member. A qualified cadre member must be present during all mandatory PMT scheduled activities and ensure all cadets are under the supervision of a qualified cadre member, to include qualified NCO cadre. The Det/CC and all APAS cadre members, to include APAS contractors, must be present for all LLAB events. The Det/CC may excuse individual cadre from LLAB events on a case-by-case basis.”
 
 For the Spring 2023 term, mandatory PMT will include weekly LLAB for all cadets on Tuesdays from 1530 to 1730. For FTP and IMT cadets, an additional hour of mandatory PMT will be conducted on Fridays from 1500-1600. See weekly OPORD for full details. During the Friday sessions, training material will be focused specifically on the FTP lesson objectives and the mastery of all IMT/FTP objectives for students attending Field Training between May through August 2023. Cadets will attend no more than six (6) hours per week (Monday through Sunday) of mandatory PMT activities each week. Deviations from the mandatory PMT maximum time limits will be coordinated and approved by the Detachment 345 Commander in advance. Cadets may receive medical care at a Military Treatment Facility or a military-authorized civilian treatment facility for injuries that occur **ONLY** during PMT.
 
+### Leadership Laboratory (LLAB)
 Leadership Laboratory is a cadet planned, organized, and executed training environment. LLAB goals are met through an implementation of a robust planning process that incorporates and accomplishes the objectives and samples of behavior as outlined in the AFROTCI 36-2011 V1. LLAB is conducted from 1530 to 1730 every Tuesday, with the potential of extension to 1830. The primary meeting locations consist of the University of Massachusetts Lowell East Campus Field, the Tsongas Center, or Wannalancit Mills Room 105. The meeting location, uniform of the day, and activity consistently change week to week. It is imperative that cadets refer to the Operations Order that is sent out each week for the most up to date information on LLAB.
 
+#### Initial Military Training
 Initial Military Training is a cadet planned, organized, and executed training environment. IMT goals are met through an implementation of a robust planning process that incorporates and accomplishes the objectives and samples of behavior as outlined in the AFROTCI 36-2011 V1. IMT is conducted from 1500 to 1555 every Friday, with the potential that it is held immediately following LLAB, from 1730 to 1830. The primary meeting locations consist of the University of Massachusetts Lowell East Campus Field, the Tsongas Center, or Wannalancit Mills Room 105. The meeting location, uniform of the day, and activity consistently change week to week. It is imperative that cadets refer to the Operations Order that is sent out each week for the most up to date information on IMT.
 
 By the nature of Initial Military Training, the environment is meant to serve as one where IMT cadets can reinforce the knowledge presented in LLAB, while serving as additional practice to hone their skills and knowledge.
 
+#### Field Training Preparation
 Field Training Preparation is a cadet planned, organized, and executed training environment. FTP goals are met through an implementation of a robust planning process that incorporates and accomplishes the objectives and samples of behavior as outlined in the AFROTCI 36-2011 V1. FTP is conducted from 1500 to 1555 every Friday, with the potential that it is held immediately following LLAB, from 1730 to 1830. The primary meeting locations consist of the University of Massachusetts Lowell (UML) East Campus Field, the Tsongas Center, or Wannalancit Mills Room 105. The meeting location, uniform of the day, and activity consistently change week to week. It is imperative that cadets refer to the Operations Order that is sent out each week for the most up to date information on FTP.
 
 By the nature of Field Training Preparation, cadets are expected to perform at a high level. FTP will serve as a higher intensity environment to reinforce the knowledge presented in LLAB, and FTP cadets will be under constant evaluation as their level of preparation for Field Training is determined.
 
+#### Physical Training
 Physical Training is an environment where cadets are trained in order to improve their overall health, and wellbeing. PT is conducted every Monday and Wednesday morning from 0630 to 0730, and Friday from 1610 to 1700. The primary meeting locations consist of the University of Massachusetts Lowell East Campus Field, or the University of Massachusetts Lowell Campus Recreation Center. Throughout the semester, two Physical Fitness Assessment will be administered IAW DAFMAN 36-2905. Cadets exhibiting substandard performance will be encouraged to reach out to the TRS/PFO or TRG/PFD.
 
 ### Voluntary PMT
@@ -242,6 +292,7 @@ There are many activities cadets participate in that are not training and/or are
 
 AFROTC is not liable for non-PMT activities and is strictly voluntary. Injuries incurred during non-PMT activities could result in loss of AFROTC status and benefits.
 
+#### Arnold Air Society
 Arnold Air Society is a professional, honorary service organization that supports the Cadet Wing, serves the community, and further develops officer candidates. Membership into the Detachment 345 Captain John A. Ogonowski Squadron requires a cadet to complete a rigorous training course. AAS members have the opportunity to apply for additional scholarships, internships, and summer training programs that non-members cannot.
 
 Cadets are encouraged to participate in intramural sports with other members of the Cadet Wing. Because it is non-PMT, AFROTC does not hold liability for injuries that occur during intramural sports.
