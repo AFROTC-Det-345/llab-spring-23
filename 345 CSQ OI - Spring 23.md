@@ -11,7 +11,7 @@
 **RELEASIBILITY:** Cadre and cadets of Air Force ROTC Detachment 345.  
 
 OPR: 345 CSQ/CC  
-Supersedes: Fall 2022 OPLAN 
+Supersedes: Fall 2022 OPLAN  
 Certified by: AFROTC Det 345/OFC  
 
  IAW AFROTCI 36-2011V3, 31 March 2022, *Cadet Operations* para. 10.2.13. The OPLAN is designed to provide the Cadet Wing, or equivalent, an OFC approved training roadmap for a specific semester.  At a minimum, OPLANs must include:
