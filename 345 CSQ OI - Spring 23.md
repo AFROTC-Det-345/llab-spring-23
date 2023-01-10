@@ -6,9 +6,9 @@
 **_6 JAN 2023_**
 **_SPRING SEMESTER_**
 
-**COMPLIANCE WITH THIS PUBLICATION IS MANDATORY** 
-**ACCESSIBILITY:** This document can be accessed in the Detachment 345 Microsoft Teams. 
-**RELEASIBILITY:** Cadre and cadets of Air Force ROTC Detachment 345. 
+**COMPLIANCE WITH THIS PUBLICATION IS MANDATORY**  
+**ACCESSIBILITY:** This document can be accessed in the Detachment 345 Microsoft Teams.  
+**RELEASIBILITY:** Cadre and cadets of Air Force ROTC Detachment 345.  
 
 OPR: 345 CSQ/CC
 Supersedes: Fall 2022 OPLAN
