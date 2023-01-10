@@ -2,7 +2,7 @@
 
 **_345th CADET SQUADRON (AFROTC)_**
 
-![Det 345 Shield Emblem](https://github.com/AFROTC-Det-345/llab-spring-23/blob/00eec728af249f2d13e878addc151689bd5259ac/images/Det_345_Emblem.jpg)
+<img src="[pic.jpeg](https://github.com/AFROTC-Det-345/llab-spring-23/blob/00eec728af249f2d13e878addc151689bd5259ac/images/Det_345_Emblem.jpg)" width="100" height="100" />
 
 **_CADET SQUADRON OPERATING INSTRUCTION_**
 **_6 JAN 2023_**
