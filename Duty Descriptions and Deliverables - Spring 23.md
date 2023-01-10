@@ -204,7 +204,7 @@
 6. Monitoring and reporting relationship between the SQ and Air Force ROTC stakeholders including AFA, AFCEA, Junior ROTC, and Civil Air Patrol through the use and supervision of GMC deputies.
    
 **Deliverables:**
-1. Deliver a lesson to the SQ on the AF social media policies during LLAB #3.
+1. Deliver a lesson to the SQ on Field Training during LLAB #2.
 2. Submit after action reports to RFC/CC following all crosstown recruitment events NLT three days after event execution.
 3. Attain 10% of crosstown cadet attendance to biweekly MWR events.
 4. Assist and attend RFC/CC in the planning of biweekly recruiting events scheduled during LLAB time.
