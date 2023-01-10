@@ -12,7 +12,7 @@
 - [TRAINING OPERATIONS FLIGHT](#training-operations-flight)
   - [Training Operations Flight Commander (345 CSQ/TOF) – C/Maj Alex Monayer](#training-operations-flight-commander-345-csqtof--cmaj-alex-monayer)
   - [Flight Trainer (345 CSQ/TOFT) – C/Capt Cam Ellis, C/Capt Kosta Stavridis](#flight-trainer-345-csqtoft--ccapt-cam-ellis-ccapt-kosta-stavridis)
-  - [Unit Fitness Program Manager (345 CDS/UFPM) – C/Capt Seth Perry](#unit-fitness-program-manager-345-cdsufpm--ccapt-seth-perry)
+  - [Unit Fitness Program Manager (345 CSQ/UFPM) – C/Capt Seth Perry](#unit-fitness-program-manager-345-csqufpm--ccapt-seth-perry)
   - [Health and Safety Officer](#health-and-safety-officer)
 - [TRAINING  SUPPORT FLIGHT](#training-support-flight)
   - [Training Support Flight Commander (345 CSQ/TSF) – C/Maj Ryan Kless](#training-support-flight-commander-345-csqtsf--cmaj-ryan-kless)
