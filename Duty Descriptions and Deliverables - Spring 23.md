@@ -183,12 +183,13 @@
 7. Acting as a point of contact for cadets considering dropping Air Force ROTC.
 
 **Deliverables:**
-1. Submit after action reports to SQ/DO following all recruitment (local and crosstown) events NLT three days after event execution.
-2. Organize and host biweekly MWR events with at least 10% detachment attendance.
-3. Organize and host biweekly recruiting events scheduled during LLAB time.
-4. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
-5. Upload pictures to Detachment Flickr weekly.
-6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
+1. Deliver a Heritage Briefing on LLAB 2. 
+2. Submit after action reports to SQ/DO following all recruitment (local and crosstown) events NLT three days after event execution.
+3. Organize and host biweekly MWR events with at least 10% detachment attendance.
+4. Organize and host biweekly recruiting events scheduled during LLAB time.
+5. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
+6. Upload pictures to Detachment Flickr weekly.
+7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ### OIC, Crosstown Recruiting & Retention (345 CSQ/RRFC) – C/Capt Evan Blatus
 **Function:** Oversees outreach, and recruiting through local community events around host crosstown universities as well as supervises all GMC recruiting and retention deputies.
