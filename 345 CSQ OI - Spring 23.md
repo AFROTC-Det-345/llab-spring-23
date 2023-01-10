@@ -10,9 +10,9 @@
 **ACCESSIBILITY:** This document can be accessed in the Detachment 345 Microsoft Teams.  
 **RELEASIBILITY:** Cadre and cadets of Air Force ROTC Detachment 345.  
 
-OPR: 345 CSQ/CC
-Supersedes: Fall 2022 OPLAN
-Certified by: AFROTC Det 345/OFC
+OPR: 345 CSQ/CC  
+Supersedes: Fall 2022 OPLAN 
+Certified by: AFROTC Det 345/OFC  
 
  IAW AFROTCI 36-2011V3, 31 March 2022, *Cadet Operations* para. 10.2.13. The OPLAN is designed to provide the Cadet Wing, or equivalent, an OFC approved training roadmap for a specific semester.  At a minimum, OPLANs must include:
   >10.2.13.1.  When the required training objectives are to be presented within the semester.  If any training objectives for the academic year will not be presented during the semester, the current OPLAN must account for these missed objectives in either a previous or subsequent OPLAN that falls within the same academic year.
