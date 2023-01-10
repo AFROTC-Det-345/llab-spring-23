@@ -18,7 +18,7 @@
   - [OIC, Communications Support (345 CSQ/TSFC) – C/Capt Kathryn Swineford](#oic-communications-support-345-csqtsfc--ccapt-kathryn-swineford)
   - [OIC, Logistics Support (345 CSQ/TSFL) – C/Capt Nikolaos Stavridis  ](#oic-logistics-support-345-csqtsfl--ccapt-nikolaos-stavridis-)
 - [ADDITIONAL DUTIES](#additional-duties)
-- - [Health and Safety Officer](#health-and-safety-officer)
+- - [Health and Safety Officer - C/3C Joanna Gordon](#health-and-safety-officer)
   - [Honor Guard Representatives (345 CSQ/HG) – C/3C Kai Williams \& C/4C Sydney Selby](#honor-guard-representatives-345-csqhg--c3c-kai-williams--c4c-sydney-selby)
   - [Public Affairs, Outreach, and Recruiting Deputies – C/3C Connor Hall, C/3C Matthew Flores, C/4C Natalia Flores, C/4C Isabella Bouchard](#public-affairs-outreach-and-recruiting-deputies--c3c-connor-hall-c3c-matthew-flores-c4c-natalia-flores-c4c-isabella-bouchard)
   - [Civil Air Patrol Representative – C/3C Schuyler McCullough](#civil-air-patrol-representative--c3c-schuyler-mccullough)
