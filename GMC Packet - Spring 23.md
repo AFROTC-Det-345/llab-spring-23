@@ -1,13 +1,12 @@
 Cover Page: Cover Photo
 
-Dress and Appearance:
-Service Uniforms (SU)
+## Dress and Appearance:
+### Service Uniforms (SU)
 Dress Uniforms: https://static.e-publishing.af.mil/production/1/af_a1/publication/dafi36-2903/dafi36-2903.pdf
 Chapter 3 Pages 29-41 
 AFROTC Supplemental: https://drive.google.com/drive/folders/1-C92tscXS49yN5yvLGyQBjufGP_cQnUh
 
-Professional Attire: Photo
-
+### Professional Attire: Photo
 1. Polos must always remain tucked in. A white, crewneck undershirt must be worn under polo, at all times. 
 2. In colder months, black/white/navyblue crewneck, long sleeve shirts, with no visible logos/emblems may be worn underneath the polo, instead. Sleeves will not be rolles or pushed up. Watch cap and gloves may also be worn. 
 3. The physical training jacket may be worn over the polo, and sweatshirts or jackets may also be layered underneather the PT jacket. Sweatshirt and jackets must also be of conservative color.  
@@ -15,12 +14,13 @@ Professional Attire: Photo
 5. Flat dress shoes with a closed toe and of conservatice color, must be worn. Sandals/flip-flops/high heels and other shoes with large logos/emblems will not be permitted unless otherwise specified.  
 6. Hair, jewelry, makeup and any other cosmetics (hair color, nail polish, etc..) must follow regulations stated in AFI 36-2903 and/or the AFROTC 36-2903 Supplimental.  
 
-Operational Camouflage Pattern (OCP) Uniform:
+### Operational Camouflage Pattern (OCP) Uniform:
 https://static.e-publishing.af.mil/production/1/af_a1/publication/dafi36-2903/dafi36-2903.pdf
 Chapter 5 Pages 46-51 
 AFROTC Supplemental: https://drive.google.com/drive/folders/1-C92tscXS49yN5yvLGyQBjufGP_cQnUh
 
-Utilities:Photo
+### Utilities:
+Photo
 
 1. Polos must always remain tucked in. A white, crewneck undershirt must be worn under polo, at all times. 
 2. In colder months, black/white/navyblue crewneck, long sleeve shirts, with no visible logos/emblems may be worn underneath the polo, instead. Sleeves will not be rolles or pushed up. Watch cap and gloves may also be worn. 
@@ -29,29 +29,29 @@ Utilities:Photo
 5. Sneaker or boots of conservative color, will be worn. Sandals/flip-flops/high heels and other shoes with large logos/emblems will not be permitted unless otherwise specified.  
 6. Hair, jewelry, makeup and any other cosmetics (hair color, nail polish, etc..) must follow regulations stated in AFI 36-2903 and/or the AFROTC 36-2903 Supplimental.  
 
-Physical Training Gear (PTG):
+### Physical Training Gear (PTG):
 https://static.e-publishing.af.mil/production/1/af_a1/publication/dafi36-2903/dafi36-2903.pdf
 Chapter 8 Pages 74-79 
 
-Civilian Physical Training Attire:
+### Civilian Physical Training Attire:
 
-Grooming & Appearance Standards: 
+## Grooming & Appearance Standards: 
 https://static.e-publishing.af.mil/production/1/af_a1/publication/dafi36-2903/dafi36-2903.pdf
 Chapter 3 Pages 17-28 
 
-Male Hair Standards Examples: 
+### Male Hair Standards Examples: 
 https://static.e-publishing.af.mil/production/1/af_a1/publication/dafi36-2903/dafi36-2903.pdf
 Chapter 3 Pages 17-19 
 
-Female Hair Standards Examples: 
+### Female Hair Standards Examples: 
 https://static.e-publishing.af.mil/production/1/af_a1/publication/dafi36-2903/dafi36-2903.pdf
 Chapter 3 Pages 19-24 
 
-Fingernail & Cosmetic Standards: 
+### Fingernail & Cosmetic Standards: 
 https://static.e-publishing.af.mil/production/1/af_a1/publication/dafi36-2903/dafi36-2903.pdf
 Chapter 3 Page 24 
 
-Tattoos, Brands & Body-Marking Standards: 
+### Tattoos, Brands & Body-Marking Standards: 
 https://static.e-publishing.af.mil/production/1/af_a1/publication/dafi36-2903/dafi36-2903.pdf
 Chapter 3 Pages 25-27 
 AFROTC Supplemental: https://drive.google.com/drive/folders/1-C92tscXS49yN5yvLGyQBjufGP_cQnUh
@@ -63,51 +63,31 @@ Chapter 3 Pages 27-28
 AFROTC Supplemental: https://drive.google.com/drive/folders/1-C92tscXS49yN5yvLGyQBjufGP_cQnUh
 Line: 3.4 
 
-Warrior Knowledge:
+## Warrior Knowledge:
 
-The Airman's Creed: 
+### The Airman's Creed: 
 I AM AN AMERICAN AIRMAN. 
-
 I AM A WARRIOR 
-
 I HAVE ANSWERED MY NATION’S CALL. 
-
 I AM AN AMERICAN AIRMAN. 
-
 MY MISSION IS TO FLY, FIGHT AND WIN. 
-
 I AM FAITHFUL TO A PROUD HERITAGE, 
-
 A TRADITION OF HONOR, 
-
 AND A LEGACY OF VALOR. 
 
- 
-
 I AM AN AMERICAN AIRMAN, 
-
 GUARDIAN OF FREEDOM AND JUSTICE, 
-
 MY NATION’S SWORD AND SHIELD, 
-
 ITS SENTRY AND AVENGER. 
-
 I DEFEND MY COUNTRY WITH MY LIFE. 
 
- 
-
 I AM AN AMERICAN AIRMAN; 
-
 WINGMAN, LEADER, WARRIOR. 
-
 I WILL NEVER LEAVE AN AIRMAN BEHIND, 
-
 I WILL NEVER FALTER, 
-
 AND I WILL NOT FAIL. 
 
-Mission Statements: 
-
+### Mission Statements: 
 Air Force Mission:  To Fly, Fight and Win... Airpower Anytime, Anywhere. 
 
 Space Force Mission:  Conduct Global Space Operations That Enhance the Way Our Joint and Coalition Forces Fight, While also Offering Decision Makers Military Options to Achieve National Objectives. 
@@ -118,122 +98,70 @@ AFROTC Mission:  To Develop Leaders Of Character For Tomorrow's Air Force and Sp
 
 AFROTC Field Training Mission:  Train and Evaluate Cadets In AF Institutional Competencies Preparing Them For The Professional Officer Course. 
 
-Chain of Command: 
-
+### Chain of Command: 
 Commander in Chief: The Honorable Joseph R. Biden Jr. 
-
 Secretary of Defense: The Honorable Lloyd J. Austin III 
-
 Secretary of the Air Force: The Honorable Frank Kendall III 
-
 Chairman of the Joint Chiefs of Staff: General Mark A. Milley 
-
 Chief of Staff of the Air Force: General Charles Q. Brown, Jr. 
-
 Chief of Space Operations: General John W. Raymond 
-
 Air Education and Training Commander: Lieutenant General Brian S. Robinson 
-
 Air University Commander: Lieutenant General Andrea D. Tullos  
-
 Holm Center Commander: Brigadier General Houston R. Cantwell 
-
 AFROTC Commander: Colonel Johnny R. McGonigal 
-
 AFROTC NE Regional Commander: Colonel Steve Smith 
-
 Detachment 345 Commander: Lieutenant Colonel Darren F. Lee 
-
 Detachment 345 Recruiting Officer: Major Marcus S. Pivec 
-
-Detachment 345 Operations Flight Commander: Captain Daniel M. McKeown 
-
-Major Commands (MAJCOMs): 
-
+Detachment 345 Operations Flight Commander: Major Daniel M. McKeown 
+### Major Commands (MAJCOMs): 
 Air Combat Command:  Joint Base Langley, Virginia 
-
 Air Education and Training Command:  Joint Base San Antonio, Texas 
-
 Air Force Global Strike Command:  Barksdale AFB, Louisiana 
-
 Air Force Materiel Command:  Wright-Patterson AFB, Ohio 
-
 Air Force Reserve Command:  Robins AFB, Georgia 
-
 Air Force Special Operations Command:  Hurlburt Field, Florida 
-
 Air Mobility Command:  Scott AFB, Illinois 
-
 Air National Guard:  Washington, D.C. 
-
 Pacific Air Forces:  Joint Base Pearl Harbor, Hickam, Hawaii 
-
 United States Air Forces in Europe – Air Forces Africa:  Ramstein AB, Germany 
-
 Field Commands (USSF): 
-
 Space Operations Command:  Peterson Space Force Base, Colorado 
-
 Space Systems Center:  Los Angeles Space Force Base, California 
-
 Space Training and Readiness Command:  Peterson Space Force Base, Colorado 
 
-USAF Enlisted Rank Structure: : Photo
+### USAF Enlisted Rank Structure: : Photo
 
-USSF Enlisted Rank Structure: Photo
+### USSF Enlisted Rank Structure: Photo
 
-Oath of Enlistment: 
+### Oath of Enlistment: 
 
 “I,_____________, 
-
 do solemnly swear (or affirm) 
-
 that I will support and defend 
-
 the Constitution of the United States 
-
 against all enemies, foreign and domestic; 
-
 that I will bear true faith and allegiance to the same; 
-
 and that I will obey the orders of the President of the United 
-
 States and the orders of the officers appointed over me, 
-
 according to regulations 
-
 and the Uniform Code of Military Justice. 
-
 So help me God.” 
 
-Oath of Office: 
-
+### Oath of Office: 
 “I,_____________, 
-
 having been appointed a (grade in which appointed) 
-
 in the United States Air Force, 
-
 do solemnly swear (or affirm) 
-
 that I will support and defend the Constitution of the United 
-
 States against all enemies, foreign and domestic; 
-
 that I will bear true faith and allegiance to the same; 
-
 that I take this obligation freely, 
-
 without any mental reservation or purpose of evasion; 
-
 and that I will well and faithfully discharge the duties 
-
 of the office upon which I am about to enter. 
-
 So help me God.” 
 
-The Air Force Song: 
-
+### The Air Force Song: 
 (Only first verse is required per the FTM) 
 
 Off we go into the wild blue yonder, 
@@ -272,48 +200,22 @@ We'll be there, followed by more, 
 In echelon we carry on! Hey!  
 
 Nothing'll stop the US Air Force!  
-
- 
-
 – Robert MacArthur Crawford (original) 
 
-The Armed Forces Code of Conduct: 
+## The Armed Forces Code of Conduct: 
+I. I am an American, fighting in the forces which guard my country and our way of life. I am prepared to give my life in their defense. 
 
-I. 
-
-I am an American, fighting in the forces which guard my country and our way of life. I am prepared to give my life in their defense. 
-
+II. I will never surrender of my own free will. If in command, I will never surrender the members of my command while they still have the means to resist. 
  
+III. If I am captured, I will continue to resist by all means available. I will make every effort to escape and aid others to escape. I will accept neither parole nor special favors from the enemy. 
 
-II. 
+IV. If I become a prisoner of war, I will keep faith with my fellow prisoners. I will give no information nor take part in any action which might be harmful to my comrades. If I am senior I will take command. If not I will obey the lawful orders of those appointed over me and back them up in every way. 
 
-I will never surrender of my own free will. If in command, I will never surrender the members of my command while they still have the means to resist. 
+V. When questioned, should I become a prisoner of war, I am required to give name, rank, service number, and date of birth. I will evade answering further questions to the utmost of my ability. I will make no oral or written statements disloyal to my country and its allies or harmful to their cause. 
 
- 
+VI. I will never forget that I am an American, fighting for freedom, responsible for my actions, and dedicated to the principles which made my country free. I will trust in my God and in the United States of America. 
 
-III. 
-
-If I am captured, I will continue to resist by all means available. I will make every effort to escape and aid others to escape. I will accept neither parole nor special favors from the enemy. 
-
- 
-
-IV. 
-
-If I become a prisoner of war, I will keep faith with my fellow prisoners. I will give no information nor take part in any action which might be harmful to my comrades. If I am senior I will take command. If not I will obey the lawful orders of those appointed over me and back them up in every way. 
-
- 
-
-V. 
-
-When questioned, should I become a prisoner of war, I am required to give name, rank, service number, and date of birth. I will evade answering further questions to the utmost of my ability. I will make no oral or written statements disloyal to my country and its allies or harmful to their cause. 
-
- 
-
-VI. 
-
-I will never forget that I am an American, fighting for freedom, responsible for my actions, and dedicated to the principles which made my country free. I will trust in my God and in the United States of America. 
-
-Quotes: 
+### Quotes: 
 
 Integrity is the fundamental premise for military service in a free society. Without integrity, the moral pillars of our military strength, public trust, and self-respect are lost. 
 
@@ -408,10 +310,10 @@ It is not the critic who counts; not the man who points out how the strong man s
 
 -Theodore Roosevelt, 26th President of United States 
 
-Drill and Ceremonies: 
+## Drill and Ceremonies: 
 https://static.e-publishing.af.mil/production/1/af_a1/publication/dafpam34-1203/dafpam34-1203.pdf
 
-Drill Command Voice: 
+### Drill Command Voice: 
 https://docs.google.com/document/d/1EKLewY0npLEbnuPHeu29aOHysoz3wT0U/edit
 
 Command Voice: SLIP'D
@@ -419,12 +321,8 @@ https://drillpad.net/DPcommandvoice(AF).htm
 
 DRILL COMMAND VOICE  
 
- 
- 
-
 The following commands are portrayed graphically.  The letters to the right of the command indicate which foot the commands are called on (L=Left, R=Right, E=Either).  The raised or lowered portion of the command indicates whether your voice should go up, down, or remain level.  All other commands are given from a halted position.    
 
- 
  
 
                                      HUT                                                                                   HARCH  
@@ -521,7 +419,7 @@ The following commands are portrayed graphically.  The letters to the right of t
 
 * AT EASE, REST, FALL IN, FALL OUT, and DISMISSED are combined commands and are given at a uniformly high pitch and a louder volume than that of a normal command of execution. 
 
-BMT Lesson Plans: 
+### BMT Lesson Plans: 
 https://docs.google.com/document/d/1rrIg4VhjH1bgOP1xQixBbdCu3qgEA27F-l3iwzrLv_g/edit
 
 AEF Tab:
@@ -973,113 +871,62 @@ https://www.uml.edu/maps/
 Cadet Squadron Organization Chart: 
 Org Chart Photo
 
-Acronyms: 
-
+## Acronyms: 
 ATL:  Atlanta International Airport  
-
 Cadet Flt/AO:  Flight Academics Officer  
-
 Cadet Flt/CC:  Flight Commander  
-
 Cadet Flt/CD:  Deputy Flight Commander  
-
 Cadet Flt/D&C:  Flight Drill & Ceremonies Officer  
-
 Cadet Flt/PFO:  Flight Physical Fitness Officer  
-
 Cadet Flt/STANDO:  Flight Standardization Officer  
-
 Cadet GP/AO:  Group Academic Officer  
-
 Cadet GP/CC:  Group Commander  
-
 Cadet GP/D&C:  Group Drill and Ceremonies Officer  
-
 Cadet GP/PFO:  Group Physical Fitness Officer  
-
 Cadet GP/STANDO:  Group Standardization Officer  
-
 Cadet Sq/CC:  Squadron Commander  
-
 Cadet Sq/CD:  Deputy Squadron Commander  
-
 CC:  Commander  
-
 CTA:  Cadet Training Assistant  
-
 CTQ:  Call to Quarters  
-
 CV:  Vice Commander  
-
 D&C:  Drill and Ceremonies  
-
 DD:  Department of Defense (Form)  
-
 DM:  Dorm Maintenance  
-
 DTS:  Defense Travel System  
-
 FA:  Fitness Assessment  
-
 FTDG:  Field Training Distinguished Graduate  
-
 FTL:  Field Training Liaison  
-
 FTM:  Field Training Manual  
-
 FTO:  Flight Training Officer  
-
 FTU:  Field Training Unit  
-
 FTU/CC:  Field Training Unit Commander  
-
 FTU/MSG:  Field Training Unit Mission Support Group  
-
 GLP:  Group Leadership Problem  
-
 GTR:  Government Transportation Request  
-
 IAW:  In Accordance With  
-
-ICT MOUT:  Individual Cadet Time Military Operations in Urban Terrain  
-
+ICT MOUT:  Individual Cadet Time  
+MOUT: Military Operations in Urban Terrain 
 NCO:  Non-Commissioned Officer  
-
 NCOIC:  Non-Commissioned Officer In Charge  
-
 NLT:  No Later Than  
-
 OCP:  Operational Camouflage Pattern  
-
 OIC:  Officer in Charge  
-
 PH:  Personal Hygiene  
-
 POD:  Point of Departure  
-
 POV:  Privately Owned Vehicle  
-
 PT:  Physical Training  
-
 PTG:  Physical Training Gear  
-
 QRC:  Quick Reference Cards  
-
 SDCS:  Commander’s Support Staff  
-
 SIE:  Self-Initiated Elimination  
-
 TCCC:  Tactical Combat Casualty Care  
-
 TD:  Training Day  
-
 VW:  Vigilant Warrior  
-
 UOD:  Uniform of the Day  
-
 WBGT:  Wet Bulb Globe Temperature 
 
-E-Publishing:
+### E-Publishing:
 https://www.e-publishing.af.mil/
 
 Quick Forms: 
@@ -1093,10 +940,3 @@ https://static.e-publishing.af.mil/production/1/aetc/form/aetc341/aetc341.pdf
 
 Tongue & Quill: 
 https://static.e-publishing.af.mil/production/1/saf_cn/publication/afh33-337/afh33-337_dafgm2021-01.pdf
-
-
-
-
-
-
-
