@@ -167,16 +167,12 @@ Detachment 345 has a zero-tolerance policy on sexual harassment and assault, dru
    - Utilize the Commander’s Action Line.
      - The Commander’s Action Line is an anonymous reporting tool for issues of mal-training, mal-treatment, hazing, unprofessional relations, or any other serious concerns that are shared directly with the Detachment Commander. The form is For Official Use Only (FOUO) and can be accessed via the Detachment 345 Teams.
 
-#### Customs and Courtesies/Personal Appearance
+### Customs and Courtesies/Personal Appearance
 AFROTC cadets will wear the uniform of the day (UOD) on Tuesdays to **all** university classes and LLAB. The UOD will be identified in advance of LLAB in the weekly Operations Order. If you have not been issued a uniform, cadets will wear appropriate business-like attire—no jeans, sneakers, dirty, wrinkled, or provocative/revealing clothing. Your personal appearance will be within Air Force standards. Do not wear distinctive Air Force-provided clothing while conducting fundraising activities.
 
 Cadets will observe standard military customs and courtesies during LLAB and PT. These customs and courtesies include coming to attention when the senior officer enters and leaves the area, wearing the uniform directed by the current Operations Order unless an alternative is previously approved, and complying with Department of the Air Force Instruction (DAFI) 36-2903 *“Dress and Personal Appearance of Air Force Personnel”* and the AFROTC Supplement at all times.
 
-Cadets with exemplary Physical Fitness Assessment scores will be granted “PT Passes” on a sliding scale. The pass may be used at the cadet’s discretion to excuse them from one PT session without counting against their total attendance. The cadet must inform their chain of command NLT 24 hours prior to its use for proper accountability of all cadets. This number of passes is determined by following scale:
-  - ≥ 95 PFA score grants one PT Pass
-  - = 100 PFA score grants two PT Passes
-
-#### Missed PMT
+### Missed PMT
 If you are unable to attend a LLAB or PT session, notify your Cadet Squadron Chain of Command to let them know why you are unable to attend. Each cadet must submit a missed memo for the absence **no later than 3 days** from the absence. 
 
 For those cadets that miss LLAB, they will submit the missed memo to Maj McKeown through your Cadet Squadron Chain of Command. For those cadets that miss PT, to include completing the workout tracker (for cross-town cadets), they will submit the missed memo to Maj McKeown. I expect you to explain why you missed mandatory military training, what you could have done to prevent that specific absence, and what you will do to prevent future absences. If you miss a PT session, you will need to document what exercises you completed over a 60-minute make-up. 
@@ -189,15 +185,15 @@ Cadets are responsible for working through their Cadet Squadron Chain of Command
 
 **NOTE:** Extracurricular activities are not LLAB activities and will **not** be credited for LLAB attendance.
 
-#### Civil Involvements
+### Civil Involvements
 While in the AFROTC program, you should respect all civil, military, and school policies and refrain from behavior that leads to being cited or charged by civil, military, or school agencies. Any offense, violation of law or ordinance, or any other incident causing adverse involvement or contact with civil, military, or school authorities as an adult or juvenile is an involvement for AFROTC purposes and must be reported in WINGS. If you are involved in an incident, you must report the adverse involvement to cadre within 72 hours of the incident. The initial cadre point of contact for civil involvements will be Technical Sergeant Jairzinho Chin.
 
 AFROTC cadets will self-report the Civil Involvement via WINGS at the following link: [https://WINGS.holmcenter.com/psp/hcp/LANDING/PORT_HCP/h/?tab=HOME](https://wings.holmcenter.com/psp/hcp/LANDING/PORT_HCP/h/?tab=HOME)
 
-#### Food/Tobacco Use
+### Food/Tobacco Use
 Snacks and drinks are permitted as long as they do not become disruptive to other class members or presentation of material. All cadets are required to bring a water source to **all** PMT activities in order to maintain hydration. The use of tobacco products is prohibited.
 
-#### Drug Use
+### Drug Use
 During the completion of the AFROTC application, you completed the AFROTC Form 2030 on the United States Air Force Drug and Alcohol Abuse Policy. With this certification, you have been counseled and briefed on the fact that any future use (referred as post-orientation) is disqualifying (non-waivable). AFROTC is an extremely competitive environment and any illegal drug use will jeopardize your future career as an Air Force Officer. Cadets who are under 21 years old are strongly discouraged from drinking alcohol. If underage cadets are found guilty by school or civil authorities of underage drinking, those cadets will be counseled and may be processed for disenrollment or asked to leave the program.
 
 The Air Force has a Zero Tolerance policy on illegal drug use or abuse in the cadet corps and on active duty. By signing the Drug Demand Reduction Program memorandum of understanding upon program entry, you are subject to random drug testing any time after program entry during the Academic Year or at Field Training.
@@ -263,7 +259,11 @@ Field Training Preparation is a cadet planned, organized, and executed training 
 By the nature of Field Training Preparation, cadets are expected to perform at a high level. FTP will serve as a higher intensity environment to reinforce the knowledge presented in LLAB, and FTP cadets will be under constant evaluation as their level of preparation for Field Training is determined.
 
 #### Physical Training
-Physical Training is an environment where cadets are trained in order to improve their overall health, and wellbeing. PT is conducted every Monday and Wednesday morning from 0630 to 0730, and Friday from 1610 to 1700. The primary meeting locations consist of the University of Massachusetts Lowell East Campus Field, or the University of Massachusetts Lowell Campus Recreation Center. Throughout the semester, two Physical Fitness Assessment will be administered IAW DAFMAN 36-2905. Cadets exhibiting substandard performance will be encouraged to reach out to the TRS/PFO or TRG/PFD.
+Physical Training is an environment where cadets are trained in order to improve their overall health, and wellbeing. PT is conducted every Monday and Wednesday morning from 0630 to 0730, and Friday from 1610 to 1700. The primary meeting locations consist of the University of Massachusetts Lowell East Campus Field, or the University of Massachusetts Lowell Campus Recreation Center. Throughout the semester, two Physical Fitness Assessment will be administered IAW DAFMAN 36-2905. Cadets exhibiting substandard performance will be encouraged to reach out to the UFPM and PTLs.
+
+Cadets with exemplary Physical Fitness Assessment scores will be granted “PT Passes” on a sliding scale. The pass may be used at the cadet’s discretion to excuse them from one PT session without counting against their total attendance. The cadet must inform their chain of command NLT 24 hours prior to its use for proper accountability of all cadets. This number of passes is determined by following scale:
+  - ≥ 95 PFA score grants one PT Pass
+  - = 100 PFA score grants two PT Passes
 
 ### Voluntary PMT
 **Voluntary Practical Military Training.** IAW AFROTCI 36-2011 V3, para 10.3.1.2, “Any AFROTC sponsored, military-related training activity that the Det/CC designates as voluntary PMT. Examples include but are not limited to mock deployments, FT preparation classes conducted in addition to normal LLAB hour requirements and drill team/honor guard membership. AFROTC may hold medical liability for voluntary PMT activities. Detachment commanders should use appropriate command authority and decision-making processes to determine cadre presence at voluntary PMT events.”
