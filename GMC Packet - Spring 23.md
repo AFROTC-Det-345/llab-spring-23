@@ -422,38 +422,23 @@ The following commands are portrayed graphically.  The letters to the right of t
 ### BMT Lesson Plans: 
 https://docs.google.com/document/d/1rrIg4VhjH1bgOP1xQixBbdCu3qgEA27F-l3iwzrLv_g/edit
 
-AEF Tab:
-
+## AEF Tab:
 Radio Reports (9-Lines/ Reports): Photo
-
 MEDEVAC 9-Line: Photo
-
 UXO/ EOD 9-Line: Photo 
-
 Lace & SALUTE Report: Photo
-
 Tactical Combat Casualty Care (TCCC): Photo
-
 General Self Aid and Buddy Care: Photo
-
 Care Under Fire: Photo
-
 Control Bleeding - Tactical Field Care: Photo 
-
 Basic Life Saving - Airway: Photo
 
 Entry Control Point (ECP):
-
-Any access point that is utilized to control entry into an area. 
-
-Prevent those who unauthorized to enter. 
-
-Allow access for those people who have the correct credentials 
-
+1. Any access point that is utilized to control entry into an area. 
+2. Prevent those who unauthorized to enter. 
+3. Allow access for those people who have the correct credentials 
   
-Use 
-
-5 S’s (shout, show, shove, shoot, shoot again) 
+Use 5 S’s (shout, show, shove, shoot, shoot again) 
 
   
 Sign/ Counter sign 
@@ -486,17 +471,10 @@ Phonetic Alphabet: Photo
 
 Phonetic Numbers: Photo
 
-Field Training Procedures:
+## Field Training Procedures:
 
-Bed Guidelines:
-
-Keep bed rails clean and free from dust. Cadets will sleep with their 
-
-head to the wall (aka head end of bed). The bottom bunks will be utilized 
-
-prior to the top bunks. Two cadets will be housed per room and both 
-
-sides of the bed will be considered subject to inspection. 
+### Bed Guidelines:
+Keep bed rails clean and free from dust. Cadets will sleep with their head to the wall (aka head end of bed). The bottom bunks will be utilized prior to the top bunks. Two cadets will be housed per room and both sides of the bed will be considered subject to inspection. 
 
 a. The bed will be made as follows: 
 
@@ -805,9 +783,8 @@ your running shoes have loops. In this case, lace in the same
 
 manner as boots with loops. 
 
-Dinning Facility (DFAC) 
-
-General Information  
+## Dinning Facility (DFAC) 
+### General Information  
 
 The Dining Facility (DFAC) serves a nutritious, balanced diet designed for active cadets. Cadets are encouraged to eat three meals daily. Cadets who choose not to eat are still required to process through the DFAC with the flight. Use courtesy and etiquette when requesting items from the personnel at the serving line. Food will not be taken from the DFAC, unless authorized by the FTU/CC. Cadets are expected to render proper customs and courtesies at all times. The scheduling of the DFAC is on a tight timeline. Early or late arrival may cause disruption to the schedule and therefore should be avoided.  
 
@@ -815,7 +792,7 @@ During each meal period selected cadets will be designated as water monitors. Up
 
  When Meals Ready to Eat (MREs) or box meals are used, cadets will not consume candy, mints, or caffeinated products unless authorized by the FTU/CC. No items may be kept once the meal period ends. Do not leave any garbage and/or unopened items behind - clean up after yourself.  
 
-Entrance Procedures  
+### Entrance Procedures  
 
 Flights do not enter the DFAC until directed by an FTU member. The on-duty mess checkers have the authority to clear flights into the DFAC early/late if there are no other flights waiting and the early/late flight will not inhibit any other flight’s on-time entry into the facility. The Cadet Group staff will verify dining priorities with the FTU/DOS at least one day in advance.  
 
@@ -829,7 +806,7 @@ The mess checker and cadet reporting-in do not need to interrupt their reporting
 
 Cadets must wash their hands, or at a minimum use hand sanitizer, prior to entering the DFAC.  
 
-Dining Facility Procedures  
+### Dining Facility Procedures  
 
 While moving throughout the DFAC, cadets will limit talking to only de-conflicting movements (e.g. “excuse me”) and providing necessary responses to FTU or dining facility staff. Cadets may pass each other in the serving area if they are not waiting for the same food items. Cadets must execute proper situational awareness to ensure that they do not run into or obstruct the path of one another while moving through the dining facility. (NOTE: Cadets will not square corners while carrying trays, but will square corners in non-carpeted areas if unencumbered). The Cadet Flt/CD will be the first to process through the chow line, and the Cadet Flt/CC will be the last.  
 
@@ -853,11 +830,11 @@ The last cadet to have arrived will state, “Moment of silence” (to accommoda
 
 Cadets have 10 minutes to eat their meal. Time begins when, “Enjoy your meal” is stated and ends when trays are removed from the table. The cadet that is timing the meal will place his or her watch on the center of table once started.  
 
- Cadets will place a napkin on top of the tray to signify they are finished with the meal.  
+Cadets will place a napkin on top of the tray to signify they are finished with the meal.  
 
 Once everyone at the table has finished eating (all occupants of the table have napkins on their tray), cadets in positions 2 and 3 will pass all the items from their trays to cadets in positions 1 and 4. Glasses will be placed on the trays upside down, but will not be stacked. Trays will be stacked and carried to the cabinets by two when possible. If there are three cadets, one cadet will carry his/her own tray. If a cadet is unable to carry the tray due to restrictions, the other cadets will make the appropriate adjustments to carry the tray. Once trays are stacked, cadets will stand, don their hydration systems, ground the chairs to the right side of the table, and then momentarily assume the position of attention. The cadet in position 1 will proceed to the tray cabinet. The cadet in position 3 will lift the napkin holder while the cadet in position 2 wipes down the table. The cadet in position 4 will wait to collect any waste left over from cleaning and then proceed to the tray cabinet. Trays will be placed in the cabinet from bottom to top, back to front. After complete position duties, cadets will proceed to the exit in a military manner.  
 
- Departure Procedures  
+### Departure Procedures  
 
 Upon exiting, cadets will form details and transit to the flight's designated form-up location. Once the guidon has been retrieved and five or more cadets have arrived at the form up location, the cadet flight commander, or a designated representative, will give the command, "FALL IN". Cadets will be in a detail or flight and at the position of attention or parade rest at all times. Cadets will not talk unless making on-the-spot corrections.  
 
