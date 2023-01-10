@@ -86,6 +86,7 @@
 1. Ensure CSQ/HG is properly trained and equipped to run weekly practices NLT LLAB #3.
 2. Send out weekly POC PMT feedback surveys NLT Wednesday.
 3. Delivering all Missed PMT memos to OFC NLT Friday.
+4. Deliver an Entry Control Point lesson on LLAB #8.
 
 ### Inspector General (345 CSQ/IG) – C/Lt Col Jacob Villeneuve
 **Function:** Serves as the point of contact for safety, mal-training, and honor code concerns outside of the chain of command and promotes cadet readiness.
@@ -165,8 +166,9 @@
 3. Update Uniform Inspection Tracker weekly.
 4. Send out a squadron readiness email monthly.
 5. Determine mid-semester flight awards NLT 26 February 2023.
-6. Determine end-of-semester flight awards individual awards NLT LLAB #12.
-7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
+6. Deliver a Small Unit Tactics lesson on LLAB #8.
+7. Determine end-of-semester flight awards individual awards NLT LLAB #12.
+8. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
 
 ## RECRUITING AND RETENTION FLIGHT
 ### Recruiting & Retention Flight Commander (345 CSQ/RRF) – C/Maj Bryan Hureau
@@ -307,10 +309,11 @@
 **Deliverables:**   
 1. Ensure respective flight is aware NLT Tuesday it is their duty to clean CA as scheduled by OIC/LS.
 2. Communicate to OIC/CS NLT three days of cadet’s respective add/drop to amend permissions.
-3. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
-4. Report status of supply requirements to TOF NLT one day prior to PMT activities.
-5. Brief Det/CC and OFC on Training Support Group status during meetings.
-6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
+3. Deliver a lesson on the Different Types of Orders on LLAB #8.
+4. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
+5. Report status of supply requirements to TOF NLT one day prior to PMT activities.
+6. Brief Det/CC and OFC on Training Support Group status during meetings.
+7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ### OIC, Communications Support (345 CSQ/TSFC) – C/Capt Kathryn Swineford
 **Function:** Provides technical support for cyberspace resources utilized by the SQ.
