@@ -49,7 +49,7 @@
 1. Deliver a briefing to the CW on the mission and vision statement during LLAB #1.
 2. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
 3. Sign the completed weekly OPORD with the (CSQ/UTM) prior to the start of the weekly PMT activities.
-4. Submit weekly OPORD NLT three days prior to the week of execution to the OFC for review/approval, will be established as part of POC Teams workflow.  5. Prepare and present status of CSQ to OFC during weekly staff meetings.
+4. Submit weekly OPORD NLT three days prior to the week of execution to the OFC for review/approval, will be established as part of POC Teams workflow. 5. Prepare and present status of CSQ to OFC during weekly staff meetings.
 6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
 
 ### Director of Operations (345 CSQ/DO) – C/Col Alessandra Ramirez
@@ -75,17 +75,17 @@
 **Reports to:** CSQ/CC
 
 **Duties:** The Executive Officer is responsible for:
-1.  Tracking required missed PMT memos for all cadets and making sure they are completed correctly before routing them to CSQ/CC.
-2.  Complete LLAB Hotwash debrief at weekly POC meetings.
-3.  Oversees all Honor Guard events and activities.
-4.  Take notes during POC and Staff meetings.
-5.  Facilitate announcements at PMT events.
-6.  Directing the Spring 2023 Commissioning Ceremony
+1. Tracking required missed PMT memos for all cadets and making sure they are completed correctly before routing them to CSQ/CC.
+2. Complete LLAB Hotwash debrief at weekly POC meetings.
+3. Oversees all Honor Guard events and activities.
+4. Take notes during POC and Staff meetings.
+5. Facilitate announcements at PMT events.
+6. Directing the Spring 2023 Commissioning Ceremony
 
 **Deliverables:**
-1.  Ensure CSQ/HG is properly trained and equipped to run weekly practices NLT LLAB #3.
-2.  Send out weekly POC PMT feedback surveys NLT Wednesday.
-3.  Delivering all Missed PMT memos to OFC NLT Friday.
+1. Ensure CSQ/HG is properly trained and equipped to run weekly practices NLT LLAB #3.
+2. Send out weekly POC PMT feedback surveys NLT Wednesday.
+3. Delivering all Missed PMT memos to OFC NLT Friday.
 
 ### Inspector General (345 CSQ/IG) – C/Lt Col Jacob Villeneuve
 **Function:** Serves as the point of contact for safety, mal-training, and honor code concerns outside of the chain of command and promotes cadet readiness.
