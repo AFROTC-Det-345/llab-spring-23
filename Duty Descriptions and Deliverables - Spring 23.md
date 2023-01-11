@@ -49,7 +49,8 @@
 1. Deliver a briefing to the CW on the mission and vision statement during LLAB #1.
 2. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
 3. Sign the completed weekly OPORD with the (CSQ/UTM) prior to the start of the weekly PMT activities.
-4. Submit weekly OPORD NLT three days prior to the week of execution to the OFC for review/approval, will be established as part of POC Teams workflow. 5. Prepare and present status of CSQ to OFC during weekly staff meetings.
+4. Submit weekly OPORD NLT three days prior to the week of execution to the OFC for review/approval, will be established as part of POC Teams workflow. 5. 
+5. Prepare and present status of CSQ to OFC during weekly staff meetings.
 6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
 
 ### Director of Operations (345 CSQ/DO) – C/Col Alessandra Ramirez
@@ -62,12 +63,14 @@
 2. Directing oversight of Training Flight, Training Support Flight, and Recruiting Flight.
 3. Point of contact for all joint-detachment coordination unless delegated.
 4. Track all CSQ deliverables and facilitate weekly updates from appropriate POC cadets at weekly POC meetings.
+5. Oversees 345 CSQ/SE and provides guidence on all health and wellness related matters.
 
 **Deliverables:**  
-1. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
-2. Ensure all cadet resumes are updated NLT LLAB #12.
-3. Tracking POC accountability for all PMT events on Accountability Tracker.
-4. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
+1. Tracking POC accountability for all PMT events on Accountability Tracker.
+2. Execute an expectations meeting with (345 CSQ/SE) by LLAB #2.
+3. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
+4. Ensure all cadet resumes are updated NLT LLAB #12.
+7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
 
 ### Executive Officer (345 CSQ/CCE) – C/Col Robert Crowley
 **Function:** Oversees and supports administrative efforts for Cadet Squadron Leadership and oversees Honor Guard.
@@ -85,7 +88,7 @@
 **Deliverables:**
 1. Ensure CSQ/HG is properly trained and equipped to run weekly practices NLT LLAB #3.
 2. Send out weekly POC PMT feedback surveys NLT Wednesday.
-3. Delivering all Missed PMT memos to OFC NLT Friday.
+3. Delivering all Missed PMT memos to CSQ/CC NLT Friday.
 4. Deliver an Entry Control Point lesson on LLAB #8.
 
 ### Inspector General (345 CSQ/IG) – C/Lt Col Jacob Villeneuve
@@ -100,7 +103,7 @@
 4. Delivering GMC LLAB feedback to CSQ leadership during POC meetings.
 5. Executing a total CSQ recall in the event of an emergency or if necessity dictates.
 6. Overseeing the cadet mentorship program IAW AFROTCI 36-2011 V1, objective 12.2.
-7. Supporting the Arnold Air Society Squadron Commander in promotion of AAS activities, and training events.
+8. Supporting the Arnold Air Society Squadron Commander in promotion of AAS activities, and training events.
 
 **Deliverables:**
 1. Deliver a brief to the CSQ on the role of the CSQ Inspector General during LLAB #2.
@@ -122,8 +125,8 @@
 **Deliverables:**  
 1. Organize at least one GMC morale event NLT LLAB #13.
 2. Conduct weekly GMC PMT feedback survey and provide responses to CSQ/IG
-3. Send a monthly wellness survey to GMC and report results to CW/CC.
-4. Submit GMC interest items, concerns, or feedback to CW/CC as needed.
+3. Send a monthly wellness survey to GMC and report results to CSQ/CC.
+4. Submit GMC interest items, concerns, or feedback to CSQ/CC as needed.
 
 ### Unit Training Manager (345 CSQ/UTM) – C/Lt Col Brandon Wing
 **Function:** Verifies CSQ compliance with all AFROTC standards and objectives and ensures standardization of training. Provides guidance and feedback to TOF/CC on lesson plans and Cadet Report Cards.
@@ -366,11 +369,11 @@
 10. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ## ADDITIONAL DUTIES
-### Health and Safety Officer C/3C Joanna C. Gordon
+### Health and Safety Officer (345 CSQ/SE) - C/3C Joanna C. Gordon
 
 **Function:** Promotes mental, physical, social, and spiritual fitness through education, utilization of campus resources, morale events, and community service.
 
-**Reports to:** 345 CSQ/IG
+**Reports to:** 345 CSQ/DO
 
 **Duties:** The Health and Safety Officer is responsible for:
 1. Educating the SQ on Comprehensive Airman Fitness or other Commander’s Call topics.
