@@ -370,7 +370,7 @@
 
 **Function:** Promotes mental, physical, social, and spiritual fitness through education, utilization of campus resources, morale events, and community service.
 
-**Reports to:** 345 CSQ/CC
+**Reports to:** 345 CSQ/IG
 
 **Duties:** The Health and Safety Officer is responsible for:
 1. Educating the SQ on Comprehensive Airman Fitness or other Commander’s Call topics.
@@ -389,7 +389,7 @@
 ### Honor Guard Representatives (345 CSQ/HG) – C/3C Kai Williams & C/4C Sydney Selby
 **Function:** Oversees the detachment Honor Guard.
 
-**Reports to:** 
+**Reports to:** 345 CSQ/CCE
 
 **Duties:** The Honor Guard Representatives are responsible for:
 1. Recruiting, training, and equipping Honor Guard details.
@@ -407,7 +407,7 @@
 
 **Function:** Assists the Public Affairs, Outreach, and Recruiting Officer by staffing all SQ recruiting and retention events and coordinating community outreach events.
 
-**Reports to:** 
+**Reports to:** 345 CSQ/RRF
 
 **Duties:** The Public Affairs, Outreach, and Recruiting Deputies are responsible for:
 1. Supporting recruitment events organized by the SQ/RO.
@@ -422,7 +422,7 @@
 ### Civil Air Patrol Representative – C/3C Schuyler McCullough
 **Function:** Acts as a liaison between Detachment 345 and local Civil Air Patrol units.
 
-**Reports to:** 
+**Reports to:** 345 CSQ/RRF
 
 **Duties:** The Civil Air Patrol Representative is responsible for:
 1. Organizing Detachment 345 support for any local Civil Air Patrol events.
@@ -435,7 +435,7 @@
 
 **Function:** Acts as a liaison between Detachment 345 and AFCEA Lexington-Concord.
 
-**Reports to:** 
+**Reports to:** 345 CSQ/RRF
 
 **Duties:** The AFCEA Representative is responsible for:
 1. Organizing Detachment 345 support for local AFCEA events.
@@ -444,13 +444,13 @@
 ### JROTC Representative – C/4C Santiago Echeverry & C/4C Danny Tran
 **Function:** Acts as a liaison between Detachment 345 and local JROTC units.
 
-**Reports to:** 
+**Reports to:** 345 CSQ/RRF
 
 **Duties:** The JROTC Representative is responsible for:
 1. Organizing Detachment 345 support for any local JROTC events.
 
 ### Physical Fitness Leaders – C/3C Joanna Gordon, C/3C Justin Flynn
-**Function:** To execute PT plans developed by the **345 CDS/UFPM**.
+**Function:** To execute PT plans developed by the **345 CSQ/UFPM**.
 
 **Reports to:** 345 CSQ/UFPM
 
@@ -499,9 +499,7 @@
 2. Update uniform accountability sheet weekly.
 
 ## Major Events Committees
-- Commissioning
-- MilBall
-- WarGaming
-- FLX
-- Retreat/Reveille??
-- Pass and Review??
+- Commissioning: C/Col Crowley and C/Lt Col Wing
+- MilBall: C/Maj Hureau, C/Capt Swineford, C/Capt N. Stavridis
+- WarGaming: C/Capt Blatus, C/Capt Ellis, C/Capt K. Stavridis
+- FLX: C/Col Ramirez
