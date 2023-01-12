@@ -214,7 +214,7 @@
 2. Submit after action reports to RFC/CC following all crosstown recruitment events NLT three days after event execution.
 3. Attain 10% of crosstown cadet attendance to biweekly MWR events.
 4. Assist and attend RFC/CC in the planning of biweekly recruiting events scheduled during LLAB time.
-5. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
+5. Execute a formal or informal expectations meeting for all subordinates NLT LLAB #2.
 6. Plan and organize (1) information table and/or recruiting event at each host school and cross-town school per month.
 7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
@@ -292,7 +292,8 @@
 1. Submit draft of Spring 2023 PT plan to the TOF/CC and CDS/CC NLT 04 January 2023.
 2. Establish a simple to use method for cross-town cadets, and any cadet that misses PT to track their weekly exercises NLT ?? January 2023 (Google Form, etc.).
 3. Submit weekly PT portion of OPORD to (CSQ/UTM) NLT five days prior to the week of execution.
-4. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
+4. Execute a formal or informal expectations meeting for PTLs as they rotate into the position.
+5. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
 
 ## TRAINING  SUPPORT FLIGHT
 ### Training Support Flight Commander (345 CSQ/TSF) – C/Maj Ryan Kless
@@ -333,13 +334,14 @@
 8. Updating the SQ email distribution list as needed.
 9. Ensuring technical support and equipment is provided at PMT as needed.
 10. Compiling any LLAB briefs NLT two calendar days prior to the day of execution.
+11. Overseeing communication support officers.
 
 **Deliverables:** 
 1. Update POC and Detachment Teams NLT 9 January  2023.
 2. Update all roles on the Det 345 Discord NLT 9 January  2023.
 3. Update SQ email distribution list NLT 9 January  2023
 5. Deliver a Land Navigation lesson on LLAB #7.
-6. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
+6. Execute a formal or informal expectations meeting for all subordinates NLT LLAB #2.
 7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ### OIC, Logistics Support (345 CSQ/TSFL) – C/Capt Nikolaos Stavridis  
@@ -354,18 +356,20 @@
 4. Developing uniform room schedule and ensuring uniform room is staffed regularly.
 5. Ensuring full accountability for all uniform items and equipment.
 6. Carrying out any additional duties delegated by the **SQ/OX**.
+7. Overseeing material managements officers.
 
 **Deliverables:** 
 1. Deliver a lesson to the SQ on AF dress and appearance standards during LLAB #1.
 2. Compile list of cadets needing access to Cadet Area NLT LLAB #2.
-3. Distribute a cleaning schedule for the Cadet Area NLT LLAB #3.
-4. Alert respective flight of cleaning duty NLT Tuesday of their week.
-5. Establish weekly staffed uniform room hours NLT LLAB #3.
-6. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
-7. Deliver Radio Etiquette lesson on LLAB#7
-8. Overhaul the organization of the supply closet NLT LLAB #8.
-9. Report weekly uniform and equipment status to **SQ/OX.**
-10. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
+3. Execute a formal or informal expectations meeting for all subordinates NLT LLAB #2.
+4. Distribute a cleaning schedule for the Cadet Area NLT LLAB #3.
+5. Alert respective flight of cleaning duty NLT Tuesday of their week.
+6. Establish weekly staffed uniform room hours NLT LLAB #3.
+7. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
+8. Deliver Radio Etiquette lesson on LLAB #7
+9. Overhaul the organization of the supply closet NLT LLAB #8.
+10. Report weekly uniform and equipment status to **SQ/OX.**
+11. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ## ADDITIONAL DUTIES
 ### Health and Safety Officer (345 CSQ/SE) - C/3C Joanna C. Gordon
