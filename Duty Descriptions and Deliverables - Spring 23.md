@@ -43,7 +43,6 @@
 4. Ensuring the CSQ accomplishes the objectives as outlined by the AFROTCI 36-2011 Volume 1 Academic Year 2022-2023.
 5. Execute the initiatives established in the Academic Year 2021-2023 Mission Directive.
 6. Supervising and delegating duties to subordinate staff.
-7. Maintaining communication with (EXEC) to receive updates on special projects and SQ participation.
 
 **Deliverables:**  
 1. Deliver a briefing to the CW on the mission and vision statement during LLAB #1.
