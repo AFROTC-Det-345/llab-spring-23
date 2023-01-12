@@ -239,7 +239,6 @@
 **Deliverables:**
 1. Creation of Draft Spring 2023 PMT Schedule NLT 04 January 2023.
 2. Creation of GMC flight roster NLT 16 January 2023.
-3. Deliver Semester Overview and Expectations Brief on LLAB 1.
 4. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.  
 5. Report CSQ accountability to CSQ/CC at the beginning of every PMT event. 
 6. Coordinate CSQ accountability with Trainers and submit Accountability Tracker NLT EOD Sunday to OFC, will be established as part of POC Teams workflow.
