@@ -48,7 +48,7 @@
 1. Deliver a briefing to the CW on the mission and vision statement during LLAB #1.
 2. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
 3. Sign the completed weekly OPORD with the (CSQ/UTM) prior to the start of the weekly PMT activities.
-4. Submit weekly OPORD NLT three days prior to the week of execution to the OFC for review/approval, will be established as part of POC Teams workflow. 5. 
+4. Submit weekly OPORD NLT three days prior to the week of execution to the OFC for review/approval, will be established as part of POC Teams workflow.
 5. Prepare and present status of CSQ to OFC during weekly staff meetings.
 6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
 
