@@ -379,8 +379,8 @@
 **Reports to:** 345 CSQ/DO
 
 **Duties:** The Health and Safety Officer is responsible for:
-1. Educating the SQ on Comprehensive Airman Fitness or other Commander’s Call topics.
-2. Serving as the liaison between CW and campus health and wellness resources to include but not limited to health and wellness center, academic assistance center, student affairs, veteran’s services, and campus ministries.
+1. Educating the CSQ on Comprehensive Airman Fitness or other Commander’s Call topics.
+2. Serving as the liaison between CSQ and campus health and wellness resources to include but not limited to health and wellness center, academic assistance center, student affairs, veteran’s services, and campus ministries.
 3. Hosting SMEs to deliver health and wellness topics and reporting status and availability of special-hosted training to SQ leadership.
 4. Forwarding safety grams and other useful information to the SQ.
 5. Ensuring a safe training environment during PMT. Coordinates with **(345 TSF/CC)** and **(345 TOF/CC)** to ensure availability of safety kits, water, and any other safety-related items.
