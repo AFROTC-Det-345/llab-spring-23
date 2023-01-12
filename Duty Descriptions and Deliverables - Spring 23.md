@@ -337,11 +337,11 @@
 11. Overseeing communication support officers.
 
 **Deliverables:** 
-1. Update POC and Detachment Teams NLT 9 January  2023.
-2. Update all roles on the Det 345 Discord NLT 9 January  2023.
-3. Update SQ email distribution list NLT 9 January  2023
+1. Update POC and Detachment Teams as necessary.
+2. Update all roles on the Det 345 Discord as necessary.
+3. Update SQ email distribution list necessary.
+4. Execute a formal or informal expectations meeting for all subordinates NLT LLAB #2.
 5. Deliver a Land Navigation lesson on LLAB #7.
-6. Execute a formal or informal expectations meeting for all subordinates NLT LLAB #2.
 7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ### OIC, Logistics Support (345 CSQ/TSFL) – C/Capt Nikolaos Stavridis  
@@ -389,7 +389,7 @@
 8. Reporting immediate safety concerns to the CSQ/CC or CSQ/DO.
 
 **Deliverables:**
-1. Deliver a briefing to the CSQ on health and wellness during LLAB #3.
+1. Deliver a briefing to the CSQ on the importance of health and wellness during LLAB #3.
 2. Forward monthly safety gram to CSQ.
 
 ### Honor Guard Representatives (345 CSQ/HG) – C/3C Kai Williams & C/4C Sydney Selby
