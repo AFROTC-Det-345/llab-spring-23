@@ -125,7 +125,7 @@
 **Deliverables:**  
 1. Organize at least one GMC morale event NLT LLAB #13.
 2. Conduct weekly GMC PMT feedback survey and provide responses to CSQ/IG NLT Wednesday.
-3. Send a monthly wellness survey to GMC and report results to CSQ/CC.
+3. Conduct weekly health and wellness survey for GMC and report results to CSQ/CC.
 4. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ### Unit Training Manager (345 CSQ/UTM) – C/Lt Col Brandon Wing
