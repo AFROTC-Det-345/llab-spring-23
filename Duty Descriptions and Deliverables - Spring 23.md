@@ -226,13 +226,12 @@
 1. Exercising command and control over the entire LLAB, IMT, and FTP training environments and working with squadron leadership to standardize training IAW AFROTCI 36-2011 V1 curriculum.
 2. Ensuring Training Staff meet standards in areas of duty and cadet performance through frequent evaluation. (UTM in charge of evaluations?)
 3. Serving as the SME for all LLAB, IMT, and FTP training objectives.
-4. Planning, organizing, and coordinating weekly CONOPs, lesson plans, instructor assignments, and other LLAB aids.
-5. Overseeing the organization of GMC flights and authorizing all changes to structure with approval from CSQ/CC and OFC.
-6. Maintaining staff schedule for IMT, FTP, and Alt LLAB if applicable.
-7. Reporting status of Training to squadron leadership.
-8. Ensuring all needed materials and facilities for PMT activities are obtained through coordination with Training Support Flight.
-9. Reviewing and approving LLAB, IMT, FTP, PT plans, and Concepts of Operations (CONOPs).
-10. Coordinating with Readiness and Plans to ensure completeness of information for awards program.
+4. Overseeing the organization of GMC flights and authorizing all changes to structure with approval from CSQ/CC and OFC.
+5. Maintaining staff schedule for IMT, FTP, and Alt LLAB if applicable.
+6. Reporting status of Training to squadron leadership.
+7. Ensuring all needed materials and facilities for PMT activities are obtained through coordination with Training Support Flight.
+8. Reviewing and approving LLAB, IMT, FTP, PT plans, and Concepts of Operations (CONOPs).
+9. Coordinating with Readiness and Plans to ensure completeness of information for awards program.
 
 **Deliverables:**
 1. Creation of Draft Spring 2023 PMT Schedule NLT 04 January 2023.
@@ -256,7 +255,7 @@
 4. Supporting GMC flight members with creation of standardization document in conjunction with (CSQ/RPO).
 5. Instructing GMC cadets IAW weekly OPORD, plans delivered from the Training Ops Flt/CC, and AFROTCI 36-2011 V1.
 6. Tracking individual objectives for cadets within their flight and reporting them to (CSQ/UTM).
-7. Assisting with PMT planning (CONOPS, lesson plans, etc.).
+7. Planning, organizing, and coordinating weekly CONOPs, lesson plans, instructor assignments, and other LLAB aids.
 8. Communicating training plans to supporting POC staff if applicable.
 
 **Deliverables:**  
