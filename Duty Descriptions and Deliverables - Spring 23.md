@@ -388,8 +388,7 @@
 
 **Deliverables:**
 1. Deliver a briefing to the CSQ on the importance of health and wellness during LLAB #3.
-2. Send out biweekly emails to the SQ with tips, resources, or events in the local area regarding health.
-3. Conduct biweekly survey for all cadets regarding their mental health status and document on a tracker to be referenced by SQ leadership.
+2. Send out biweekly emails to the SQ with tips, resources, or events in the local area regarding health. 
 4. Forward monthly safety gram to CSQ.
 
 ### Honor Guard Representatives (345 CSQ/HG) – C/3C Kai Williams & C/4C Sydney Selby
