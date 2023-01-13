@@ -357,7 +357,7 @@
 7. Overseeing material managements officers.
 
 **Deliverables:** 
-1. Deliver a lesson to the SQ on AF dress and appearance standards during LLAB #1.
+1. Deliver a lesson to the SQ on AF dress and appearance standards during LLAB #2.
 2. Compile list of cadets needing access to Cadet Area NLT LLAB #2.
 3. Execute a formal or informal expectations meeting for all subordinates NLT LLAB #2.
 4. Distribute a cleaning schedule for the Cadet Area NLT LLAB #3.
