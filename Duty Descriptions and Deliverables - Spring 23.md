@@ -38,7 +38,7 @@
 
 **Duties:** The Squadron Commander is responsible for:
 1. Executing the detachment's mission, leading detachment members, managing detachment resources, and improving the unit.
-2. Providing the CSQ with vision and direction in pursuit of spring 2023 detachment goals.
+2. Providing the CSQ with vision and direction in pursuit of Spring 2023 detachment goals.
 3. Reporting the status of the CSQ to Cadre.
 4. Ensuring the CSQ accomplishes the objectives as outlined by the AFROTCI 36-2011 Volume 1 Academic Year 2022-2023.
 5. Execute the initiatives established in the Academic Year 2021-2023 Mission Directive.
@@ -188,7 +188,7 @@
 7. Acting as a point of contact for cadets considering dropping Air Force ROTC.
 
 **Deliverables:**
-1. Deliver a Heritage Briefing on LLAB 2. 
+1. Deliver a Heritage Briefing on LLAB #2. 
 2. Submit after action reports to CSQ/XP following all recruitment (local and crosstown) events NLT three days after event execution.
 3. Organize and host biweekly MWR events with at least 10% detachment attendance.
 4. Organize and host biweekly recruiting events scheduled during LLAB time.
@@ -214,7 +214,7 @@
 2. Attain 10% of crosstown cadet attendance to biweekly MWR events.
 3. Assist and attend RFC/CC in the planning of biweekly recruiting events scheduled during LLAB time.
 4. Execute a formal or informal expectations meeting for all subordinates NLT LLAB #2.
-5. Plan and organize (1) information table and/or recruiting event at each host school and cross-town school per month.
+5. Plan and organize 1 information table and/or recruiting event at each host school and cross-town school per month.
 6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ## TRAINING OPERATIONS FLIGHT
@@ -288,7 +288,7 @@
 
 **Deliverables:**  
 1. Submit draft of Spring 2023 PT plan to the TOF/CC and CSQ/CC NLT 04 January 2023.
-2. Establish a simple to use method for cross-town cadets, and any cadet that misses PT to track their weekly exercises NLT ?? January 2023 (Google Form, etc.).
+2. Establish a simple to use method for cross-town cadets, and any cadet that misses PT to track their weekly exercises NLT 24 January 2023 (Google Form, etc.).
 3. Submit weekly PT portion of OPORD to (CSQ/UTM) NLT five days prior to the week of execution.
 4. Execute a formal or informal expectations meeting for PTLs as they rotate into the position.
 5. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
