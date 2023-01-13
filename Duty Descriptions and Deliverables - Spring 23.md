@@ -50,7 +50,7 @@
 3. Sign the completed weekly OPORD with the (CSQ/UTM) prior to the start of the weekly PMT activities.
 4. Submit weekly OPORD NLT three days prior to the week of execution to the OFC for review/approval, will be established as part of POC Teams workflow.
 5. Prepare and present status of CSQ to OFC during weekly staff meetings.
-6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
+6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ### Director of Operations (345 CSQ/DO) – C/Col Alessandra Ramirez
 **Function:** Advises and supports CSQ/CC in the direction of all actions for the CSQ.
@@ -69,7 +69,7 @@
 2. Execute an expectations meeting with (345 CSQ/SE) by LLAB #2.
 3. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
 4. Ensure all cadet resumes are updated NLT LLAB #12.
-7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
+7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ### Executive Officer (345 CSQ/CCE) – C/Col Robert Crowley
 **Function:** Oversees and supports administrative efforts for Cadet Squadron Leadership and oversees Honor Guard.
@@ -89,6 +89,7 @@
 2. Send out weekly POC PMT feedback surveys NLT Wednesday.
 3. Delivering all Missed PMT memos to CSQ/CC NLT Friday.
 4. Deliver an Entry Control Point lesson on LLAB #8.
+5. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ### Inspector General (345 CSQ/IG) – C/Lt Col Jacob Villeneuve
 **Function:** Serves as the point of contact for safety, mal-training, and honor code concerns outside of the chain of command and promotes cadet readiness.
@@ -99,17 +100,17 @@
 1. Actively monitoring training environments to ensure zero-tolerance policy is upheld.
 2. Handling grievances that fall outside the CSQ chain of command.
 3. Reporting any concerns regarding mal-training to the Det/CC and OFC.
-4. Delivering GMC LLAB feedback to CSQ leadership during POC meetings.
-5. Executing a total CSQ recall in the event of an emergency or if necessity dictates.
-6. Overseeing the cadet mentorship program IAW AFROTCI 36-2011 V1, objective 12.2.
-8. Supporting the Arnold Air Society Squadron Commander in promotion of AAS activities, and training events.
+4. Executing a total CSQ recall in the event of an emergency or if necessity dictates.
+5. Overseeing the cadet mentorship program IAW AFROTCI 36-2011 V1, objective 12.2.
+6. Supporting the Arnold Air Society Squadron Commander in promotion of AAS activities, and training events.
 
 **Deliverables:**
 1. Deliver a brief to the CSQ on the role of the CSQ Inspector General during LLAB #2.
 2. Review and modify the Fall 2022 Mentorship Program for use during Spring 2023 NLT LLAB #3.
 3. Deliver a briefing to the CSQ on the mentorship program during LLAB #3.
 4. Conduct health and wellness checks on POC at weekly POC meetings.
-5. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
+5. Relay GMC PMT feedback to CSQ leadership during POC meetings.
+6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ### First Sergeant (345 CSQ/CCF) – C/3C Samantha Spaziano
 **Function:** Provide mentorship and advice to all GMC cadets. Serves as point of contact for GMC to express thoughts and opinions so SQ leadership can understand their honest perspective.
@@ -123,9 +124,9 @@
 
 **Deliverables:**  
 1. Organize at least one GMC morale event NLT LLAB #13.
-2. Conduct weekly GMC PMT feedback survey and provide responses to CSQ/IG
+2. Conduct weekly GMC PMT feedback survey and provide responses to CSQ/IG NLT Wednesday.
 3. Send a monthly wellness survey to GMC and report results to CSQ/CC.
-4. Submit GMC interest items, concerns, or feedback to CSQ/CC as needed.
+4. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ### Unit Training Manager (345 CSQ/UTM) – C/Lt Col Brandon Wing
 **Function:** Verifies CSQ compliance with all AFROTC standards and objectives and ensures standardization of training. Provides guidance and feedback to TOF/CC on lesson plans and Cadet Report Cards.
@@ -146,7 +147,7 @@
 2. Update Objective Tracker weekly.
 4. Submit weekly OPORD NLT five days prior to the week of execution to the CSQ/CC for review/approval, will be established as part of POC Teams workflow.
 5. Provide feedback on training and highlight cadets of concern at weekly POC meetings.
-6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
+6. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ### Readiness and Plans Officer (345 CSQ/XP) – C/Lt Col Xi Xiao
 **Function:** Oversees CSQ standards and evaluations. Tracks all items that influence end of the semester flight or individual awards. Tracks readiness for the squadron.
@@ -169,8 +170,8 @@
 4. Send out a squadron readiness email monthly.
 5. Determine mid-semester flight awards NLT 26 February 2023.
 6. Deliver a Small Unit Tactics lesson on LLAB #8.
-7. Determine end-of-semester flight awards individual awards NLT LLAB #12.
-8. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2022).
+7. Determine end-of-semester flight awards and individual awards NLT LLAB #12.
+8. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ## RECRUITING AND RETENTION FLIGHT
 ### Recruiting & Retention Flight Commander (345 CSQ/RRF) – C/Maj Bryan Hureau
@@ -188,7 +189,7 @@
 
 **Deliverables:**
 1. Deliver a Heritage Briefing on LLAB 2. 
-2. Submit after action reports to SQ/DO following all recruitment (local and crosstown) events NLT three days after event execution.
+2. Submit after action reports to CSQ/XP following all recruitment (local and crosstown) events NLT three days after event execution.
 3. Organize and host biweekly MWR events with at least 10% detachment attendance.
 4. Organize and host biweekly recruiting events scheduled during LLAB time.
 5. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
@@ -241,7 +242,7 @@
 6. Coordinate CSQ accountability with Trainers and submit Accountability Tracker NLT EOD Sunday to OFC, will be established as part of POC Teams workflow.
 7. Selecting and notifying LLAB presenters NLT two weeks prior to the week of execution.
 8. Update OFC on Training status and Cadet Report Card trends during staff meetings. (UTM)
-9. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
+9. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ### Flight Trainer (345 CSQ/TOFT) – C/Capt Cam Ellis, C/Capt Kosta Stavridis
 **Function:** Trains, leads, and mentors AS100, AS200, AS250, and AS500 cadets during PMT.
@@ -264,10 +265,10 @@
 3. Deliver UXO/IED lesson on LLAB #7.
 4. Deliver TCCC lesson on LLAB #7.
 5. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
-6. Update Accountability Tracker NLT 24hrs after PMT event for all cadets in their element.
+6. Update Accountability Tracker NLT 24hrs after each PMT event.
 7. Update Cadet Report Card NLT 24 hours after any PMT for all cadets in their element
 8. Assist Training Ops Flt/CC in preparing LLAB, IMT, and FTP plans for submission to (TOF/CC) NLT five days before the week of execution.
-9. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
+9. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ### Unit Fitness Program Manager (345 CSQ/UFPM) – C/Capt Seth Perry
 **Function:** To plan, coordinate, and execute the CDS Physical Training program.
@@ -286,11 +287,11 @@
 9. Ensuring proper verbiage for formation during PT is used as illustrated in the most current Field Training Manual.
 
 **Deliverables:**  
-1. Submit draft of Spring 2023 PT plan to the TOF/CC and CDS/CC NLT 04 January 2023.
+1. Submit draft of Spring 2023 PT plan to the TOF/CC and CSQ/CC NLT 04 January 2023.
 2. Establish a simple to use method for cross-town cadets, and any cadet that misses PT to track their weekly exercises NLT ?? January 2023 (Google Form, etc.).
 3. Submit weekly PT portion of OPORD to (CSQ/UTM) NLT five days prior to the week of execution.
 4. Execute a formal or informal expectations meeting for PTLs as they rotate into the position.
-5. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (28 April 2023).
+5. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ## TRAINING  SUPPORT FLIGHT
 ### Training Support Flight Commander (345 CSQ/TSF) – C/Maj Ryan Kless
@@ -312,7 +313,7 @@
 3. Deliver a lesson on the Different Types of Orders on LLAB #8.
 4. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
 5. Report status of supply requirements to TOF NLT one day prior to PMT activities.
-6. Brief Det/CC and OFC on Training Support Group status during meetings.
+6. Brief CSQ/CC and OFC on Training Support Group status during meetings.
 7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ### OIC, Communications Support (345 CSQ/TSFC) – C/Capt Kathryn Swineford
@@ -336,7 +337,7 @@
 **Deliverables:** 
 1. Update POC and Detachment Teams as necessary.
 2. Update all roles on the Det 345 Discord as necessary.
-3. Update SQ email distribution list necessary.
+3. Update SQ email distribution list as necessary.
 4. Execute a formal or informal expectations meeting for all subordinates NLT LLAB #2.
 5. Deliver a Land Navigation lesson on LLAB #7.
 7. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
@@ -348,11 +349,11 @@
 
 **Duties:** The OIC, Logistics Support is responsible for:
 1. Identifying needs for new equipment and uniform items and acquiring them.
-2. Working directly with **SQ/OX** on SQ Readiness Briefings (such as uniforms, PFA, medical, etc.).
+2. Working directly with **SQ/XP** on SQ Readiness Briefings (such as uniforms, PFA, medical, etc.).
 3. Creating carpool lists for off-campus events as needed.
 4. Developing uniform room schedule and ensuring uniform room is staffed regularly.
 5. Ensuring full accountability for all uniform items and equipment.
-6. Carrying out any additional duties delegated by the **SQ/OX**.
+6. Carrying out any additional duties delegated by the **CSQ/TSF**.
 7. Overseeing material managements officers.
 
 **Deliverables:** 
@@ -365,7 +366,7 @@
 7. Schedule and complete initial and final feedback NLT LLAB #4 and LLAB #12.
 8. Deliver Radio Etiquette lesson on LLAB #7
 9. Overhaul the organization of the supply closet NLT LLAB #8.
-10. Report weekly uniform and equipment status to **SQ/OX.**
+10. Report weekly uniform and equipment status to **CSQ/TSF**
 11. Create and maintain a position continuity document throughout the semester for completion NLT one week after the end of classes (13 May 2023).
 
 ## ADDITIONAL DUTIES
@@ -387,7 +388,9 @@
 
 **Deliverables:**
 1. Deliver a briefing to the CSQ on the importance of health and wellness during LLAB #3.
-2. Forward monthly safety gram to CSQ.
+2. Send out biweekly emails to the SQ with tips, resources, or events in the local area regarding health.
+3. Conduct biweekly survey for all cadets regarding their mental health status and document on a tracker to be referenced by SQ leadership.
+4. Forward monthly safety gram to CSQ.
 
 ### Honor Guard Representatives (345 CSQ/HG) – C/3C Kai Williams & C/4C Sydney Selby
 **Function:** Oversees the detachment Honor Guard.
