@@ -120,11 +120,12 @@ Attendance at mandatory Practical Military Training events is the expected norm.
 
 Regular attendance is also expected for POC at events in addition to PMT. Such events may include, but are not limited to, weekly meetings for all POC that take place before and after PMT, Cadre meetings for members of CW leadership, and meetings for all POC following AS300 and AS400 class.
 
+Late arrivals can be disruptive to LLAB and PT and discourteous to the instructor and other students. If you know you will be late for LLAB or PT, coordinate in advance with your Cadet Squadron Chain of Command. If you are late, your attendance will initially be counted as unexcused. You will be required to provide a missed PMT memo **no later than 3 days** from the date of the late arrival.
+
 **Cross-town cadets** are not required to attend AFROTC events when their host institution is not in session. LLAB Objectives are required to be completed by all cadets during the current Academic Year, in addition to the 80 percent attendance requirement. Cross-town cadets are not required to attend PT on Monday/Wednesday mornings, they are required to coordinate with Cadet Squadron Unit Fitness Program Monitor for weekly PT requirements.
 
 **Extended Cadet Leaders** have completed the LLAB curriculum requirements and will attend Alt Lab with OFC on a weekly basis to complete Cadet Director roles as required. They are still expected to meet the 80 percent attendance requirement. Extended Cadet Leaders will attend all weekly PT sessions and will coordinate with OFC for excused absences. They will work with 345 /PFO for QFR scheduling.
 
-Late arrivals can be disruptive to LLAB and PT and discourteous to the instructor and other students. If you know you will be late for LLAB or PT, coordinate in advance with your Cadet Squadron Chain of Command. If you are late, your attendance will initially be counted as unexcused. You will be required to provide a missed PMT memo **no later than 3 days** from the date of the late arrival.
 
 ### Grade Determination
 LLAB is on a pass/no credit system. There is no scale associated with the assignment of the pass/no credit grade. To pass you must meet **all** of the following requirements:
