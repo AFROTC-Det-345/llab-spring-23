@@ -14,11 +14,11 @@ OPR: 345 CSQ/CC
 Supersedes: Fall 2022 OPLAN  
 Certified by: AFROTC Det 345/OFC  
 
- IAW AFROTCI 36-2011V3, 31 March 2022, *Cadet Operations* para. 10.2.13. The OPLAN is designed to provide the Cadet Wing, or equivalent, an OFC approved training roadmap for a specific semester.  At a minimum, OPLANs must include:
-  >10.2.13.1.  When the required training objectives are to be presented within the semester.  If any training objectives for the academic year will not be presented during the semester, the current OPLAN must account for these missed objectives in either a previous or subsequent OPLAN that falls within the same academic year.
-  >10.2.13.2. When concurrently enrolled cadets (e.g. AS250 Cadets) are to be presented all required training objectives IAW the current academic year’s AFROTCI 36-2011, Volume 1.
-  >10.2.13.3. The authorized positions for POC Cadets to include the organizational chart, leadership position designation, and duty descriptions.
-  >10.2.13.4. The plan for the Cadet Wing, or equivalent, to acquire and track attendance for all Mandatory PMT events.
+ IAW AFROTCI 36-2011V3, 31 March 2022, *Cadet Operations* para. 10.2.13. The OPLAN is designed to provide the Cadet Wing, or equivalent, an OFC approved training roadmap for a specific semester.  At a minimum, OPLANs must include: 
+  >10.2.13.1.  When the required training objectives are to be presented within the semester.  If any training objectives for the academic year will not be presented during the semester, the current OPLAN must account for these missed objectives in either a previous or subsequent OPLAN that falls within the same academic year.  
+  >10.2.13.2. When concurrently enrolled cadets (e.g. AS250 Cadets) are to be presented all required training objectives IAW the current academic year’s AFROTCI 36-2011, Volume 1.  
+  >10.2.13.3. The authorized positions for POC Cadets to include the organizational chart, leadership position designation, and duty descriptions.  
+  >10.2.13.4. The plan for the Cadet Wing, or equivalent, to acquire and track attendance for all Mandatory PMT events.  
 
 This operating instruction (OI) is AFROTC Det 345's OPLAN equivalent and establishes policies for all cadets assigned to the 345th Cadet Squadron (345 CQS). This document has been substantially revised and must be thoroughly reviewed. Major changes include the consolidation of syllabus information, missed PMT procedures, and the change from a Wing to a Squadron. 
 
