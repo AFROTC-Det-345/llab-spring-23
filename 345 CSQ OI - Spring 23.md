@@ -217,21 +217,21 @@ The Cadet Squadron is constructed in way that mirrors an active-duty squadron in
 **Office Symbol** | **Office Title / Function** | **Rank** | **Name**
 
 ### Cadet Appointments and Rotation
-All POC cadets must serve in at least one leadership role throughout the semester. This will be accomplished through their cadet job, though the Professional Officer Course In Charge (POCIC) program can be utilized. The following cadet jobs classify as a leadership role in the Fall 2022 semester: CW/CC, CW/CV, CW/SPO, CW/IG, CW/DS, TRG/CC, MSG/CC, TRS/CC, CS/CC, LRS/CC, CW/PA, TFA/CC, TFB/CC, TRS/PFO, and TRG/XP.
+All POC cadets must serve in at least one leadership role throughout the semester. This will be accomplished through their cadet job, though the Professional Officer Course In Charge (POCIC) program can be utilized. The following cadet jobs classify as a leadership role in the Spring 2023 semester: CSQ/CC, CSQ/DO, CSQ/IG, CSQ/UTM, CSQ/XP, CSQ/TOF, CSQ/TSF, CSQ/RRF.
 
-There is a weekly rotation of FTP cadets to serve as the “FTP Flight Commander” in preparation for the rigors of Field Training. A different FTP cadet will be chosen each week. Every FTP cadet will serve as the “FTP Flight Commander” in the Fall 2022 semester.
+There is a weekly rotation of FTP cadets to serve as the “FTP Flight Commander” in preparation for the rigors of Field Training. A different FTP cadet will be chosen each week. Every FTP cadet will serve as the “FTP Flight Commander” in the Spring 2023 semester.
 
 GMC cadets without a specific position and corresponding office symbol will use the following office symbols for appropriate use on documents such as MFRs.
 
-Cadets in Alpha Flight will use C/Rank FIRST MI. LAST/345 TRS/TFOA
+Cadets in Field Training Preparation Flight will use C/Rank FIRST MI. LAST/345 TOF/FTPC
 
-Cadets in Bravo Flight will use C/Rank FIRST MI. LAST/345 TRS/TFOB
+Cadets in Initial Military Training Flight will use C/Rank FIRST MI. LAST/345 TOF/IMTC
 
 GMC cadets without a specific position and corresponding office symbol will use the following office title for appropriate use on documents and emails for their signature block.
 
-Cadets in Alpha Flight will have the duty title of Alpha Flight Cadet.
+Cadets in Field Training Preparation Flight will have the duty title of FTP Flight Cadet.
 
-Cadets in Bravo Flight will have the duty title of Bravo Flight Cadet.
+Cadets in Initial Military Training Flight will have the duty title of IMT Flight Cadet.
 
 ## Practical Military Training (PMT)
 PMT is an AFROTC-sponsored training activity uniquely military or that Holm Center or AFROTC instructions or the Detachment Commander designates as PMT. There are two types of PMT: mandatory and voluntary. Each cadet attends mandatory PMT activities that are AFROTC sponsored training. These activities are uniquely military, meet the requirements in Title 10 U.S.C. 2109, Practical Military Training, and Detachment Commander designates as PMT. For the Spring 2023 term, mandatory PMT will include weekly LLAB, three weekly PT sessions, and weekly IMT or FTP. IAW AFROTCI 36-2011 V3, para 10.3.4.4., cadets will attend no more than six (6) hours (Monday through Sunday) of mandatory PMT activities each week. Deviations from the mandatory PMT maximum time limits will be coordinated and approved by the Detachment 345 Commander in advance. There are many activities cadets participate in that are not training and/or are not sponsored by the Detachment or Cadet Wing. Cadet Wing meetings will be held on a weekly basis for cadets in leadership or staff positions.
