@@ -268,18 +268,18 @@ Cadets with exemplary Physical Fitness Assessment scores will be granted “PT P
 
 The Cadet Honor Guard Representatives are responsible for Honor Guard membership by developing and publicizing this critical outreach program. The Detachment 345 Honor Guard supports local organizations including UMass Lowell by providing details for special events. Membership requires training outside of PMT hours.
 
-Extracurricular activities will be planned and executed throughout the semester. Possible activities include Cadet Wing morale events, community service events, incentive / orientation flights, 5K races, base visits, informative briefings, and recruiting events.
+Extracurricular activities will be planned and executed throughout the semester. Possible activities include Cadet Squadron morale events, community service events, incentive / orientation flights, 5K races, base visits, informative briefings, and recruiting events.
 
 **Non-Practical Military Training.** IAW AFROTCI 36-2011 V3, para 10.4, “There are many activities cadets participate in that are not training and/or are not sponsored by the detachment or cadet wing. Non-PMT activities include those events that are neither part of the scheduled coursework, part of the curricular activities, nor within the definition of PMT, but have social, public relations, or educational value. Do not use class or LLAB time for non-PMT activities. Examples of Non-PMT activities include, but are not limited to Arnold Air Society, Silver Wings, booster club, and intramural sports activities.” “10.4.1. AFROTC holds no medical or legal liability for non-PMT activities.” “10.4.2. The detachment commander may prohibit uniform wear for non-PMT activities.”
 
 There are many activities cadets participate in that are not training and/or are not sponsored by the Detachment or Cadet Squadron. Non-PMT activities include those events that are neither part of the scheduled coursework, part of the curricular activities, nor within the definition of PMT, but have social, public relations, or educational value. Cadets are encouraged to participate in as many opportunities as possible while being mindful not to over commit themselves at the expense of their academics. Care should be taken when non-PMT activities are announced or posted such that non-PMT activities are not confused with PMT. Activities such as cadet staff or flight meetings conducted outside LLAB are considered non-PMT, regardless of whether or not participants wear the AFROTC uniforms.
 
+Cadets are encouraged to participate in intramural sports with other members of the Cadet Wing. Because it is non-PMT, AFROTC does not hold liability for injuries that occur during intramural sports.
+
 AFROTC is not liable for non-PMT activities and is strictly voluntary. Injuries incurred during non-PMT activities could result in loss of AFROTC status and benefits.
 
 #### Arnold Air Society
 Arnold Air Society is a professional, honorary service organization that supports the Cadet Wing, serves the community, and further develops officer candidates. Membership into the Detachment 345 Captain John A. Ogonowski Squadron requires a cadet to complete a rigorous training course. AAS members have the opportunity to apply for additional scholarships, internships, and summer training programs that non-members cannot.
-
-Cadets are encouraged to participate in intramural sports with other members of the Cadet Wing. Because it is non-PMT, AFROTC does not hold liability for injuries that occur during intramural sports.
 
 Studying in groups for tests such as the AFOQT must be limited to those who have not taken the test before. Please see the following references for more information: AFMAN 36-2664, para 4.12.5, and AFMAN 36-2664 AFCM2021-01, para 4.12.5.3.8.
 
@@ -288,6 +288,13 @@ Cadets are not authorized to fundraise with the appearance of any Air Force, Spa
 While peaceful political activism is encouraged, cadets are not authorized to do so with the appearance of any Air Force or AFROTC sponsorship whether through social media or in-person events. Cadets are not to take part in demonstrations that result in violence on people or property. Participation in organizations promoting “extremist” ideology that encourage discrimination, hate, or harassment against others will not be tolerated. Please see the following reference for more information: AFI 51-508, para 2.4.1.17.
 
 ## Awards Criteria
+
+### GMC of the Month
+This award recognizes one GMC cadet who shows outstanding effort each month. Examples of achievements that may warrant consideration include, but are not limited to, outstanding performance in cadet staff positions, participation in voluntary events, and exhibiting exceptional wingman-ship. This award was established during the Fall 2021 semester and is unique to AFROTC Detachment 345.
+
+### POC of the Month
+This Award recognizes one POC cadet who shows outstanding effort each month. Examples of achievements that may warrant consideration include, but are not limited to, outstanding performance in cadet staff or leadership positions and taking initiative beyond their job description. This award was established during the Spring 2022 semester and is unique to AFROTC Detachment 345.
+
 ### Mid-Semester Flight Awards
 Flight awards, such as Honor Flight, Warrior Flight, and Patriot Flight will be given out mid-semester at LLAB #6 (scheduled on 28 February 2023). This will allow for receiving flights to show off their accomplishments thus far through the semester. Each flight award will be given based on the respective criteria:
 
@@ -296,12 +303,6 @@ This criteria for receiving Honor Flight are as follows: 20% GPA, 20% Cadre Inpu
 This criteria for receiving Warrior Flight are as follows: 25% PT Attendance, 25% PFA, 25% Warrior Board, and 25% Warrior Flight Competitions. All cadets in that flight will be authorized to wear the Warrior Flight Ribbon. The flight will be presented with the Warrior Flight pennant to display on their guidon.
 
 This award is unique to AFROTC Detachment 345. This criteria for receiving Patriot Flight are as follows: 25% Community Service Projects, 25% Recruiting Events, 25% Morale Events, and 25% Honor Guard Events. The flight will be presented with the Patriot Flight pennant to display on their guidon.
-
-### GMC of the Month
-This award recognizes one GMC cadet who shows outstanding effort each month. Examples of achievements that may warrant consideration include, but are not limited to, outstanding performance in cadet staff positions, participation in voluntary events, and exhibiting exceptional wingman-ship. This award was established during the Fall 2021 semester and is unique to AFROTC Detachment 345.
-
-### POC of the Month
-This Award recognizes one POC cadet who shows outstanding effort each month. Examples of achievements that may warrant consideration include, but are not limited to, outstanding performance in cadet staff or leadership positions and taking initiative beyond their job description. This award was established during the Spring 2022 semester and is unique to AFROTC Detachment 345.
 
 ### End-of-Semester Awards
 **AFROTC Meritorious Service Award.** Recognizes outstanding performance for single exemplary acts of achievement or term service. (Consider outstanding performance in leadership positions, project officer duties, training other cadets, or det service project leadership). Award to cadets each academic term to no more than 5 percent of the corps.
