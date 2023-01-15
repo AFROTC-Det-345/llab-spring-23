@@ -279,7 +279,7 @@ Cadets are encouraged to participate in intramural sports with other members of 
 AFROTC is not liable for non-PMT activities and is strictly voluntary. Injuries incurred during non-PMT activities could result in loss of AFROTC status and benefits.
 
 #### Arnold Air Society
-Arnold Air Society is a professional, honorary service organization that supports the Cadet Wing, serves the community, and further develops officer candidates. Membership into the Detachment 345 Captain John A. Ogonowski Squadron requires a cadet to complete a rigorous training course. AAS members have the opportunity to apply for additional scholarships, internships, and summer training programs that non-members cannot.
+Arnold Air Society is a professional, honorary service organization that supports the Cadet Squadron, serves the community, and further develops officer candidates. Membership into the Detachment 345 Captain John A. Ogonowski Squadron requires a cadet to complete a rigorous training course. AAS members have the opportunity to apply for additional scholarships, internships, and summer training programs that non-members cannot.
 
 Studying in groups for tests such as the AFOQT must be limited to those who have not taken the test before. Please see the following references for more information: AFMAN 36-2664, para 4.12.5, and AFMAN 36-2664 AFCM2021-01, para 4.12.5.3.8.
 
@@ -330,7 +330,7 @@ More information on awards and forms of cadet recognition can be found in AFROTC
 ### Evaluation
 Both GMC and POC will be evaluated twice during the Fall 2022 term using the Air Force Form 724 (Airman Comprehensive Assessment Worksheet). The AF Form 724 will continue to be exposed to both GMC and POC for education during feedback, but only POC will receive a physical rating in their position on the AF Form 724.
 
-Supervisors will be required to meet individually with each cadet subordinate to review and discuss the performance evaluation. In addition, the superior will use continuous written and verbal communication to provide feedback. The CW/CV will ensure standardized execution of staff level demonstrations of proper rating techniques IAW AS300 instructional materials and the CW/CC vision. The initial and final feedback sessions will occur as follows:
+Supervisors will be required to meet individually with each cadet subordinate to review and discuss the performance evaluation. In addition, the superior will use continuous written and verbal communication to provide feedback. The CSQ/DO will ensure standardized execution of staff level demonstrations of proper rating techniques IAW AS300 instructional materials and the CSQ/CC vision. The initial and final feedback sessions will occur as follows:
 
 For both GMC and POC, initial expectations and feedback must be completed before LLAB #4 (7 February 2023). End of term feedback must be completed before LLAB #12 (18 April 2023).
 
@@ -349,15 +349,15 @@ Prohibition from requiring hard work when temperatures exceed 90 degrees F.
 
 Use of Field Training Prep unique military decorum rules only during LLAB hours.
 
-Cadets in a relationship will not serve in the same chain of command. Cadet relationships must not detract from the order and discipline of the Cadet Wing.
+Cadets in a relationship will not serve in the same chain of command. Cadet relationships must not detract from the order and discipline of the Cadet Squadron.
 
 POC cadets will use a system that mirrors the Active-Duty disciplinary process to address poor performance, behavior, and attitudes failing to meet military retention standards.
 
 **First occurrence.** The cadet’s immediate supervisor will be responsible for having a "lights dimmed” counseling session to ensure the cadet understands their behavior, the policy, and expectations.
 
-**Second occurrence.** The cadet will have formal counseling with both their immediate supervisor and group commander (trainer/senior trainer in the case of a GMC cadet) to discuss a plan of action moving forward.
+**Second occurrence.** The cadet will have formal counseling with both their immediate supervisor and CSQ/DO (trainer/senior trainer in the case of a GMC cadet) to discuss a plan of action moving forward.
 
-**Third occurrence.** The cadet will have formal counseling with the CW/CC/CV.
+**Third occurrence.** The cadet will have formal counseling with the CSQ/CC.
 
 **Further occurrences.** If required, escalate the matter to the OFC.
 
