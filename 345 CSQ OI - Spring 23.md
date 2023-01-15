@@ -20,7 +20,7 @@ Certified by: AFROTC Det 345/OFC
   >10.2.13.3. The authorized positions for POC Cadets to include the organizational chart, leadership position designation, and duty descriptions.  
   >10.2.13.4. The plan for the Cadet Wing, or equivalent, to acquire and track attendance for all Mandatory PMT events.  
 
-This operating instruction (OI) is AFROTC Det 345's OPLAN equivalent and establishes policies for all cadets assigned to the 345th Cadet Squadron (345 CQS). This document has been substantially revised and must be thoroughly reviewed. Major changes include the consolidation of syllabus information, missed PMT procedures, and the change from a Wing to a Squadron. 
+This operating instruction (OI) is AFROTC Det 345's OPLAN equivalent and establishes policies for all cadets assigned to the 345th Cadet Squadron (345 CQS). This document also acts as AERO 0001 Spring 2023's syllabus and includes all necessary information IAW UMass - Lowell policy. This document has been substantially revised and must be thoroughly reviewed. Major changes include the consolidation of syllabus information, missed PMT procedures, and the change from a Wing to a Squadron. 
 
 **TABLE OF CONTENTS**
 - [Syllabus Information](#syllabus-information)
