@@ -6,9 +6,6 @@
   - [First Sergeant (345 CSQ/CCF) – C/3C Samantha Spaziano](#first-sergeant-345-csqccf--c3c-samantha-spaziano)
   - [Unit Training Manager (345 CSQ/UTM) – C/Lt Col Brandon Wing](#unit-training-manager-345-csqutm--clt-col-brandon-wing)
   - [Readiness and Plans Officer (345 CSQ/XP) – C/Lt Col Xi Xiao](#readiness-and-plans-officer-345-csqxp--clt-col-xi-xiao)
-- [RECRUITING AND RETENTION FLIGHT](#recruiting-and-retention-flight)
-  - [Recruiting \& Retention Flight Commander (345 CSQ/RRF) – C/Maj Bryan Hureau](#recruiting--retention-flight-commander-345-csqrrf--cmaj-bryan-hureau)
-  - [OIC, Crosstown Recruiting \& Retention (345 CSQ/RRFC) – C/Capt Evan Blatus](#oic-crosstown-recruiting--retention-345-csqrrfc--ccapt-evan-blatus)
 - [TRAINING OPERATIONS FLIGHT](#training-operations-flight)
   - [Training Operations Flight Commander (345 CSQ/TOF) – C/Maj Alex Monayer](#training-operations-flight-commander-345-csqtof--cmaj-alex-monayer)
   - [Flight Trainer (345 CSQ/TOFT) – C/Capt Cam Ellis, C/Capt Kosta Stavridis](#flight-trainer-345-csqtoft--ccapt-cam-ellis-ccapt-kosta-stavridis)
@@ -17,8 +14,11 @@
   - [Training Support Flight Commander (345 CSQ/TSF) – C/Maj Ryan Kless](#training-support-flight-commander-345-csqtsf--cmaj-ryan-kless)
   - [OIC, Communications Support (345 CSQ/TSFC) – C/Capt Kathryn Swineford](#oic-communications-support-345-csqtsfc--ccapt-kathryn-swineford)
   - [OIC, Logistics Support (345 CSQ/TSFL) – C/Capt Nikolaos Stavridis  ](#oic-logistics-support-345-csqtsfl--ccapt-nikolaos-stavridis-)
+- [RECRUITING AND RETENTION FLIGHT](#recruiting-and-retention-flight)
+  - [Recruiting \& Retention Flight Commander (345 CSQ/RRF) – C/Maj Bryan Hureau](#recruiting--retention-flight-commander-345-csqrrf--cmaj-bryan-hureau)
+  - [OIC, Crosstown Recruiting \& Retention (345 CSQ/RRFC) – C/Capt Evan Blatus](#oic-crosstown-recruiting--retention-345-csqrrfc--ccapt-evan-blatus)
 - [ADDITIONAL DUTIES](#additional-duties)
-- - [Health and Safety Officer - C/3C Joanna Gordon](#health-and-safety-officer)
+  - [Health and Safety Officer (345 CSQ/SE) - C/3C Joanna C. Gordon](#health-and-safety-officer-345-csqse---c3c-joanna-c-gordon)
   - [Honor Guard Representatives (345 CSQ/HG) – C/3C Kai Williams \& C/4C Sydney Selby](#honor-guard-representatives-345-csqhg--c3c-kai-williams--c4c-sydney-selby)
   - [Public Affairs, Outreach, and Recruiting Deputies – C/3C Connor Hall, C/3C Matthew Flores, C/4C Natalia Flores, C/4C Isabella Bouchard](#public-affairs-outreach-and-recruiting-deputies--c3c-connor-hall-c3c-matthew-flores-c4c-natalia-flores-c4c-isabella-bouchard)
   - [Civil Air Patrol Representative – C/3C Schuyler McCullough](#civil-air-patrol-representative--c3c-schuyler-mccullough)
@@ -28,7 +28,6 @@
   - [Communication Support Officers – C/3C Ryan Belanger, C/3C Nolan O’Rourke](#communication-support-officers--c3c-ryan-belanger-c3c-nolan-orourke)
   - [Material Management Officers – C/3C Brian Bui-Tran, C/3C Austin Bobb, C/3C Al Fox](#material-management-officers--c3c-brian-bui-tran-c3c-austin-bobb-c3c-al-fox)
 - [Major Events Committees](#major-events-committees)
-
 
 ## SQUADRON STAFF
 ### Squadron Commander (345 CSQ/CC) – C/Col John Augusta
